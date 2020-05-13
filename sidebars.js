@@ -1,5 +1,11 @@
 module.exports = {
   someSidebar: {
+    "📜 Manifesto": [
+      "manifesto/pillar-articles",
+      "manifesto/metafam-way",
+      "manifesto/perspective", 
+      "manifesto/founders"
+    ],
     "📕 Handbook": [
       "introduction",
       "handbook/play",
@@ -10,13 +16,6 @@ module.exports = {
       "handbook/achievements",
       "handbook/shilling"
     ],
-    "📜 Manifesto": [
-      "manifesto/pillar-articles",
-      "manifesto/metafam-way",
-      "manifesto/perspective", 
-      "manifesto/founders"
-    ],
-    
     "🗺 Roadmap": [
       "roadmap/tldr",
       "roadmap/phases",
