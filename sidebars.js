@@ -13,8 +13,7 @@ module.exports = {
     "📜 Manifesto": [
       "manifesto/pillar-articles",
       "manifesto/metafam-way",
-      "manifesto/perspective", 
-      "manifesto/founders"
+      "manifesto/metamanifesto",
     ],
     
     "🗺 Roadmap": ["roadmap/phases", "roadmap/alignment2021"],
