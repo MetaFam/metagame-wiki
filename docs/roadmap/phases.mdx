@@ -31,36 +31,86 @@ Defined "A Massive Online Coordination Game", or more simply "a sweet spot betwe
 
 <img alt="Seememe" src={useBaseUrl('img/seememe.png')} />
 
-### **The objectives are:**
+### SEED Phase Overview
+- We now have Initiatives for XP (manually added by Diamond Fam), but when boosting comes online anyone will be able to create Initiatives and all new Initiatives will have an initial weight of 0 unless boosted.
+- No minting of SEEDs outside of the SEED marketplace (bonding curve).
+- MetaGame funds (from Gitcoin) will be used to buy tokens on the SEED marketplace, and those SEEDs will be put in the MetaGame Commons Pool.
+- As people earn XP the SEEDs they receive will come from the MetaGame Commons Pool (say 100 SEEDs a week or something). 
+- No burning of SEEDs (boosting => MetaGame SEED pool).
+- Player profiles will require SEEDs to create (buy or earn SEEDS => MetaGame SEED pool). 
+- Membership dues (payable in SEEDs) will be required to continue participating in the MetaGame (buy or earn SEEDs => MetaGame SEED pool).
+- All MetaGame things will be denominated in SEEDs (community economy).
 
-- Think through and define all important components.
-- Build a website starting with the basic functionalities picture above.
-- Produce a ton of content about MetaGame.
+This has the effect of not creating a SEED printer that goes brrrrr, minimizing the surface of things that need to be governed, and creating a direct incentive (runway) for MetaGame to get to self sufficiency (more people buy SEEDs than the weekly SEED budget) before the SEED Commons Pool runs dry. 
 
-### **Modules to build:**
+### XP 
 
-Landing page, scrolling down to:
-- Know meme:
-    - A MetaGame wiki, specced and ready to be used as blueprints.
-    - A table of articles for understanding MetaGame
-- Players:
-    - A table of all the players of MetaGame
-        - Their current rank
-        - Drop down a few sentences:
-            - Why do I want MetaGame to be real
-            - What do I want from it
-            - What is my role in making it happen
-            - What do I usually do
-        - Links to their twitter, contact info or whatever they want to put on there
-    - A call to action and link to the application form.
-- Guilds:
-    - Same as for the players.
-- Roadmap — A page of text or a linear roadmap outlining the path, with a blurred out battle plan explaining the roadmap is just a glimpse: join to see everything.
-- Subscriptions:
-    - Newsletter, obviously
-    - Paid and work subscriptions
-        - Work out Seeds, achievements and other rewards for early contributors
-- Opening the MetaGame SEED market so that funders and founders can get real rewards for playing the MetaGame!
+#### Initiatives
+
+Explanation of what they are, why they matter, and how they work goes here.
+
+#### Payout Strategies
+
+There are 2 main strategies for SourceCred payouts: 
+- **Balanced:** looks at everyone's total lifetime XP, and will payout the dif between the person's XP/SEEDs (incentivizes exploration of new things that might not be immediately obvious). 
+- **Immediate:** proportional amount of XP you created that week (incentivizes exploitation of current rewards). 
+
+SourceCred uses an 80/20 strategy for Grain distributions (their version of XP): 
+- 80% from the balanced payout system
+- 20% from the immediate payout system.
+
+It's important to have both. If you only use balanced it would also create immediate rewards because new payouts have a huge delta between SEEDs (0) and XP (X), but... if there's a slow week those who keep contributing would actually get less XP in the future as more people start to contribute (probably due to the efforts of the people who contributed when no one was around). We need to incentivize people to contribute all the time, esp when no one else is contributing, so we need the immediate payouts as well. If we have both "balanced and immediate" payouts then people will get a bonus for contributing when no one else does.
+
+### SEEDs 
+
+SEEDs will be transferable. This makes them a community current of the MetaGame. 
+
+We will be collateralizing player profiles (similar to "MetaGame personal tokens," but more social than economic) with SEEDs. There will be a cost (denominated in SEEDs) to create a profile. You can earn those SEEDs via contributions, or you can buy them. Having a profile will unlock many features (TBD) in the MetaGame that would not available otherwise.
+
+We will not have a SEED printer that goes brrrrr. We will, however, use our current funding to buy up SEEDs as soon as our SEED market opens. These SEEDs will go into the MetaGame Commons Pool. This creates a SEED runway for the project. The goal is to get to self sufficiency (more people buy SEEDs than the weekly SEED budget) before the SEED Commons Pool runs dry. 
+
+By buying early into our own curve we create a price floor ([like this](https://www.delphidigital.io/so/0bN749TgA?cid=f6481749-8b0a-4fe9-acfa-343aca976f6e#/main)). Then as we chip away at that floor (allocating SEEDs from the commons pool to contributors) more organic price discovery will arise because more and more of the total supply will be on the market. As we're starting out (creating demand) SEED value will have the safety net of a price floor, but as we mature (hopefully having created demand) price discovery will become more organic.
+
+This means that we need to give people a reason to buy SEEDs. To start, everything in the MetaGame will be denominated in SEEDs. In addition, core parts of the MetaGame like profile creation, membership dues, and boosting will put SEEDs into the MetaGame Commons Pool. The goal is to get more people to do those things than our weekly SEED payouts. Then we will be "sustainable" (and maybe even profitable!).
+
+SEED trading
+- The SEED marketplace will be setup such that there is a fee to buy and sell against the curve. Much like Uniswap, a very small percentage of each trade will stay in the collateral pool. This means that in the limit traders actually support holders by boosting the price per token. 
+- There is no trading fee imposed from using SEEDs within the MetaGame economy (creating profiles, boosting, etc...). The fee is only to unlock the collateral in the SEED marketplace. This incentivizes people to use SEEDs within the MetaGame marketplace rather than cashing out or speculating. 
+
+MetaGame profile creation
+- 10 SEEDs to create profile (also gives you a month of game-play).
+- In the future SEEDs might also be used to collateralize player tokens in the MetaGame. 
+
+SEED membership dues  
+- 10 SEEDs a month to play MetaGame. 
+- If we have 1000 true players we'll be good.
+- Could do 3, 6, or 12 month subscriptions to provide better deals and more stability.
+
+Boosting
+- Use SEEDs to buy "boosting points."
+- SEEDS go to the MetaGame Commons Pool.
+- Boosting points can be used to boost things in the XP world. 
+
+> Note: once the SEED phase ends we're not going to be minting SEEDs so then their value will increase even more. 
+
+Now, you might be wondering if making SEEDs so gosh darn valuable is going to attract a bunch of snake-oil selling weasels. Well, think about this: 
+- The only way to get SEEDs is to earn or buy them.
+- If you buy SEEDs you support the MetaGame economy. Then MetaGame contributors have a market to cash out against. This puts speculators in an awkward position of being both taxed on trading and propping up the market for contributors. 
+- If you earn SEEDs you're contributing to MetaGame. This is because the only way to earn SEEDs is to do things that earn XP. If the XP system is setup correctly you'll be creating value by trying to earn XP. People will either become indifferent to gaming the system or will just focus on creating value.  
+
+### Governance
+
+Beyond aligning incentives and creating a durable community currency, keeping SEED minting on the curve also simplifies governance. Once we know how many SEEDs we have to mint we can better estimate how many SEEDs we want to distribute per week. This simplifies the payout strategy and governance of said payout strategy.
+
+In this way, no one has the power to arbitrarily mint scarce resources (SEEDs) out of thin air. Now that no one is minting SEEDs no one has to burn them either. Everyone's on the same playing field. No god mode.  
+
+This only leaves two things to govern:
+- The SEED allocation strategy (SourceCred weights, Initiatives, weekly allocation budget).
+- The DAO params (we don't expect these to change).
+
+In the SEED phase of MetaGame the SEED allocation strategy will be managed by the Diamond Fam. While we might change some of the SourceCred weights and/or upgrade our implementation of the algorithm, we do not expect to change the SEED allocation budget.  
+
+And of course, if things aren't going in a positive direction the community can always fork. 
 
 ## The Road to Beta: Memebryo
 
