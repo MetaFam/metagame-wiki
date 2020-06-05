@@ -1,6 +1,8 @@
 ﻿
 # Srsly tho, WTF is MetaGame?!
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nf9njHC/03b3b0d59c869dd87158afb509929f91.png" alt="03b3b0d59c869dd87158afb509929f91" border="0"></a>
+
 ## A Crown Jewel of Meme Driven Development
 ETH is money, Ethereum is a State, dApps are public utilities; we are global citizens.
 
@@ -13,6 +15,7 @@ We are here because we believe there is an opportunity to do things better, and 
 > _**“Metagame**, or **game about the game**, is any approach to a game that transcends or operates outside of the prescribed rules of the game, uses external factors to affect the game, or goes beyond the supposed limits or environment set by the game.”_
 
 ## A Virtual Schelling Point
+
 <a href="https://ibb.co/JjM29mJ"><img src="https://i.ibb.co/ch7tjkn/octoshirt.png" alt="octoshirt" border="0"></a>
 
 Before trying to define the specifics of what we are to do; we need a place for this community of like-minded people to gather, share knowledge & get empowered.
