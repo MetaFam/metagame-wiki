@@ -1,4 +1,4 @@
-# Srsly tho, WTF is MetaGame?!
+# WTF is MetaGame?!
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nf9njHC/03b3b0d59c869dd87158afb509929f91.png" alt="03b3b0d59c869dd87158afb509929f91" border="0"></a>
 
