@@ -18,8 +18,7 @@ module.exports = {
       "handbook/xp",
       "handbook/play",
       "handbook/become-a-founder-of-metagame",
-      "handbook/phases-of-metagame",
-      "roadmap/phases"
+      "handbook/phases-of-metagame"
     ],
     "😈 Players": [
       "roadmap/players-of-metagame",
