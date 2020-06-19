@@ -12,7 +12,7 @@ const features = [
     imageUrl: "assets/icon-dark.png",
     description: (
       <>
-        Join MetaGame as a player & get help forging your path. 
+        Join as a player. 
       </>
     )
   },
@@ -21,16 +21,16 @@ const features = [
     imageUrl: "assets/icon-plain.png",
     description: (
       <>
-        Join MetaGame as a project & get support building the future.
+        Join as a project.
       </>
     )
   },
   {
-    title: <>Third Patrons</>,
+    title: <>For Patrons</>,
     imageUrl: "assets/icon-glow.png",
     description: (
       <>
-        Join the future by supporting MetaGame.
+        Join as a patron.
       </>
     )
   }
@@ -51,7 +51,7 @@ function Feature({ imageUrl, title, description }) {
         className="button button--primary button--outline"
         to={useBaseUrl("docs/introduction")}
       >
-        Call To Action
+        Through here!
       </Link>
     </div>
   );
