@@ -10,18 +10,21 @@ const features = [
   {
     title: "For Players",
     imageUrl: "assets/icon-dark.png",
+    description: "",
     linkText: "Through here",
     linkTo: "docs/handbook/for-players",
   },
   {
     title: "For Guilds",
     imageUrl: "assets/icon-plain.png",
+    description: "",
     linkText: "Through here",
     linkTo: "docs/handbook/for-guilds",
   },
   {
     title: "For Lurkers",
     imageUrl: "assets/icon-glow.png",
+    description: "",
     linkText: "Through here",
     linkTo: "docs/handbook/for-investors",
   },
