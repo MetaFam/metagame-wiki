@@ -1,5 +1,5 @@
 ---
-title: 👽 How to Become a Player of MetaGame
+title: 👽 How to Play MetaGame
 ---
 # How to Become a Player of MetaGame
 
@@ -8,7 +8,7 @@ So you've been tumbling down this rabbit hole & are wondering how to actually st
 Well alright! Let's get you geared up! :cowboy_hat_face:
 
 First thing to know here is that MetaGame is a *choose-your-own-adventure* game. 
-The quests below are the **easiest way for you to join, contribute & earn some XP** - but completing them is not mandatory. You are free to go and start playing any of the open roles listed in the next article, or start contributing directly to one of ongoing raids displayed on the battlefield.
+The quests below are the **easiest way for you to join, contribute & earn some [XP](https://wiki.metagame.wtf/docs/handbook/xp)** - but completing them is not mandatory. You are free to go and start playing any of the open roles listed in the next article, or start contributing directly to one of [ongoing raids](https://wiki.metagame.wtf/docs/handbook/navigation-board) displayed on the battlefield.
 
 ## 🎩 Down the Rabbit Hole You Go 🐇 
 ![](https://www.thesixthaxis.com/wp-content/uploads/2020/03/DowntheRabbitHole-Hero500.jpg)
