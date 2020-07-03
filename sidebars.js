@@ -28,6 +28,7 @@ module.exports = {
     "⚔️ Guilds": [
       "handbook/for-guilds",
       "Guilding/guilds-of-metagame",
+      "Guilding/house-of-metafam",
       "Guilding/guilding-101",
       "Guilding/building-successful-teams",
     ],
