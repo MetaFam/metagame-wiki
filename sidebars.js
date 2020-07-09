@@ -1,5 +1,18 @@
 module.exports = {
   someSidebar: {
+    "🐣 Start Here": [
+      "Players/start-here",
+      "handbook/why-play",
+      "handbook/how-to-play",
+      "handbook/where-to-start",
+    ],
+    "🗺 The MetaVerse": [
+      "Players/explore-the-metaverse",
+      "Players/local-knowledge",
+      "Players/leaderboard",
+      "handbook/navigation-board",
+      "Guilding/guilds-of-metagame",
+    ],
     "🤨 WTF is MetaGame?": [
       "introduction",
       "handbook/in-search-of-commons-that-scale",
@@ -10,7 +23,7 @@ module.exports = {
       "handbook/narrative-2-a-web-of-opportunity",
       "manifesto/metafam-way",
     ],
-    "🧐 How does it work?": [
+    "🧐 How Does MetaGame Work": [
       "handbook/how-metagame-works",
       "handbook/xp",
       "handbook/become-a-founder-of-metagame",
@@ -19,25 +32,22 @@ module.exports = {
       "handbook/roles-in-metagame",
       "handbook/navigation-board"
     ],
-    "😈 Players": [
-      "handbook/for-players",
-      "Players/players-of-metagame",
-      "Players/leaderboard",
-      "handbook/for-investors",
-    ],
     "⚔️ Guilds": [
       "handbook/for-guilds",
-      "Guilding/guilds-of-metagame",
       "Guilding/guilding-101",
       "Guilding/building-successful-teams",
     ],
-    "🌳 Other Stuff": [
+    "🐳 Patrons": [
+      "handbook/for-investors",
+    ],
+    
+    "🌳 Other": [
       "resources/graphics",
       "resources/art",
       "resources/memes",
       "resources/talks",
       "roadmap/alignment2021",
     ],
-    "About The Wiki": ["style-guide", "mdx"],
+    // "About The Wiki": ["style-guide", "mdx"],
   },
 };

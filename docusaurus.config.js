@@ -1,7 +1,7 @@
 module.exports = {
   title: "MetaGame Wiki",
   tagline:
-    "Build the future you want to live in.",
+    "Build the future you want to live in.  MetaGame is a society of global citizens with the aim of outgrowing nation states & zero-sum games of old economic thinking by building and promoting a new vision of community oriented organization, governance, and collaboration primitives.",
   url: "https://wiki.metagame.wtf",
   baseUrl: "/",
   favicon: "img/mg-icon.png",
@@ -16,35 +16,49 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/introduction",
-          label: "🤨 WTF is MetaGame?",
+          to: "docs/handbook/xp",
+          label: "🐣 Start Here",
           position: "left",
         },
         {
-          to: "docs/handbook/how-metagame-works",
-          label: "🧐 How does it work?",
+          to: "docs/Players/explore-the-metaverse",
+          label: "🗺 Explore the MetaVerse",
           position: "left",
         },
-        {
-          to: "docs/roadmap/players-of-metagame",
-          label: "😈 Players",
-          position: "left",
-        },
-        {
-          to: "docs/Guilding/guilds-of-metagame",
-          label: "⚔️ Guilds",
-          position: "left",
-        },
-        {
-          to: "docs/resources/graphics",
-          label: "🌳 Other Stuff",
-          position: "left",
-        },
-        {
-          href: "https://metagame.wtf",
-          label: "Home",
-          position: "right",
-        },
+        // {
+        //   to: "docs/handbook/navigation-board",
+        //   label: "👣 Join a Quest",
+        //   position: "left",
+        // },
+        // {
+        //   to: "docs/introduction",
+        //   label: "🤨 WTF is MetaGame?",
+        //   position: "left",
+        // },// {
+        //   to: "docs/handbook/how-metagame-works",
+        //   label: "🧐 How does it work?",
+        //   position: "left",
+        // },
+        // {
+        //   to: "docs/roadmap/players-of-metagame",
+        //   label: "😈 Players",
+        //   position: "left",
+        // },
+        // {
+        //   to: "docs/Guilding/guilds-of-metagame",
+        //   label: "⚔️ Guilds",
+        //   position: "left",
+        // },
+        // {
+        //   to: "docs/resources/graphics",
+        //   label: "🌳 Other Stuff",
+        //   position: "left",
+        // },
+        // {
+        //   href: "https://metagame.wtf",
+        //   label: "Home",
+        //   position: "right",
+        // },
       ],
     },
     footer: {
