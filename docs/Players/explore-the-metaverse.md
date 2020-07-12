@@ -1,5 +1,5 @@
 ---
-title: 🏡 Enter House of MetaFam
+title: 🏡 Enter the House of MetaFam
 ---
 ## House of MetaFam
 Welcome to the guild house of MetaFam, you should find here anything useful for navigating MetaGame.
