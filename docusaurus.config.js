@@ -1,7 +1,7 @@
 module.exports = {
   title: "MetaGame Wiki",
   tagline:
-    "Build the future you want to live in.  MetaGame is a society of global citizens with the aim of outgrowing nation states & zero-sum games of old economic thinking by building and promoting a new vision of community oriented organization, governance, and collaboration primitives.",
+    "Build the future you want to live in.",
   url: "https://wiki.metagame.wtf",
   baseUrl: "/",
   favicon: "img/mg-icon.png",
@@ -21,8 +21,8 @@ module.exports = {
           position: "left",
         },
         {
-          to: "docs/Players/explore-the-metaverse",
-          label: "🗺 Explore the MetaVerse",
+          to: "docs/Players/enter-the-house-of-metafam",
+          label: "🗺 Explore MetaGame",
           position: "left",
         },
         // {
