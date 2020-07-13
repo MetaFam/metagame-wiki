@@ -6,8 +6,8 @@ module.exports = {
       "handbook/how-to-play",
       "handbook/where-to-start",
     ],
-    "🗺 The MetaVerse": [
-      "Players/explore-the-metaverse",
+    "🗺 The MetaGame": [
+      "Players/enter-the-house-of-metafam",
       "Players/local-knowledge",
       "Players/leaderboard",
       "handbook/navigation-board",
