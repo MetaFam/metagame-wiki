@@ -1,17 +1,12 @@
 module.exports = {
   someSidebar: {
     "🐣 Start Here": [
-      "Players/start-here",
+      "handbook/for-players",
+      "handbook/for-guilds",
+      "handbook/for-investors",
       "handbook/why-play",
       "handbook/how-to-play",
       "handbook/where-to-start",
-    ],
-    "🗺 The MetaGame": [
-      "Players/enter-the-house-of-metafam",
-      "Players/local-knowledge",
-      "Players/leaderboard",
-      "handbook/navigation-board",
-      "Guilding/guilds-of-metagame",
     ],
     "🤨 WTF is MetaGame?": [
       "introduction",
@@ -23,22 +18,24 @@ module.exports = {
       "handbook/narrative-2-a-web-of-opportunity",
       "manifesto/metafam-way",
     ],
-    "🧐 How Does MetaGame Work": [
+    "🗺 Enter MetaGame": [
+      "Players/enter-the-house-of-metafam",
+      "Players/local-knowledge",
+      "handbook/how-to-become-a-player",
+      "handbook/roles-in-metagame",
+      "handbook/navigation-board",
+      "Players/leaderboard",
+      "Guilding/guilds-of-metagame",
+    ],
+    "🧐 How Does It Work": [
       "handbook/how-metagame-works",
       "handbook/xp",
       "handbook/become-a-founder-of-metagame",
       "handbook/phases-of-metagame",
-      "handbook/how-to-become-a-player",
-      "handbook/roles-in-metagame",
-      "handbook/navigation-board"
     ],
-    "⚔️ Guilds": [
-      "handbook/for-guilds",
+    "⚔️ Guilding": [
       "Guilding/guilding-101",
       "Guilding/building-successful-teams",
-    ],
-    "🐳 Patrons": [
-      "handbook/for-investors",
     ],
     
     "🌳 Other": [
