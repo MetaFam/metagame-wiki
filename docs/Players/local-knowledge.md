@@ -1,5 +1,5 @@
 ---
-title: 😎 How to Thrive in MetaVille
+title: 😎 The Process
 ---
 # Local Knowledge (FAQ)
 
