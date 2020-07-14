@@ -7,13 +7,13 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
 const features = [
-  // {
-  //   title: "Players",
-  //   imageUrl: "assets/icon-plain.png",
-  //   description: "",
-  //   linkText: "Through here",
-  //   linkTo: "docs/handbook/for-players",
-  // },
+   {
+     title: "Players",
+     imageUrl: "assets/icon-plain.png",
+     description: "",
+     linkText: "Through here",
+     linkTo: "docs/handbook/for-players",
+   },
   {
     title: "Guilds",
     imageUrl: "assets/icon-dark.png",
