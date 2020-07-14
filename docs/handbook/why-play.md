@@ -13,9 +13,3 @@ Regardless of whether you only just started tumbling down this Web3 rabbit hole,
 - Want to become a part of something bigger & own a piece of it.
 - Need a little help in making sense of the Web3 space & finding their path forward.
 - We believe the current set of technologies allow us to revolutionize the world from the comfort of our living rooms; are you ready to try?
-
-## Why play?
-### 1. We need your help.
-### 2. You get rewarded for doing so.
-### 3. Get to join a community of like-minded thinkers and doers.
-### 4. We're stronger together.
