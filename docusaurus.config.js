@@ -22,14 +22,14 @@ module.exports = {
         },
         {
           to: "docs/Players/enter-the-house-of-metafam",
-          label: "🗺 Explore MetaGame",
+          label: "🗺 Enter MetaGame",
           position: "left",
         },
-        // {
-        //   to: "docs/handbook/navigation-board",
-        //   label: "👣 Join a Quest",
-        //   position: "left",
-        // },
+         {
+           to: "docs/handbook/navigation-board",
+           label: "👣 Join a Quest",
+           position: "left",
+         },
         // {
         //   to: "docs/introduction",
         //   label: "🤨 WTF is MetaGame?",
