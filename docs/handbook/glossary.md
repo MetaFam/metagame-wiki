@@ -52,7 +52,7 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DApp
 
-<!-- TODO -->
+Decentralized apllications (dapps) are web applications powered by smart contracts. Instead of using centralized servers or databases, dapps rely on the blockchain as their backends for program logic and storage.
 
 ## Decentralized Factory
 
