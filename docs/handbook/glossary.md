@@ -130,7 +130,7 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## MetaMask
 
-<!-- TODO -->
+An Ethereum wallet available as both a [web browser extension and mobile application](https://metamask.io/download.html) used to interface with the blockchain and dapps.
 
 ## MetaMedia
 
