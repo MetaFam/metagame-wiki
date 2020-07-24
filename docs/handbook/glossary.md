@@ -78,7 +78,7 @@ Decentralized apllications (dapps) are web applications powered by smart contrac
 
 ## ETH
 
-<!-- TODO -->
+Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used to pay transaction and computation fees on the network.
 
 ## Ethereum
 
