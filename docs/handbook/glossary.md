@@ -178,9 +178,9 @@ An Ethereum wallet available as both a [web browser extension and mobile applica
 
 ## (MetaGame) Roles
 
-<!-- TODO -->
+Roles are sets of behaviours that any MetaGame player can take on. Anyone is free to play multiple roles at any time. Passive roles are more like "wanted behaviours", while main roles require more direct and deliberate actions.
 
-<!---------------- ⭐️  S  ⭐️ ---------------->
+See [Roles in MetaGame](roles-in-metagame.md)
 
 ## Seed
 
