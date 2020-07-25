@@ -84,7 +84,7 @@ Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used 
 
 An open source blockchain and community-built technology behind the cryptocurrency Ether (ETH) and an active ecosystem of decentralized applications.
 
-*Alt.*: [Ethereum](https://github.com/ethereum) the Ethereum organization on GitHub
+*Alt.*: [Ethereum](https://github.com/ethereum) organization on GitHub
 
 ## Gamification
 
