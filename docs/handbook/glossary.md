@@ -212,9 +212,7 @@ An Ethereum wallet available as both a [web browser extension and mobile applica
 
 ## Web3
 
-<!-- TODO -->
-
-<!---------------- ⭐️  X  ⭐️ ---------------->
+An ecosystem of decentralized and peer-to-peer protocols, applications, and technologies seeking solutions to the current internet's pitfalls such as centralization, lack of data privacy, and rampant advertising.
 
 ## XP
 
