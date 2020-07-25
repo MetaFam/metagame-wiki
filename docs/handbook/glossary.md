@@ -92,6 +92,8 @@ An open source blockchain and community-built technology behind the cryptocurren
 
 The process of incentivizing seemingly mundane tasks with feelings of epic acomplishment and meaning.
 
+See [article](https://metagame.substack.com/p/metagame-octalysis-framework-3) for more details.
+
 ## GitHub
 
 <!-- TODO -->
