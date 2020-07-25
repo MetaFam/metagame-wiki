@@ -64,7 +64,9 @@ Decentralized apllications (dapps) are web applications powered by smart contrac
 
 ## Discord
 
-<!-- TODO -->
+A proprietary VoIP application used for creating and organizing communities.
+
+*Alt.*: [Discord website](https://discord.com)
 
 ## Discourse
 
