@@ -22,11 +22,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Aragon
 
-<!-- TODO -->
+A generalized framework for creating DAOs.
 
-<!---------------- ⭐️  B  ⭐️ ---------------->
-
-<!---------------- ⭐️  C  ⭐️ ---------------->
+See [Aragon website](https://aragon.org/)
 
 ## Colony
 
