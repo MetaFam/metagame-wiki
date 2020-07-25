@@ -38,7 +38,7 @@ See [Aragon website](https://aragon.org/)
 
 ## DAO
 
-<!-- TODO -->
+Decentralized Autonomous Organizations (DAOs) are entities whose bylaws are encoded in smart contracts, so that all participants have assurance about the rules of the game. They allow diverse groups of people across the planet to manage resources and make decisions with minimal trust in one another.
 
 ## DAOHaus
 
