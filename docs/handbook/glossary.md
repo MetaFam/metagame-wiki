@@ -90,7 +90,7 @@ An open source blockchain and community-built technology behind the cryptocurren
 
 ## Gamification
 
-<!-- TODO -->
+The process of incentivizing seemingly mundane tasks with feelings of epic acomplishment and meaning.
 
 ## GitHub
 
