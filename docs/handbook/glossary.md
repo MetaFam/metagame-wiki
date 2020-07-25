@@ -64,7 +64,7 @@ Decentralized finance (DeFi) is a financial ecosystem built upon smart contracts
 
 A proprietary VoIP application used for creating and organizing communities.
 
-*Alt.*: [Discord website](https://discord.com)
+See [Discord website](https://discord.com)
 
 ## Discourse
 
