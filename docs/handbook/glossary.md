@@ -50,7 +50,7 @@ Decentralized Autonomous Organizations (DAOs) are entities whose bylaws are enco
 
 ## DApp
 
-Decentralized apllications (dapps) are web applications powered by smart contracts. Instead of using centralized servers or databases, dapps rely on the blockchain as their backends for program logic and storage.
+Decentralized applications (dapps) are web applications powered by smart contracts. Instead of using centralized servers or databases, dapps rely on the blockchain as their backends for program logic and storage.
 
 ## Decentralized Factory
 
@@ -88,7 +88,7 @@ An open source blockchain and community-built technology behind the cryptocurren
 
 ## Gamification
 
-The process of incentivizing seemingly mundane tasks with feelings of epic acomplishment and meaning.
+The process of incentivizing seemingly mundane tasks with feelings of epic accomplishment and meaning.
 
 See [article](https://metagame.substack.com/p/metagame-octalysis-framework-3) for more details.
 
