@@ -22,7 +22,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Aragon
 
-<!-- TODO -->
+A generalized framework for creating DAOs.
+
+See [Aragon website](https://aragon.org/)
 
 <!---------------- ⭐️  B  ⭐️ ---------------->
 
@@ -40,7 +42,7 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DAO
 
-<!-- TODO -->
+[Decentralized Autonomous Organizations](https://wikipedia.org/wiki/Decentralized_autonomous_organization) (DAOs) are entities whose bylaws are encoded in smart contracts, so that all participants have assurance about the rules of the game. They allow diverse groups of people across the planet to manage resources and make decisions with minimal trust in one another.
 
 ## DAOHaus
 
@@ -52,7 +54,7 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DApp
 
-<!-- TODO -->
+Decentralized applications (dapps) are web applications powered by smart contracts. Instead of using centralized servers or databases, dapps rely on the blockchain as their backends for program logic and storage.
 
 ## Decentralized Factory
 
@@ -60,11 +62,14 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DeFi
 
-<!-- TODO -->
+Decentralized finance (DeFi) is a financial ecosystem built upon smart contracts and peer-to-peer protocols (primarily Ethereum), enabling financial activities such as lending, derivatives, and trading without the authority of a centralized entity.
 
 ## Discord
 
-<!-- TODO -->
+A proprietary VoIP application used for creating and organizing communities.
+
+See [Discord website](https://discord.com)
+
 
 ## Discourse
 
@@ -78,11 +83,13 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## ETH
 
-<!-- TODO -->
+Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used to pay transaction and computation fees on the network.
 
 ## Ethereum
 
-<!-- TODO -->
+An open source blockchain and community-built technology behind the cryptocurrency Ether (ETH) and an active ecosystem of decentralized applications.
+
+*Alt.*: [Ethereum](https://github.com/ethereum) organization on GitHub
 
 <!---------------- ⭐️  F  ⭐️ ---------------->
 
@@ -90,7 +97,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Gamification
 
-<!-- TODO -->
+The process of incentivizing seemingly mundane tasks with feelings of epic accomplishment and meaning.
+
+See [article](https://metagame.substack.com/p/metagame-octalysis-framework-3) for more details.
 
 ## GitHub
 
@@ -132,7 +141,7 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## MetaMask
 
-<!-- TODO -->
+An Ethereum wallet available as both a [web browser extension and mobile application](https://metamask.io/download.html) used to interface with the blockchain and dapps.
 
 ## MetaMedia
 
@@ -178,7 +187,9 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## (MetaGame) Roles
 
-<!-- TODO -->
+Roles are sets of behaviours that any MetaGame player can take on. Anyone is free to play multiple roles at any time. Passive roles are more like "wanted behaviours", while main roles require more direct and deliberate actions.
+
+See [Roles in MetaGame](roles-in-metagame.md)
 
 <!---------------- ⭐️  S  ⭐️ ---------------->
 
@@ -212,7 +223,7 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## Web3
 
-<!-- TODO -->
+An ecosystem of decentralized and peer-to-peer protocols, applications, and technologies seeking solutions to the internet's current pitfalls such as centralization, lack of data privacy, and rampant advertising.
 
 <!---------------- ⭐️  X  ⭐️ ---------------->
 
