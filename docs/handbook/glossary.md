@@ -26,6 +26,10 @@ A generalized framework for creating DAOs.
 
 See [Aragon website](https://aragon.org/)
 
+<!---------------- ⭐️  B  ⭐️ ---------------->
+
+<!---------------- ⭐️  C  ⭐️ ---------------->
+
 ## Colony
 
 <!-- TODO -->
@@ -38,7 +42,7 @@ See [Aragon website](https://aragon.org/)
 
 ## DAO
 
-Decentralized Autonomous Organizations (DAOs) are entities whose bylaws are encoded in smart contracts, so that all participants have assurance about the rules of the game. They allow diverse groups of people across the planet to manage resources and make decisions with minimal trust in one another.
+[Decentralized Autonomous Organizations](https://wikipedia.org/wiki/Decentralized_autonomous_organization) (DAOs) are entities whose bylaws are encoded in smart contracts, so that all participants have assurance about the rules of the game. They allow diverse groups of people across the planet to manage resources and make decisions with minimal trust in one another.
 
 ## DAOHaus
 
@@ -84,7 +88,13 @@ Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used 
 
 An open source blockchain and community-built technology behind the cryptocurrency Ether (ETH) and an active ecosystem of decentralized applications.
 
+See [Ethereum website](https://ethereum.org/)
+
 *Alt.*: [Ethereum](https://github.com/ethereum) organization on GitHub
+
+<!---------------- ⭐️  F  ⭐️ ---------------->
+
+<!---------------- ⭐️  G  ⭐️ ---------------->
 
 ## Gamification
 
@@ -180,7 +190,9 @@ An Ethereum wallet available as both a [web browser extension and mobile applica
 
 Roles are sets of behaviours that any MetaGame player can take on. Anyone is free to play multiple roles at any time. Passive roles are more like "wanted behaviours", while main roles require more direct and deliberate actions.
 
-See [Roles in MetaGame](roles-in-metagame.md)
+See [Roles in MetaGame](/docs/handbook/roles-in-metagame)
+
+<!---------------- ⭐️  S  ⭐️ ---------------->
 
 ## Seed
 
@@ -213,6 +225,8 @@ See [Roles in MetaGame](roles-in-metagame.md)
 ## Web3
 
 An ecosystem of decentralized and peer-to-peer protocols, applications, and technologies seeking solutions to the internet's current pitfalls such as centralization, lack of data privacy, and rampant advertising.
+
+<!---------------- ⭐️  X  ⭐️ ---------------->
 
 ## XP
 
