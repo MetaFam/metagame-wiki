@@ -89,6 +89,8 @@ Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used 
 
 An open source blockchain and community-built technology behind the cryptocurrency Ether (ETH) and an active ecosystem of decentralized applications.
 
+See [Ethereum website](https://ethereum.org/)
+
 *Alt.*: [Ethereum](https://github.com/ethereum) organization on GitHub
 
 <!---------------- ⭐️  F  ⭐️ ---------------->
@@ -189,7 +191,7 @@ An Ethereum wallet available as both a [web browser extension and mobile applica
 
 Roles are sets of behaviours that any MetaGame player can take on. Anyone is free to play multiple roles at any time. Passive roles are more like "wanted behaviours", while main roles require more direct and deliberate actions.
 
-See [Roles in MetaGame](roles-in-metagame.md)
+See [Roles in MetaGame](/docs/handbook/roles-in-metagame)
 
 <!---------------- ⭐️  S  ⭐️ ---------------->
 
