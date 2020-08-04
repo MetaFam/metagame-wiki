@@ -38,7 +38,7 @@ See [Colony website](https://colony.io/)
 
 ## Commons
 
-<!-- TODO -->
+The [commons](https://wikipedia.org/wiki/Commons) are the shared resources accessible to all members of a society or community.
 
 <!---------------- ⭐️  D  ⭐️ ---------------->
 
