@@ -74,7 +74,9 @@ See [Discord website](https://discord.com)
 
 ## Discourse
 
-<!-- TODO -->
+An open-source discussion platform with a focus on constructive conversation.
+
+See [Discourse website](https://www.discourse.org/)
 
 ## Doughnut Economics
 
