@@ -32,7 +32,9 @@ See [Aragon website](https://aragon.org/)
 
 ## Colony
 
-<!-- TODO -->
+A framework for creating DAOs with a focus on reputation and collaboration.
+
+See [Colony website](https://colony.io/)
 
 ## Commons
 
