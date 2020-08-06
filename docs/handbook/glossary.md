@@ -110,7 +110,9 @@ See [article](https://metagame.substack.com/p/metagame-octalysis-framework-3) fo
 
 ## GitHub
 
-<!-- TODO -->
+A Git repository hosting service. It provides a web-based interface to host and review code, manage projects, and build software.
+
+See [GitHub website](https://github.com/)
 
 ## Guild
 
