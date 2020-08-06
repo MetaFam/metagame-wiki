@@ -80,7 +80,9 @@ See [Discourse website](https://www.discourse.org/)
 
 ## Doughnut Economics
 
-<!-- TODO -->
+A visual economic framework for sustainable development shaped like a doughnut.
+
+See [Wikipedia](https://wikipedia.org/wiki/Doughnut_(economic_model))
 
 <!---------------- ⭐️  E  ⭐️ ---------------->
 
