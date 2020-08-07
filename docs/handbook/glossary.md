@@ -124,7 +124,9 @@ See [GitHub website](https://github.com/)
 
 ## Ikigai
 
-<!-- TODO -->
+The Japanese concept of having a sense of purpose and meaning in life. It roughly translates to "a reason for being".
+
+See [Wikipedia](https://wikipedia.org/wiki/Ikigai)
 
 <!---------------- ⭐️  J  ⭐️ ---------------->
 
