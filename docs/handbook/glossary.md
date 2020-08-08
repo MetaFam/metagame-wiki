@@ -234,7 +234,8 @@ See [Roles in MetaGame](/docs/handbook/roles-in-metagame)
 
 ## Web3
 
-An ecosystem of decentralized and peer-to-peer protocols, applications, and technologies seeking solutions to the internet's current pitfalls such as centralization, lack of data privacy, and rampant advertising.
+The problem with the Web2 era was that the internet got monopolized by huge centralized services farming humans for data & attention.
+The promise of [Web3](http://blockchainhub.net/web3-decentralized-web/) is the internet of decentralized peer-to-peer protocols, platforms & applications; tokenized & in the hands of their users.
 
 <!---------------- ⭐️  X  ⭐️ ---------------->
 
