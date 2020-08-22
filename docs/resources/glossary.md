@@ -141,7 +141,7 @@ See [Wikipedia](https://wikipedia.org/wiki/Ikigai)
 <!---------------- ⭐️  M  ⭐️ ---------------->
 
 ## Meme
-<!-- An element of a culture or system of behaviour passed from one individual to another by imitation or other non-genetic means. Or IRL an image, video, piece of text, etc., typically humorous in nature, that is copied and spread rapidly by Internet users, often with slight variations. -->
+
 <!-- TODO -->
 
 ## MetaCartel
