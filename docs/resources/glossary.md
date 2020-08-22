@@ -174,7 +174,7 @@ See [Moloch DAO website](https://www.molochdao.com/)
 <!---------------- ⭐️  N  ⭐️ ---------------->
 
 ## `npm`
-`npm` (Node Package Manager) is a package manager for Node.js projects that are modular in nature and can be used within other projects. There is an online repository of opensource projects / packages which can be accesed via a command-line tool for installing & managing these packages within your own projects.
+`npm` (Node Package Manager) is a package manager for Node.js projects that are modular in nature and can be used within other projects. There is an online repository of opensource projects / packages which can be accesed via a command-line tool for installing and managing these packages within your own projects.
 
 See [What is NPM?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/)
 <!-- TODO -->
