@@ -17,7 +17,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 <!---------------- ⭐️  A  ⭐️ ---------------->
 
 ## (MetaFam) Alignment
+A conference without all the boring bits but *all* of the fun and interesting bits like workshops, hacks and after-parties - a coming-together of MetaFam IRL.
 
+See [MetaFam Alignment 2021](https://wiki.metagame.wtf/docs/resources/alignment2021)
 <!-- TODO -->
 
 ## Aragon
