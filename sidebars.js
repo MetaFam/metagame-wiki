@@ -1,35 +1,47 @@
 module.exports = {
   someSidebar: {
-    "📕 Handbook": [
+    "🐣 Start Here": [
       "introduction",
-      "handbook/play",
-      "handbook/quests",
-      "handbook/xp",
-      "handbook/seed",
-      "handbook/roles",
-      "handbook/achievements",
-      "handbook/shilling"
+      "start-here/for-players",
+      "start-here/for-guilds",
+      "start-here/for-patrons",
     ],
-    "📜 Manifesto": [
-      "manifesto/pillar-articles",
-      "manifesto/metafam-way",
-      "manifesto/perspective", 
-      "manifesto/founders"
+    "🤨 WTF is MetaGame?": [
+      "wtf-is-metagame/in-search-of-commons-that-scale",
+      "wtf-is-metagame/the-coming-of-metagame",
+      "wtf-is-metagame/wtf-is-metagame",
+      "wtf-is-metagame/way-of-web3-founders",
+      "wtf-is-metagame/narrative-1-a-decentralized-factory",
+      "wtf-is-metagame/narrative-2-a-web-of-opportunity",
+      "wtf-is-metagame/metafam-way",
+    ],
+    "🧐 How Does It Work": [
+      "how-does-it-work/how-metagame-works",
+      "how-does-it-work/xp",
+      "how-does-it-work/phases-of-metagame",
+      "how-does-it-work/become-a-founder-of-metagame",
+    ],
+    "🗺 Enter MetaGame": [
+      "enter-metagame/signpost",
+      "enter-metagame/how-to-become-a-player",
+      "enter-metagame/roles-in-metagame",
+      "enter-metagame/navigation-board",
+      "enter-metagame/leaderboard",
+    ],
+    "⚔️ Guilding": [
+      "Guilding/what-why-how-of-your-dao",
+      "Guilding/guilding-101",
+      "Guilding/building-successful-teams",
     ],
     
-    "🗺 Roadmap": [
-      "roadmap/tldr",
-      "roadmap/phases",
-      "roadmap/alignment2021"
+    "🌳 Other": [
+      "resources/glossary",
+      "resources/graphics",
+      "resources/art",
+      "resources/memes",
+      "resources/talks",
+      "resources/alignment2021",
     ],
-    "🌳 Resources": [
-      "resources/graphics", 
-      "resources/art", 
-      "resources/memes"
-    ],
-    "About The Wiki": [
-      "style-guide", 
-      "mdx"
-    ]
-  }
+    // "About The Wiki": ["style-guide", "mdx"],
+  },
 };

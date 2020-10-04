@@ -7,36 +7,30 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 
 const features = [
+   {
+     title: "For Players",
+     imageUrl: "assets/players.png",
+     description: "",
+     linkText: "Through here",
+     linkTo: "docs/start-here/for-players",
+   },
   {
-    title: <>For Players</>,
-    imageUrl: "assets/icon-dark.png",
-    description: (
-      <>
-        Join MetaGame as a player & get help forging your path. 
-      </>
-    )
+    title: "For Guilds",
+    imageUrl: "assets/guilds.png",
+    description: "",
+    linkText: "Through here",
+    linkTo: "docs/start-here/for-guilds",
   },
   {
-    title: <>For Guilds</>,
-    imageUrl: "assets/icon-plain.png",
-    description: (
-      <>
-        Join MetaGame as a project & get support building the future.
-      </>
-    )
+    title: "For Patrons",
+    imageUrl: "assets/patrons.png",
+    description: "",
+    linkText: "Through here",
+    linkTo: "docs/start-here/for-patrons",
   },
-  {
-    title: <>Third Patrons</>,
-    imageUrl: "assets/icon-glow.png",
-    description: (
-      <>
-        Join the future by supporting MetaGame.
-      </>
-    )
-  }
 ];
 
-function Feature({ imageUrl, title, description }) {
+function Feature({ imageUrl, title, description, linkText, linkTo }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={classnames("col col--4", styles.feature)}>
@@ -45,14 +39,16 @@ function Feature({ imageUrl, title, description }) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
-      <Link
-        className="button button--primary button--outline"
-        to={useBaseUrl("docs/introduction")}
-      >
-        Call To Action
-      </Link>
+      <div className="text--center">
+        <h3>{title}</h3>
+        <p>{description}</p>
+        <Link
+          className="button button--primary button--outline"
+          to={useBaseUrl(linkTo)}
+        >
+          {linkText}
+        </Link>
+      </div>
     </div>
   );
 }
@@ -76,7 +72,7 @@ function Home() {
               className="button button--primary button--lg"
               to={useBaseUrl("docs/introduction")}
             >
-              START
+              EXPLORE
             </Link>
           </div>
         </div>
@@ -85,7 +81,10 @@ function Home() {
         {features && features.length && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
+              <div className="row" style={{
+                display: 'flex',
+                justifyContent: 'center'
+              }}>
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}
