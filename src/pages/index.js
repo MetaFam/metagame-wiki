@@ -9,21 +9,21 @@ import styles from "./styles.module.css";
 const features = [
     {
         title: "For Players",
-        imageUrl: "../../static/players.png",
+        imageUrl: "assets/players.png",
         description: "",
         linkText: "Through here",
         linkTo: "docs/start-here/for-players",
     },
     {
         title: "For Guilds",
-        imageUrl: "../../static/guilds.png",
+        imageUrl: "assets/guilds.png",
         description: "",
         linkText: "Through here",
         linkTo: "docs/start-here/for-guilds",
     },
     {
         title: "For Patrons",
-        imageUrl: "../../static/patrons.png",
+        imageUrl: "assets/patrons.png",
         description: "",
         linkText: "Through here",
         linkTo: "docs/start-here/for-patrons",
