@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -55,8 +55,13 @@ function Feature({ imageUrl, title, description, linkText, linkTo }) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const wikipath = window.location.pathname === '/' ? 'home' : 'docs';
   const { siteConfig = {} } = context;
+  let wikipath = 'home';
+
+  useEffect(() => {
+    wikipath = window.location.pathname === '/' ? 'home' : 'docs';
+  });
+
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <div className={classnames('inner-wrapper', wikipath)}>

@@ -43,10 +43,12 @@ body,
   display: flex;
   align-items: center;
   flex-flow: column wrap;
+  width: 100%;
 }
 .wrapper > div,
 .wrapper > main {
-  flex: 0 0 auto;
+  flex: 0 0 100%;
+  width: 100%;
 }
 .main-wrapper [class^='docPage_node'] {
   min-height: 100vh;
