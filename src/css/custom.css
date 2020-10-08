@@ -52,7 +52,6 @@ body,
   min-height: 100vh;
 }
 .main-wrapper [role='complementary'] {
-  background
   background-color: var(--mf-color-secondary);
   border-right: 0;
 }
