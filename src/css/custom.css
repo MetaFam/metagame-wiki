@@ -65,20 +65,24 @@ body,
   overflow: hidden;
   position: relative;
 }
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 33%;
-    max-width: 33%;
+    width: 35%;
+    max-width: 35%;
     min-height: 100vh;
+  }
+}
+@media (min-width: 1600px) {
+  .main-wrapper [role='complementary'] {
+    width: 30%;
+    max-width: 30%;
   }
 }
 @media (min-width: 2560px) {
   .main-wrapper [role='complementary'] {
-    border-right: 0;
-    width: 15%;
-    max-width: 15%;
-    min-height: 100vh;
+    width: 10%;
+    max-width: 8%;
   }
 }
 .main-wrapper
@@ -88,15 +92,14 @@ body,
   background-color: var(--mf-color-secondary);
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
 }
-
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
   .main-wrapper
     [role='complementary']
     .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
     top: 10%;
-    left: 0;
+    left: 2.5%;
     width: 100%;
-    max-width: 350px;
+    max-width: 300px;
     max-height: 80%;
     padding: 25px 0;
     position: fixed;
@@ -105,7 +108,30 @@ body,
     font-size: 0.8rem;
   }
 }
-@media (min-width: 1920px) {
+
+@media (min-width: 1280px) {
+  .main-wrapper
+    [role='complementary']
+    .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
+    max-width: 350px;
+  }
+}
+@media (min-width: 1440px) {
+  .main-wrapper
+    [role='complementary']
+    .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
+    max-width: 385px;
+  }
+}
+@media (min-width: 1600px) {
+  .main-wrapper
+    [role='complementary']
+    .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
+    left: 5%;
+    max-width: 350px;
+  }
+}
+@media (min-width: 1900px) {
   .main-wrapper
     [role='complementary']
     .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
@@ -125,7 +151,7 @@ body,
     [role='complementary']
     .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar- {
     left: 7.5%;
-    max-width: 600px;
+    max-width: 550px;
     max-height: 80%;
     padding: 25px 0;
     position: fixed;
@@ -145,16 +171,34 @@ body,
   .docTitle_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem- {
   font-size: 1.5rem;
 }
+.markdown h2 {
+  font-size: 1.4rem;
+}
+.pagination-nav__link .pagination-nav__label {
+  font-size: 0.8rem;
+}
 @media (min-width: 1280px) {
   .main-wrapper
     .docTitle_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem- {
     font-size: 2rem;
   }
+  .markdown h2 {
+    font-size: 1.7rem;
+  }
+  .pagination-nav__link .pagination-nav__label {
+    font-size: 0.8rem;
+  }
 }
-@media (min-width: 1920px) {
+@media (min-width: 1900px) {
   .main-wrapper
     .docTitle_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem- {
-    font-size: 3rem;
+    font-size: 2.5rem;
+  }
+  .markdown h2 {
+    font-size: 2rem;
+  }
+  .pagination-nav__link .pagination-nav__label {
+    /* font-size: 1rem; */
   }
 }
 
@@ -196,6 +240,7 @@ a:hover,
   border-color: var(--mf-button-nav);
   transition: all 0.2s ease-in-out;
 }
+
 .navbar .navbar__items.navbar__items--right {
   flex-grow: 0;
 }
