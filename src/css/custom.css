@@ -108,11 +108,11 @@ body,
 }
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    top: 10%;
+    top: 5%;
     left: 2.5%;
     width: 100%;
     max-width: 325px;
-    max-height: 80%;
+    max-height: 90%;
     padding: 25px 0;
     position: fixed;
   }
