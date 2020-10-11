@@ -37,13 +37,13 @@ body,
 body {
   background-size: cover;
   background-attachment: fixed;
-  background-image: url('../../static/img/mymeta-bg.jpg');
+  background-image: url('/img/mymeta-bg.jpg');
   background-color: var(--ifm-color-primary-dark);
 }
 .main-wrapper {
   background-size: cover;
   background-attachment: fixed;
-  background-image: url('../../static/img/mymeta-bg.jpg');
+  background-image: url('/img/mymeta-bg.jpg');
   width: 100%;
   min-height: 100vh;
   padding: 0;
