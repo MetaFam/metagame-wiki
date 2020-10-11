@@ -89,24 +89,24 @@ body {
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 42%;
-    max-width: 42%;
+    width: 25%;
+    max-width: 25%;
     min-height: 100vh;
   }
 }
 @media (min-width: 1280px) {
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 35%;
-    max-width: 35%;
+    width: 25%;
+    max-width: 25%;
     min-height: 100vh;
   }
 }
 @media (min-width: 1366px) {
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 40%;
-    max-width: 40%;
+    width: 25%;
+    max-width: 25%;
     min-height: 100vh;
   }
 }
@@ -133,7 +133,7 @@ body {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     margin-top: 10rem;
     width: 100%;
-    max-width: 375px;
+    max-width: 300px;
     height: auto;
     padding: 10px 0;
   }
@@ -145,16 +145,17 @@ body {
 @media (min-width: 1280px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     left: 5%;
-    max-width: 350px;
+    max-width: 300px;
   }
 }
 @media (min-width: 1366px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
+    max-width: 290px;
   }
 }
 @media (min-width: 1440px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    max-width: 385px;
+    max-width: 300px;
   }
 }
 @media (min-width: 1600px) {
