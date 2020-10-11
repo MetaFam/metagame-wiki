@@ -29,32 +29,34 @@
 
 body,
 .main-wrapper {
-  font-size: 0.8rem;
+  /* font-size: 0.8rem; */
   background-color: var(--ifm-color-primary-dark);
   color: var(--mf-color-text-body);
   font-family: var(--mf-font-body), sans-serif;
 }
+@media (min-width: 1920px) {
+  body,
+  .main-wrapper {
+    /* font-size: 1.1rem; */
+  }
+}
 body {
-  background-size: cover;
-  background-attachment: fixed;
-  background-image: url('/img/mymeta-bg.jpg');
   background-color: var(--ifm-color-primary-dark);
+
+  background-repeat: no-repeat;
 }
 .main-wrapper {
+  background-image: url('/img/mymeta-bg.jpg');
   background-size: cover;
   background-attachment: fixed;
-  background-image: url('/img/mymeta-bg.jpg');
   width: 100%;
   min-height: 100vh;
   padding: 0;
 }
-.main-wrapper > [class^='docPage'] {
-  backdrop-filter: blur(15px);
-}
-@media (min-width: 1920px) {
-  body,
-  .main-wrapper {
-    font-size: 1.1rem;
+
+@media (min-width: 1024px) {
+  .main-wrapper > [class^='docPage'] {
+    backdrop-filter: blur(15px);
   }
 }
 .inner-wrapper.home {
@@ -75,21 +77,23 @@ body {
   flex: 0 0 100%;
   width: 100%;
 }
-.main-wrapper [class^='docPage_node'] {
-  min-height: 100vh;
-}
+
 .main-wrapper [role='complementary'] {
-  border-right: 0;
-  overflow: hidden;
   position: relative;
-  display: flex;
-  align-items: start;
-  justify-content: center;
+  width: 300px;
 }
 @media (min-width: 1024px) {
+  .main-wrapper [class^='docPage_node'] {
+    min-height: 100vh;
+  }
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 25%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    width: 28%;
     max-width: 25%;
     min-height: 100vh;
   }
@@ -105,15 +109,23 @@ body {
 @media (min-width: 1366px) {
   .main-wrapper [role='complementary'] {
     border-right: 0;
-    width: 25%;
-    max-width: 25%;
+    width: 21%;
+    max-width: 21%;
+    min-height: 100vh;
+  }
+}
+@media (min-width: 1440px) {
+  .main-wrapper [role='complementary'] {
+    border-right: 0;
+    width: 20%;
+    max-width: 20%;
     min-height: 100vh;
   }
 }
 @media (min-width: 1600px) {
   .main-wrapper [role='complementary'] {
-    width: 25%;
-    max-width: 25%;
+    width: 27.6%;
+    max-width: 27%;
   }
 }
 @media (min-width: 2560px) {
@@ -123,39 +135,50 @@ body {
   }
 }
 .main-wrapper [role='complementary'] [class^='sidebar'] {
-  border-radius: 0 6px 6px 0;
+  /* border-radius: 0 6px 6px 0;
   backdrop-filter: blur(7px);
   background-color: rgba(var(--mf-color-secondary-rgb), 0.5);
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
-  transition: height 0.3s ease-in-out;
+  transition: height 0.3s ease-in-out; */
 }
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
+    border-radius: 0 6px 6px 0;
+    backdrop-filter: blur(7px);
+    background-color: rgba(var(--mf-color-secondary-rgb), 0.5);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+    transition: height 0.3s ease-in-out;
     margin-top: 10rem;
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
     height: auto;
-    padding: 10px 0;
+    padding: 5px;
   }
   [class^='sidebar'] a {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
 }
 
 @media (min-width: 1280px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    left: 5%;
+    margin-left: 5%;
     max-width: 300px;
   }
 }
 @media (min-width: 1366px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    max-width: 290px;
+    max-width: 260px;
+  }
+  [class^='sidebar'] a {
+    font-size: 0.6rem;
   }
 }
 @media (min-width: 1440px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     max-width: 300px;
+  }
+  [class^='sidebar'] a {
+    font-size: 0.8rem;
   }
 }
 @media (min-width: 1600px) {
@@ -164,7 +187,7 @@ body {
     max-width: 350px;
   }
 }
-@media (min-width: 1900px) {
+@media (min-width: 1920px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     border-radius: 6px;
     /* left: 8.5%; */
@@ -215,7 +238,7 @@ body {
     font-size: 0.8rem;
   }
 }
-@media (min-width: 1900px) {
+@media (min-width: 1920px) {
   .main-wrapper [class^='docTitle'] {
     font-size: 2.5rem;
   }
@@ -230,6 +253,24 @@ body {
 a,
 .table-of-contents__link {
   transition: color 0.2s ease-in-out;
+}
+.table-of-contents__link {
+  font-size: 0.8rem;
+}
+@media (min-width: 1024px) {
+  .table-of-contents__link {
+    font-size: 0.6rem;
+  }
+}
+@media (min-width: 1366px) {
+  .table-of-contents__link {
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 1920px) {
+  .table-of-contents__link {
+    font-size: 1rem;
+  }
 }
 .menu__link {
   transition: background 0.2s ease-in;

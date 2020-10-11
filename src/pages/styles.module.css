@@ -39,18 +39,21 @@
 }
 
 .features {
+  /* background: rgba(255, 255, 255, 0.08); */
+  /* box-shadow: 0 0 8px rgba(0, 0, 0, 0.6); */
+  /* backdrop-filter: blur(7px); */
   display: flex;
   align-items: center;
   text-align: center;
   padding: 2rem 0;
   width: 100%;
 }
-.features h3 {
+/* .features h3 {
   position: relative;
   margin: 0;
   transform: translate3d(0, -3rem, 0);
   z-index: 0;
-}
+} */
 .imageWrapper {
   position: relative;
   display: inline-flex;
@@ -61,29 +64,37 @@
 }
 .imageWrapper a {
   position: relative;
-  background: rgba(255, 255, 255, 0.08);
-  border-radius: 100%;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.8) inset;
-  height: 250px;
-  width: 250px;
-  overflow: hidden;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 100% 100% 0 0;
+  border: 0;
+  /* box-shadow: 0 0 15px rgba(0, 0, 0, 0.8) inset; */
+  height: auto;
+  width: auto;
+  /* overflow: hidden; */
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  padding-bottom: 75px;
+}
+@media (min-width: 1280px) {
+  .imageWrapper {
+    margin-bottom: 0;
+  }
 }
 @media (min-width: 1440px) {
   .imageWrapper a {
-    height: 300px;
+    height: 320px;
     width: 300px;
   }
 }
 
 .imageWrapper div {
   position: absolute;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(255, 255, 255, 0);
   border: 0;
-  border-radius: 100%;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5) inset;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
   font-family: 'Press Start 2P', cursive;
   height: 250px;
   width: 250px;
@@ -96,11 +107,12 @@
 }
 @media (min-width: 1440px) {
   .imageWrapper div {
-    height: 300px;
+    height: 320px;
     width: 300px;
   }
 }
-.imageWrapper a:before {
+
+/* .imageWrapper a:before {
   content: '';
   position: absolute;
   display: block;
@@ -115,8 +127,8 @@
   z-index: 3;
   opacity: 0.5;
   transition: opacity 0.4s 0.2s ease, transform 0.2s 0.1s ease-in-out;
-}
-.imageWrapper a:after {
+} */
+/* .imageWrapper a:after {
   content: 'Enter';
   position: absolute;
   display: block;
@@ -136,22 +148,22 @@
 }
 .imageWrapper a:hover:after {
   opacity: 0.8;
-}
+} */
 @media (min-width: 1440px) {
-  .imageWrapper a:before {
+  /* .imageWrapper a:before {
     height: 300px;
     width: 300px;
   }
   .imageWrapper a:after {
     font-size: 2rem;
-  }
+  } */
 }
-.imageWrapper a:hover:before {
+/* .imageWrapper a:hover:before {
   animation: flashIcon 0.4s 0.2s 1 backwards;
   animation-timing-function: ease-in-out;
-  /* transform: translate3d(0, -175px, 0); */
+  transform: translate3d(0, -175px, 0);
   opacity: 0;
-}
+} */
 @keyframes flashIcon {
   0% {
     opacity: 0.5;
@@ -181,30 +193,35 @@
   }
 }
 .imageWrapper div h3 {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(7px);
+  border-radius: 5px;
   position: relative;
   color: #a5b9f6;
   display: block;
   font-size: 0.8rem;
+  font-weight: 100;
+  padding: 8px 10px;
+  margin-bottom: 0;
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
-  transform: translate3d(0, 175px, 0);
-  transition: opacity 0.2s 0s ease-in;
+  /* transform: translate3d(0, 275px, 0); */
+  transition: background 0.2s ease-in;
 }
 @media (min-width: 1440px) {
   .imageWrapper div h3 {
-    font-size: 1.2rem;
-    transform: translate3d(0, 200px, 0);
+    font-size: 1rem;
+    /* transform: translate3d(0, 200px, 0); */
   }
 }
-.imageWrapper a div span {
-  transition: opacity 0.2s ease-in;
+
+.imageWrapper a:hover h3 {
+  background: rgba(255, 255, 255, 0.15);
+  /* transform: translate3d(0, 300px, 0); */
 }
-.imageWrapper a:hover div {
-  opacity: 0;
-  transform: translate3d(0, 300px, 0);
-}
+/*
 .imageWrapper a:hover div span {
   opacity: 0;
-}
+} */
 /* .imageWrapper h3 {
   background: rgba(255, 255, 255, 0.08);
   border: 0;
@@ -217,9 +234,9 @@
 
 .featureImage {
   position: relative;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.13);
   border-radius: 50%;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.4);
   height: 200px;
   width: 200px;
   transform: translate3d(0, 0, 1);
