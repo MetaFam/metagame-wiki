@@ -123,9 +123,6 @@ body,
     max-width: 8%;
   }
 }
-.main-wrapper [role='complementary'] [class^='sidebar'] {
-  background-color: rgba(var(--mf-color-secondary-rgb), 0.5);
-}
 
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
