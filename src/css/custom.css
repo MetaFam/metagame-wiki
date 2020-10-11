@@ -6,7 +6,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Press+Start+2P&display=swap|');
 
 :root {
   --ifm-color-primary: #ff0077;
@@ -19,6 +19,7 @@
   --mf-button-primary: #b72886;
   --mf-button-nav: #5a32e6;
   --mf-color-secondary: #261942;
+  --mf-color-secondary-rgb: 38, 25, 66;
   --mf-color-text-body: #a5b9f6;
   --mf-color-link-hover: #392373;
   --mf-font-body: 'IBM Plex Sans';
@@ -32,6 +33,23 @@ body,
   background-color: var(--ifm-color-primary-dark);
   color: var(--mf-color-text-body);
   font-family: var(--mf-font-body), sans-serif;
+}
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url('../../static/img/mymeta-bg.jpg');
+  background-color: var(--ifm-color-primary-dark);
+}
+.main-wrapper {
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url('../../static/img/mymeta-bg.jpg');
+  width: 100%;
+  min-height: 100vh;
+  padding: 0;
+}
+.main-wrapper > [class^='docPage'] {
+  backdrop-filter: blur(15px);
 }
 @media (min-width: 1920px) {
   body,
@@ -64,6 +82,9 @@ body,
   border-right: 0;
   overflow: hidden;
   position: relative;
+  display: flex;
+  align-items: start;
+  justify-content: center;
 }
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] {
@@ -91,8 +112,8 @@ body,
 }
 @media (min-width: 1600px) {
   .main-wrapper [role='complementary'] {
-    width: 30%;
-    max-width: 30%;
+    width: 25%;
+    max-width: 25%;
   }
 }
 @media (min-width: 2560px) {
@@ -103,18 +124,18 @@ body,
 }
 .main-wrapper [role='complementary'] [class^='sidebar'] {
   border-radius: 0 6px 6px 0;
-  background-color: var(--mf-color-secondary);
+  backdrop-filter: blur(7px);
+  background-color: rgba(var(--mf-color-secondary-rgb), 0.5);
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+  transition: height 0.3s ease-in-out;
 }
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    top: 5%;
-    left: 2.5%;
+    margin-top: 10rem;
     width: 100%;
-    max-width: 325px;
-    max-height: 90%;
-    padding: 25px 0;
-    position: fixed;
+    max-width: 375px;
+    height: auto;
+    padding: 10px 0;
   }
   [class^='sidebar'] a {
     font-size: 0.8rem;
@@ -138,18 +159,15 @@ body,
 }
 @media (min-width: 1600px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    left: 5%;
+    /* left: 5%; */
     max-width: 350px;
   }
 }
 @media (min-width: 1900px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     border-radius: 6px;
-    left: 8.5%;
+    /* left: 8.5%; */
     max-width: 400px;
-    max-height: 80%;
-    padding: 25px 0;
-    position: fixed;
   }
   [class^='sidebar'] a {
     font-size: 1rem;
@@ -166,6 +184,9 @@ body,
   [class^='sidebar'] a {
     font-size: 1.2rem;
   }
+}
+.main-wrapper [class^='docMainContainer'] .container {
+  margin-left: 0;
 }
 [class^='sidebar'] .menu--show {
   background-color: var(--mf-color-secondary);
@@ -208,6 +229,9 @@ body,
 a,
 .table-of-contents__link {
   transition: color 0.2s ease-in-out;
+}
+.menu__link {
+  transition: background 0.2s ease-in;
 }
 a:hover,
 .table-of-contents__link:hover {
