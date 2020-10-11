@@ -43,7 +43,7 @@ body,
   padding: 0;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 995px) {
   .main-wrapper > [class^='docPage'] {
     backdrop-filter: blur(15px);
   }
@@ -71,7 +71,7 @@ body,
   position: relative;
   width: 300px;
 }
-@media (min-width: 1024px) {
+@media (min-width: 995px) {
   .main-wrapper [class^='docPage_node'] {
     min-height: 100vh;
   }
@@ -124,7 +124,7 @@ body,
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 995px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     border-radius: 0 6px 6px 0;
     backdrop-filter: blur(7px);
@@ -138,7 +138,7 @@ body,
     padding: 5px;
   }
   [class^='sidebar'] a {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -237,7 +237,7 @@ a,
 .table-of-contents__link {
   font-size: 0.8rem;
 }
-@media (min-width: 1024px) {
+@media (min-width: 995px) {
   .table-of-contents__link {
     font-size: 0.6rem;
   }

@@ -6,30 +6,45 @@
 
 .heroBanner {
   background: transparent;
-  padding: 2rem;
+  padding: 5rem 0 2rem;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
-.heroBanner .hero__subtitle {
-  opacity: 0;
-  animation: fadeInUp 1s 2s 1;
-  animation-timing-function: ease-in-out;
+.heroSubtitle {
+  font-size: 1.2rem;
 }
 
 @media screen and (min-width: 967px) {
   .heroBanner {
     padding: 2rem 0 0;
   }
+  .heroSubtitle {
+    font-size: 1.2rem;
+  }
+}
+@media screen and (min-width: 1366px) {
+  .heroBanner {
+    padding: 3rem 0 2rem;
+  }
+  .heroSubtitle {
+    font-size: 1.5rem;
+  }
 }
 @media screen and (min-width: 1440px) {
   .heroBanner {
-    padding: 0 0 4rem;
+    padding: 2rem 0;
+  }
+  .heroSubtitle {
+    font-size: 1.5rem;
   }
 }
 @media screen and (min-width: 1920px) {
   .heroBanner {
     padding: 0 0 6rem;
+  }
+  .heroSubtitle {
+    font-size: 1.7rem;
   }
 }
 .buttons {
@@ -51,9 +66,17 @@
   display: inline-flex;
   align-items: center;
   overflow: hidden;
-  margin-bottom: 35px;
+  margin-bottom: 0;
 }
-
+@media screen and (min-width: 995px) {
+  .imageWrapper {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 0;
+  }
+}
 .imageWrapper a {
   position: relative;
   background: rgba(255, 255, 255, 0);
@@ -163,7 +186,11 @@
   height: 200px;
   width: 200px;
   transform: translate3d(0, 0, 1);
+  transition: background 0.3s ease-in;
   z-index: 2;
+}
+.imageWrapper a:hover .featureImage {
+  background: rgba(255, 255, 255, 0.25);
 }
 
 @media screen and (min-width: 1440px) {

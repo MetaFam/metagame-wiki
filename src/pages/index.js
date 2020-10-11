@@ -75,7 +75,7 @@ function Home() {
                 width='555'
                 src={useBaseUrl('img/wiki-logo.png')}
               />
-              <p className='hero__subtitle'>{siteConfig.tagline}</p>
+              <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
               <div className={styles.buttons}>
                 <Link
                   className='button button--primary button--lg'
