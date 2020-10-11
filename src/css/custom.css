@@ -308,3 +308,6 @@ a:hover,
   top: 0;
   width: 100%;
 }
+.markdown iframe {
+  width: 100%;
+}
