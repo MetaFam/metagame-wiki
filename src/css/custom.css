@@ -148,20 +148,17 @@ body,
     max-width: 300px;
   }
 }
-@media (min-width: 1366px) {
+@media screen and (min-width: 1366px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     max-width: 260px;
   }
   [class^='sidebar'] a {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
   }
 }
 @media (min-width: 1440px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     max-width: 300px;
-  }
-  [class^='sidebar'] a {
-    font-size: 0.8rem;
   }
 }
 @media (min-width: 1600px) {
