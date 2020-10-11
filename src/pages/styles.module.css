@@ -39,38 +39,28 @@
 }
 
 .features {
-  /* background: rgba(255, 255, 255, 0.08); */
-  /* box-shadow: 0 0 8px rgba(0, 0, 0, 0.6); */
-  /* backdrop-filter: blur(7px); */
   display: flex;
   align-items: center;
   text-align: center;
   padding: 2rem 0;
   width: 100%;
 }
-/* .features h3 {
-  position: relative;
-  margin: 0;
-  transform: translate3d(0, -3rem, 0);
-  z-index: 0;
-} */
+
 .imageWrapper {
   position: relative;
   display: inline-flex;
   align-items: center;
-  /* justify-content: center; */
   overflow: hidden;
   margin-bottom: 35px;
 }
+
 .imageWrapper a {
   position: relative;
   background: rgba(255, 255, 255, 0);
   border-radius: 100% 100% 0 0;
   border: 0;
-  /* box-shadow: 0 0 15px rgba(0, 0, 0, 0.8) inset; */
   height: auto;
   width: auto;
-  /* overflow: hidden; */
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -112,58 +102,6 @@
   }
 }
 
-/* .imageWrapper a:before {
-  content: '';
-  position: absolute;
-  display: block;
-  background-image: url('../../static/img/mg-icon.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 20%;
-  top: 35px;
-  left: 0;
-  width: 250px;
-  height: 250px;
-  z-index: 3;
-  opacity: 0.5;
-  transition: opacity 0.4s 0.2s ease, transform 0.2s 0.1s ease-in-out;
-} */
-/* .imageWrapper a:after {
-  content: 'Enter';
-  position: absolute;
-  display: block;
-  color: #a5b9f6;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
-  font-family: 'Press Start 2P', cursive;
-  font-size: 1.3rem;
-  top: 0;
-  width: 250px;
-  height: 250px;
-  z-index: 3;
-  opacity: 0;
-  text-align: center;
-  text-transform: uppercase;
-  transform: translate3d(0, 120px, 0);
-  transition: opacity 0.4s 0.2s ease, transform 0.2s 0.1s ease-in-out;
-}
-.imageWrapper a:hover:after {
-  opacity: 0.8;
-} */
-@media (min-width: 1440px) {
-  /* .imageWrapper a:before {
-    height: 300px;
-    width: 300px;
-  }
-  .imageWrapper a:after {
-    font-size: 2rem;
-  } */
-}
-/* .imageWrapper a:hover:before {
-  animation: flashIcon 0.4s 0.2s 1 backwards;
-  animation-timing-function: ease-in-out;
-  transform: translate3d(0, -175px, 0);
-  opacity: 0;
-} */
 @keyframes flashIcon {
   0% {
     opacity: 0.5;
@@ -210,27 +148,12 @@
 @media (min-width: 1440px) {
   .imageWrapper div h3 {
     font-size: 1rem;
-    /* transform: translate3d(0, 200px, 0); */
   }
 }
 
 .imageWrapper a:hover h3 {
   background: rgba(255, 255, 255, 0.15);
-  /* transform: translate3d(0, 300px, 0); */
 }
-/*
-.imageWrapper a:hover div span {
-  opacity: 0;
-} */
-/* .imageWrapper h3 {
-  background: rgba(255, 255, 255, 0.08);
-  border: 0;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
-  color: #a5b9f6;
-  font-family: 'Press Start 2P', cursive;
-  padding: 50px 10px 25px;
-} */
 
 .featureImage {
   position: relative;

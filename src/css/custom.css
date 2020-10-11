@@ -29,22 +29,11 @@
 
 body,
 .main-wrapper {
-  /* font-size: 0.8rem; */
   background-color: var(--ifm-color-primary-dark);
   color: var(--mf-color-text-body);
   font-family: var(--mf-font-body), sans-serif;
 }
-@media (min-width: 1920px) {
-  body,
-  .main-wrapper {
-    /* font-size: 1.1rem; */
-  }
-}
-body {
-  background-color: var(--ifm-color-primary-dark);
 
-  background-repeat: no-repeat;
-}
 .main-wrapper {
   background-image: url('/img/mymeta-bg.jpg');
   background-size: cover;
@@ -135,12 +124,9 @@ body {
   }
 }
 .main-wrapper [role='complementary'] [class^='sidebar'] {
-  /* border-radius: 0 6px 6px 0;
-  backdrop-filter: blur(7px);
   background-color: rgba(var(--mf-color-secondary-rgb), 0.5);
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
-  transition: height 0.3s ease-in-out; */
 }
+
 @media (min-width: 1024px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
     border-radius: 0 6px 6px 0;
