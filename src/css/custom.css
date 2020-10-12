@@ -27,6 +27,19 @@
   --ifm-font-size-base: 17px;
 }
 
+body {
+  font-size: 14px;
+}
+@media (min-width: 995px) {
+  body {
+    font-size: 15px;
+  }
+}
+@media (min-width: 1920px) {
+  body {
+    font-size: 17px;
+  }
+}
 body,
 .main-wrapper {
   background-color: var(--ifm-color-primary-dark);
@@ -119,8 +132,8 @@ body,
 }
 @media (min-width: 2560px) {
   .main-wrapper [role='complementary'] {
-    width: 10%;
-    max-width: 8%;
+    width: 30%;
+    max-width: 30%;
   }
 }
 
@@ -179,7 +192,7 @@ body,
 }
 @media (min-width: 2560px) {
   .main-wrapper [role='complementary'] [class^='sidebar'] {
-    left: 7.5%;
+    /* left: 7.5%; */
     max-width: 550px;
     max-height: 80%;
     padding: 25px 0;
@@ -210,6 +223,7 @@ body,
     max-width: 75% !important;
   }
 }
+
 .main-wrapper [class^='docTitle'] {
   font-size: 1.5rem;
 }
