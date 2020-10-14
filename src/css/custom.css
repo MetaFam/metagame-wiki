@@ -6,7 +6,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Press+Start+2P&display=swap|');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Press+Start+2P&display=swap|');
 
 :root {
   --ifm-color-primary: #ff0077;
@@ -155,9 +155,13 @@ body,
     overflow: hidden;
     z-index: 2;
   }
-  [class^='sidebar'] a {
-    font-size: 0.8rem;
-    transition: color 0.2s ease;
+  .main-wrapper [role='complementary'] [class^='sidebar'] a {
+    /* font-size: 0.8rem; */
+    transition: all 0.2s 0s ease-in;
+  }
+  .main-wrapper [role='complementary'] [class^='sidebar'] a:hover {
+    /* color: #ff3392; */
+    /* transition: color 0.2s ease; */
   }
   .main-wrapper [role='complementary'] [class^='sidebar']:hover {
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
