@@ -170,14 +170,15 @@
   background: #5a32e6;
   border-radius: 4px;
   font-family: var(--mf-font-body);
-  font-size: 12px;
+  font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.1em;
-  line-height: 20px;
+  line-height: 24px;
   position: relative;
   color: #fff;
   display: block;
-  padding: 15px 20px;
+  padding: 11px 0;
+  width: 206px;
   background: #5a32e6;
 
   margin-bottom: 0;
@@ -243,12 +244,12 @@
   }
 }
 
-@media (min-width: 1440px) {
+/* @media (min-width: 1440px) {
   .imageWrapper div h3 {
     font-size: 14px;
     line-height: 24px;
   }
-}
+} */
 
 /* .imageWrapper a:hover h3 {
   background: #5a32e660;
