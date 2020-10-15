@@ -177,12 +177,9 @@
   position: relative;
   color: #fff;
   display: block;
-  padding: 11px 0;
+  padding: 15px 0;
   width: 206px;
-  background: #5a32e6;
-
   margin-bottom: 0;
-  /* transition: background 0.2s ease-in; */
 }
 @media screen and (min-width: 965px) {
   .imageWrapper a div h3 {
