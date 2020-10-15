@@ -441,15 +441,21 @@ a:hover,
   border-radius: 4px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
   font-family: var(--mf-font-body);
-  font-size: 1rem;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: 0.1em;
-  line-height: 24px;
+  line-height: 20px;
   overflow: hidden;
   padding: 15px 20px;
   transition: box-shadow 0.2s ease, background-color 0.2s 0.3s ease-in-out,
     color 0.5s 0.2s ease;
   z-index: 2;
+}
+@media (min-width: 1366px) {
+  .imageWrapper div h3 {
+    font-size: 14px;
+    line-height: 24px;
+  }
 }
 .hero .button--primary:after {
   content: '';
