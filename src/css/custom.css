@@ -435,11 +435,18 @@ a:hover,
 
 .hero .button--primary {
   position: relative;
-  /* background: rgba(255, 255, 255, 0.08); */
+  background: #ff3b8a;
   backdrop-filter: blur(5px);
   border: 0;
+  border-radius: 4px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+  font-family: var(--mf-font-body);
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  line-height: 24px;
   overflow: hidden;
+  padding: 15px 20px;
   transition: box-shadow 0.2s ease, background-color 0.2s 0.3s ease-in-out,
     color 0.5s 0.2s ease;
   z-index: 2;
