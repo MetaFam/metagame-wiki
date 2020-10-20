@@ -21,6 +21,7 @@
   --mf-color-primary-rgb: 27, 13, 42;
   --mf-color-secondary: #261942;
   --mf-color-secondary-rgb: 38, 25, 66;
+  --mf-color-wiki-cta: #ff1f82;
   --mf-color-text-body: #a5b9f6;
   --mf-color-link-hover: #392373;
   --mf-color-link-rgb: 255, 0, 119;
@@ -177,7 +178,6 @@ body,
     height: 100%;
     transform: translate3d(-120%, 0, 0);
     filter: blur(15px);
-
     background: linear-gradient(
       45deg,
       transparent,
@@ -292,7 +292,8 @@ body,
   font-size: 1.4rem;
 }
 
-.pagination-nav__link {
+.pagination-nav__link,
+.markdown details summary {
   position: relative;
   background: rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(7px);
@@ -303,7 +304,26 @@ body,
     color 0.5s 0.2s ease;
   z-index: 2;
 }
-.pagination-nav__link:after {
+.markdown details {
+  background: rgba(255, 255, 255, 0);
+  border-radius: 0.5rem;
+  backdrop-filter: blur(7px);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+  padding: 0;
+  transition: padding 0.3s 0s ease-in, background 0.3s 0.4s ease-in;
+}
+.markdown details[open] {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 15px;
+}
+.markdown details summary {
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 15px;
+}
+.pagination-nav__link:after,
+.markdown details summary:after {
   content: '';
   position: absolute;
   display: block;
@@ -322,7 +342,8 @@ body,
   transition: all 0.4s 0.1s ease-in-out;
   z-index: 2;
 }
-.pagination-nav__link:before {
+.pagination-nav__link:before,
+.markdown details summary:before {
   content: '';
   position: absolute;
   /* display: none; */
@@ -342,12 +363,16 @@ body,
   transition: position 0.4s 0.2s ease-in-out;
   z-index: 3;
 }
-.pagination-nav__link:hover {
+.pagination-nav__link:hover,
+.markdown details summary:hover {
   background: rgba(255, 255, 255, 0.12);
   color: #ff3392;
+  cursor: pointer;
 }
 .pagination-nav__link:hover:after,
-.pagination-nav__link:hover:before {
+.pagination-nav__link:hover:before,
+.markdown details summary:hover:after,
+.markdown details summary:hover:before {
   left: 100%;
 }
 
@@ -402,13 +427,19 @@ a,
 .menu__link {
   transition: background 0.2s ease-in;
 }
+a {
+  color: var(--mf-color-wiki-cta);
+}
 a:hover,
 .table-of-contents__link:hover {
-  color: var(--mf-color-link-hover);
+  color: var(--ifm-color-primary-lightest);
   text-decoration: none;
 }
+.table-of-contents__link--active {
+  color: var(--mf-color-wiki-cta);
+}
 .table-of-contents__link--active:hover {
-  color: var(--ifm-color-primary);
+  color: var(--mf-color-wiki-cta);
 }
 .docusaurus-highlight-code-line {
   background-color: #1b0d2a;
@@ -435,7 +466,7 @@ a:hover,
 
 .hero .button--primary {
   position: relative;
-  background: #ff1f82;
+  background: var(--mf-color-wiki-cta);
   backdrop-filter: blur(5px);
   border: 0;
   border-radius: 4px;
@@ -447,7 +478,7 @@ a:hover,
   line-height: 26px;
   overflow: hidden;
   padding: 15px 0;
-  width: 206px;
+  width: 164px;
   transition: box-shadow 0.2s ease, background-color 0.2s 0.3s ease-in-out,
     color 0.5s 0.2s ease;
   z-index: 2;
@@ -526,4 +557,11 @@ a:hover,
 }
 .markdown iframe {
   width: 100%;
+}
+
+.markdown blockquote {
+  border-color: var(--mf-color-wiki-cta);
+  color: var(--mf-color-wiki-cta);
+  p {
+  }
 }
