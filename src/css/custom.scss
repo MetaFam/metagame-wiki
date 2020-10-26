@@ -227,7 +227,7 @@ body,
   }
 }
 
-.main-wrapper [class^='docPage_node'] {
+.main-wrapper [class^='docPage'] {
   @media (min-width: 995px) {
     backdrop-filter: blur(5px);
     min-height: 100vh;
