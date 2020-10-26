@@ -195,12 +195,14 @@ body,
     @media screen and (min-width: 1366px) {
       margin-right: 15px;
       max-width: 330px;
+      border-radius: 0 6px 6px 0;
 
       a {
         font-size: 0.8rem;
       }
     }
     @media (min-width: 1440px) {
+      border-radius: 6px;
     }
     @media (min-width: 1600px) {
       // max-width: 350px;
@@ -459,7 +461,7 @@ a,
 }
 @media (min-width: 995px) {
   .table-of-contents__link {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
   }
 }
 @media (min-width: 1366px) {
