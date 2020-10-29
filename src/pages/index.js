@@ -140,7 +140,9 @@ function Panel({
       )}
       <div style={mainWrap}>
         {title && <h3 style={panelTitleStyle}>{title}</h3>}
-        {description && <p dangerouslySetInnerHTML={{ __html: description }} />}
+        {description && (
+          <div dangerouslySetInnerHTML={{ __html: description }} />
+        )}
       </div>
     </div>
   );
