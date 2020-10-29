@@ -44,7 +44,7 @@ const features = [
 const wrapperStyle = {
   width: '740px',
   maxWidth: '740px',
-  margin: '5rem 0',
+  margin: '5rem auto',
   // overflow: 'hidden',
 };
 const panelStyle = {
