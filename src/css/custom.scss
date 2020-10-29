@@ -114,7 +114,7 @@ body,
       border-radius: 6px;
       backdrop-filter: blur(7px);
       background-color: rgba(255, 255, 255, 0.08);
-      box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+      box-shadow: 0 0 2rem rgba(0, 0, 0, 0);
       transition: box-shadow 0.3s ease-in-out;
       margin-top: 10rem;
       width: 100%;
@@ -133,7 +133,7 @@ body,
       z-index: 2;
 
       &:hover {
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
 
         &:before,
         &:after {

@@ -11,7 +11,7 @@ const features = [
     title: 'For Players',
     imageUrl: 'assets/players.png',
     description:
-      ' MetaGame is for those who want to play an active role in building the future. For those who want to: - Build their knowledge, get experience & level up. - Find cool projects, solve problems & get paid. - Become a part of something bigger.',
+      '<p>MetaGame is for those who want to play an active role in building the future.</p> <p>For those who want to:</p> <ul><li>Build their knowledge, get experience & level up.</li> <li>Find cool projects, solve problems & get paid.</li> <li>Become a part of something bigger.</li></ul>',
     linkText: 'Through here',
     linkTo: 'docs/start-here/for-players',
   },
@@ -19,7 +19,7 @@ const features = [
     title: 'For Guilds',
     imageUrl: 'assets/guilds.png',
     description:
-      'It\'s also for groups of people, those building tools & services for a decentralized future. For those who want: - Help finding tools, frameworks & funds accessible. - Help getting value-aligned contributors & adopters. - Become a part of the "new world" puzzle.',
+      '<p>Its also for groups of people, those building tools & services for a decentralized future.</p> <p>For those who want:</p> <ul><li>Help finding tools, frameworks & funds accessible.</li> <li>Help getting value-aligned contributors & adopters.</li> <li>Become a part of the "new world" puzzle.</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-guilds',
   },
@@ -27,31 +27,45 @@ const features = [
     title: 'For Patrons',
     imageUrl: 'assets/patrons.png',
     description:
-      'Those who really want to see MetaGame succeed, but prefer to help with funds. Why? - They love builder onboarding & support systems. - Membership and other things, all paid in Seeds. - Understanding MetaGame made them go: Fuck yeah!',
+      '<p>Those who really want to see MetaGame succeed, but prefer to help with funds.</p> <p>Why?</p> <ul><li>They love builder onboarding & support systems.</li> <li>Membership and other things, all paid in Seeds.</li> <li>Understanding MetaGame made them go: Fuck yeah!</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
   },
   {
     title: 'For Lamers',
-    imageUrl: 'assets/patrons.png',
+    imageUrl: 'assets/lamers.png',
     description:
-      'Those who prefer to push their self-interest over everyone & only detract from the commons. Not for: - Those who want to get rich quick & buy Lambos. - Those who say, but do not do. - Those who like to complain.',
+      '<p>Those who prefer to push their self-interest over everyone & only detract from the commons.</p> <p>NOT for:</p> <ul><li>Those who want to get rich quick & buy Lambos.</li><li>Those who say, but do not do.</li><li>Those who like to complain.</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
   },
 ];
 
+const wrapperStyle = {
+  width: '740px',
+  maxWidth: '740px',
+  margin: '5rem 0',
+  // overflow: 'hidden',
+};
 const panelStyle = {
   backgroundColor: 'rgba(255,255,255,0.08)',
-  borderRadius: '6px',
+  // borderRadius: '6px',
   display: 'flex',
   alignItems: 'flex-start',
   flexFlow: 'row nowrap',
   flex: '0 0 100%',
-  marginBottom: '20px',
-  padding: '20px',
+  marginBottom: '30px',
+  padding: '30px',
   textAlign: 'left',
   width: '100%',
+};
+const lastPanelStyle = {
+  ...panelStyle,
+  marginBottom: '50px',
+};
+const lamerPanelStyle = {
+  ...panelStyle,
+  marginBottom: '30px',
 };
 const imgWrap = {
   flex: '0 0 33%',
@@ -59,40 +73,74 @@ const imgWrap = {
 };
 const mainWrap = {
   flexGrow: 1,
-  paddingLeft: '20px',
+  paddingLeft: '0px',
 };
 const aspectBox = {
-  // position: 'relative',
-  // outline: '1px solid red',
-  // height: '0',
-  // paddingTop: '100%',
-  // overflow: 'hidden',
+  position: 'relative',
+  height: '205px',
+  width: '203px',
+  overflow: 'hidden',
+  textAlign: 'center',
 };
 const imgStyle = {
-  // position: 'absolute',
-  // top: '0',
-  // left: '0',
-  // width: '100%',
-  // height: '100%',
+  width: '100%',
+  height: '100%',
 };
-const titleStyle = {
+const lamerImgStyle = {
+  ...imgStyle,
+  width: '185px',
+  height: '182px',
+};
+
+const sectionHeading = {
   fontFamily: '"IBM Plex Mono"',
+  fontSize: '24px',
+  color: '#a5b9f6',
+  marginBottom: '13px',
+};
+const panelTitleStyle = {
+  ...sectionHeading,
   color: 'white',
   marginBottom: '3px',
 };
-const textStyle = {};
-function Panel({ imageUrl, title, description, linkText, linkTo }) {
+const textStyle = {
+  fontSize: '17px',
+};
+
+function Panel({
+  imageUrl,
+  title,
+  description,
+  linkText,
+  linkTo,
+  lastPlayerPanel,
+  lamerPanel,
+}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames('col', styles.feature)} style={panelStyle}>
+    <div
+      className={classnames(
+        'col',
+        styles.feature,
+        styles.panel,
+        lastPlayerPanel && styles.lastItem,
+      )}
+      style={lastPlayerPanel ? lastPanelStyle : panelStyle}
+    >
       {imgUrl && (
-        <div style={imgWrap}>
-          <img style={imgStyle} src={imgUrl} alt={title} />
+        <div style={imgWrap} className={styles.imageWrapper}>
+          <div style={aspectBox}>
+            <img
+              style={lamerPanel ? lamerImgStyle : imgStyle}
+              src={imgUrl}
+              alt={title}
+            />
+          </div>
         </div>
       )}
       <div style={mainWrap}>
-        {title && <h2 style={titleStyle}>{title}</h2>}
-        {description && <p>{description}</p>}
+        {title && <h3 style={panelTitleStyle}>{title}</h3>}
+        {description && <p dangerouslySetInnerHTML={{ __html: description }} />}
       </div>
     </div>
   );
@@ -102,12 +150,6 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   let wikipath = 'home';
-  const wrapperStyle = {
-    width: '680px',
-    maxWidth: '680px',
-    overflow: 'hidden',
-  };
-
   useEffect(() => {
     wikipath = window.location.pathname === '/' ? 'home' : 'docs';
   });
@@ -118,23 +160,13 @@ function Home() {
         <div className={classnames('inner-wrapper')} style={wrapperStyle}>
           <header className={classnames('hero', styles.heroBanner)}>
             <div className='container'>
-              <div style={aspectBox}>
-                <img
-                  alt='MetaGame Wiki Logo'
-                  className={styles.wikiLogo}
-                  width='555'
-                  src={useBaseUrl('img/wiki-logo.png')}
-                />
-              </div>
+              <img
+                alt='MetaGame Wiki Logo'
+                className={styles.wikiLogo}
+                width='555'
+                src={useBaseUrl('img/wiki-logo.png')}
+              />
               <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
-              <div className={styles.buttons}>
-                <Link
-                  className='button button--primary button--lg'
-                  to={useBaseUrl('docs/introduction')}
-                >
-                  EXPLORE
-                </Link>
-              </div>
             </div>
           </header>
           <main>
@@ -148,13 +180,52 @@ function Home() {
                       justifyContent: 'center',
                     }}
                   >
-                    {features.map((props, idx) => (
-                      <Panel key={idx} {...props} />
-                    ))}
+                    <h2 style={sectionHeading}>So, who is it for?</h2>
+                    {features &&
+                      features.map((props, i, idx) => (
+                        <>
+                          {features.length === i + 1 && (
+                            <h2 style={sectionHeading}>Who is it NOT for?</h2>
+                          )}
+                          <Panel
+                            key={idx}
+                            lastPlayerPanel={
+                              i === features.length - 2 ? 'last-item' : ''
+                            }
+                            lamerPanel={
+                              i === features.length - 1 ? 'lamer-panel' : ''
+                            }
+                            {...props}
+                          />
+                        </>
+                      ))}
                   </div>
                 </div>
               </section>
             )}
+            <div style={{ display: 'flex', justifyContent: 'center' }}>
+              <div className={styles.buttons}>
+                <Link
+                  className={classnames(
+                    'button button--primary button--lg button--explore',
+                    styles.button,
+                  )}
+                  to={useBaseUrl('docs/introduction')}
+                >
+                  EXPLORE
+                </Link>
+                <Link
+                  className={classnames(
+                    'button button--primary button--lg button--join',
+                    styles.button,
+                    styles.btnJoin,
+                  )}
+                  to={useBaseUrl('docs/enter-metagame/join-metagame')}
+                >
+                  JOIN
+                </Link>
+              </div>
+            </div>
           </main>
         </div>
       </div>
