@@ -6,7 +6,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&family=Press+Start+2P&display=swap|');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;700&family=Press+Start+2P&display=swap|');
 
 :root {
   --ifm-color-primary: #ff0077;
@@ -26,6 +26,7 @@
   --mf-color-link-hover: #392373;
   --mf-color-link-rgb: 255, 0, 119;
   --mf-font-body: 'IBM Plex Sans';
+  --mf-font-mono: 'IBM Plex Mono';
   --ifm-code-font-size: 95%;
   --ifm-font-size-base: 17px;
 }
@@ -53,7 +54,7 @@ body,
   }
 }
 
-.inner-wrapper {
+.wrapper {
   &.home {
     display: flex;
     align-items: center;
@@ -63,7 +64,7 @@ body,
   }
 }
 
-.wrapper {
+.inner-wrapper {
   display: flex;
   align-items: center;
   flex-flow: column wrap;
