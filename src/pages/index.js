@@ -182,26 +182,29 @@ function Home() {
                       justifyContent: 'center',
                     }}
                   >
-                    <em>A Massive Online Coordination Game</em></p>
+  <div className="stackedit__html"><p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93a37b7-2a48-421c-80b7-3079eca8beb7_2048x881.png" alt=""></br>
+
+
+<em>A Massive Online Coordination Game</em></p>
 <h2 id="abstract">Abstract</h2>
 <blockquote>
 <p><em>“Metagame is any approach to a game that transcends or operates outside of the prescribed rules of the game, uses external factors to affect the game, or goes beyond the supposed limits or environment set by the game.”</em> - From Wiki</p>
 </blockquote>
 <p>Players of MetaGame are on a quest to change the way people coordinate around solving problems &amp; creating value.</p>
-<p>The quest stretches from fixing the onboarding to the Ethereum space<br>
+<p>The quest stretches from fixing the onboarding to the Ethereum space</br>
 by symmetrifying information &amp; composing the basic socio-economic infrastructure, to grappling with actual problems.</p>
 <ul>
 <li>You know, the opposite of the first crypto-world problems.</li>
 </ul>
 <p>But, it all starts with Seeds…</p>
 <h2 id="seed-phase">Seed Phase</h2>
-<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa305be3-279a-440a-9ba2-cfa2d49281c4_952x186.png" alt=""></p>
-<p>The main goal of Seed phase is to build a hub for anyone interested in decentralized<br>
-organizations &amp; applications.<br>
+<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa305be3-279a-440a-9ba2-cfa2d49281c4_952x186.png" alt=""/></p>
+<p>The main goal of Seed phase is to build a hub for anyone interested in decentralized</br>
+organizations &amp; applications.</br>
 Guides &amp; portals to anything one might need to build them &amp; a community of people to support them.</p>
 <p>We’re building a <em>Decentralized Factory</em> for baking the building blocks we are going to use to compose the bigger picture.</p>
 <h2 id="the-bigger-picture">The Bigger Picture</h2>
-<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe6c92b4-6ead-4a60-acf0-db9cc0251b9c_1310x265.png" alt=""></p>
+<p><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe6c92b4-6ead-4a60-acf0-db9cc0251b9c_1310x265.png" alt=""/></p>
 <p>The long term goal of MetaGame is to build an alternative society; a global society focused around solving problem - not squeezing the world for profit.</p>
 <p>We are building the future we want to live in:</p>
 <ul>
@@ -209,6 +212,10 @@ Guides &amp; portals to anything one might need to build them &amp; a community 
 <li>A future in which human progress isn’t accelerating its destruction.</li>
 </ul>
 <p>Read more about the Phases of MetaGame?</p>
+
+
+
+</div>
                     <h2 style={sectionHeading}>So, who is it for?</h2>
                     {features &&
                       features.map((props, i, idx) => (
