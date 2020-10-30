@@ -4,6 +4,11 @@
  * and scoped locally.
  */
 
+.innerWrapper {
+  @media screen and (max-width: 500px) {
+    padding: 0 25px;
+  }
+}
 .heroBanner {
   background: transparent;
   @media screen and (max-width: 500px) {
@@ -15,18 +20,21 @@
   position: relative;
   overflow: hidden;
 
+  & > div {
+    padding: 0;
+  }
   .wikiLogo {
     width: 100%;
     margin-bottom: 0;
-    @media screen and (min-width: 768px) {
-      width: 70%;
-    }
-    @media screen and (min-width: 1366px) {
-      width: 50%;
-    }
-    @media screen and (min-width: 1920px) {
-      width: 80%;
-    }
+    // @media screen and (min-width: 768px) {
+    //   width: 90%;
+    // }
+    // @media screen and (min-width: 1366px) {
+    //   width: 100%;
+    // }
+    // @media screen and (min-width: 1920px) {
+    //   width: 100%;
+    // }
   }
 
   .heroSubtitle {
@@ -173,6 +181,10 @@
   text-align: center;
   padding: 2rem 0 0;
   width: 100%;
+
+  > div {
+    padding: 0;
+  }
 }
 .panel {
   @media screen and (max-width: 500px) {
@@ -180,6 +192,7 @@
     flex-flow: row wrap !important;
     max-width: 90% !important;
     padding: 20px !important;
+    margin: 0 auto;
 
     h3 {
       margin-top: 10px;
