@@ -79,18 +79,13 @@ export function SignpostItem(props, key) {
   };
   useEffect(() => {
     const menu = document.querySelector('[class^="sidebar"]');
-    const trigger = document.querySelector('.trigger');
-    console.log(menu);
-    // if (menu.classList.contains('highlight')) {
-    // trigger.addEventListener('click', function () {
-    //   console.log('hello');
-    //   menuActive && menu.classList.add('highlight');
-    // },());
 
-    // }
+    menuActive
+      ? menu.classList.add('highlight')
+      : menu.classList.remove('highlight');
 
     return () => {};
-  }, []);
+  }, [menuActive]);
 
   return (
     <li className={styles.signpostItem} data-key={key}>
