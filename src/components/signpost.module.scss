@@ -7,10 +7,11 @@
   .signpostItem {
     position: relative;
     flex: 0 0 140px;
+    min-width: 140px;
     max-width: 140px;
     text-align: center;
-    margin: 0 12.5px 25px;
-    height: 140px;
+    margin: 0 10px 20px;
+    min-height: 140px;
     max-height: 140px;
 
 
@@ -20,6 +21,7 @@
 
     a {
       position: relative;
+      color: white;
       display: inline-flex;
       flex-flow: column wrap;
       align-items: center;
