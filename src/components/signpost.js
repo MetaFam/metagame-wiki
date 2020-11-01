@@ -117,7 +117,7 @@ export function SignpostItem(props, key) {
 
 export function Signpost() {
   return (
-    <div style={{ textAlign: 'center' }}>
+    <div className={styles.wrapper}>
       <img
         alt='MetaGame Wiki Logo'
         width='300'
