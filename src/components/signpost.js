@@ -93,6 +93,9 @@ export function SignpostItem(props, key) {
         ? menu.classList.add('menu--show')
         : menu.classList.remove('menu--show');
     }
+    setTimeout(() => {
+      menuActive && toggleMenu();
+    }, 5000);
     return () => {};
   }, [menuActive]);
 
