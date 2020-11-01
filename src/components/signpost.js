@@ -78,12 +78,21 @@ export function SignpostItem(props, key) {
     setMenuActive(!menuActive);
   };
   useEffect(() => {
-    const menu = document.querySelector('[class^="sidebar"]');
+    const sidebar = document.querySelector('[class^="sidebar"]');
+
+    const menu = document.querySelector('[class^="sidebar"] .menu');
+
+    const display = window.innerWidth;
 
     menuActive
-      ? menu.classList.add('highlight')
-      : menu.classList.remove('highlight');
+      ? sidebar.classList.add('highlight')
+      : sidebar.classList.remove('highlight');
 
+    if (display <= 500) {
+      menuActive
+        ? menu.classList.add('menu--show')
+        : menu.classList.remove('menu--show');
+    }
     return () => {};
   }, [menuActive]);
 
