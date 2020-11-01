@@ -1,24 +1,29 @@
 .signpost {
   display: flex;
-  align-content: space-between;
   justify-content: center;
   flex-flow: row wrap;
   list-style: none;
   padding-left: 0;
   .signpostItem {
-    flex: 0 0 auto;
-    width: calc(1/3*100% - (1 - 1/3)*12px);
+    position: relative;
+    flex: 0 0 148px;
+    max-width: 148px;
     text-align: center;
-    margin: 0 0 25px;
-    padding: 0 25px 0 0;
+    margin: 0 12.5px 25px;
+    height: 148px;
+    max-height: 148px;
+
 
     &:nth-of-type(3n) {
-      padding-right: 0;
+      // padding-right: 0;
     }
 
     a {
       position: relative;
-      display: block;
+      display: inline-flex;
+      flex-flow: column wrap;
+      align-items: center;
+      justify-content: center;
       width: 100%;
       height: 100%;
       // backdrop-filter: blur(7px);
@@ -26,7 +31,7 @@
       box-shadow: 0 0 2rem rgba(0, 0, 0, 0);
       transition: box-shadow 0.3s ease-in-out;
       border-radius: 6px;
-      padding: 0 0 15px;
+      // padding: 0 0 15px;
       overflow: hidden;
       z-index: 2;
 
@@ -85,7 +90,8 @@
       display: block;
 
       &:first-child {
-        font-size: 55px;
+        font-size: 72px;
+        line-height: 95px;
       }
     }
   }

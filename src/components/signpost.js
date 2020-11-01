@@ -88,7 +88,7 @@ export function SignpostItem(props, key) {
       ? sidebar.classList.add('highlight')
       : sidebar.classList.remove('highlight');
 
-    if (display <= 500) {
+    if (display <= 800) {
       menuActive
         ? menu.classList.add('menu--show')
         : menu.classList.remove('menu--show');
