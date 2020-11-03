@@ -62,6 +62,27 @@ const directions = [
     description: 'Townhall Gatherings & Meetups.',
   },
   {
+    emoji: '🧙',
+    label: 'Players',
+    url:
+      'https://my.metagame.wtf',
+    description: 'The list of players of MetaGame.',
+  },
+  {
+    emoji: '📈',
+    label: 'Leaderboard',
+    url:
+      'See the XP stats',
+    description: 'Townhall Gatherings & Meetups.',
+  },
+  {
+    emoji: '⚔️',
+    label: 'Guilds',
+    url:
+      '/docs/enter-metagame/guilds-of-metagame',
+    description: 'The list of guilds considered to be a part of MetaGame.',
+  },
+  {
     emoji: '🌱',
     label: 'Seed Market',
     url:
