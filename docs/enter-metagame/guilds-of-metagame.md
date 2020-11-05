@@ -13,7 +13,6 @@ They may or may not be DAOs - although most *will* be.
 
 - 🐝 **[1Hive](https://1hive.org/)** - Exploring how to create and organize a global community and using magic internet money as a catalyst.
 - ⚪ **[Deep Work](https://deepwork.studio/)** - Deep Work is a distributed product design studio that helps highly technical teams move to product market fit, faster.
-- ⚖️ **[LexDAO](https://lexdao.org/)** - The decentralized legal engineering guild.
 - 🌶️ **[MetaCartel](https://www.metacartel.org/)** - A decentralized collective of builders & funders supporting the application layer of the Ethereum ecosystem.
 - 🤖 **[MetaFactory](https://t.co/27fiwh7Oym?amp=1)** - A DAO ran platform for the creation of community-owned brands and custom digi-physical merchandise.
 - 🐙 **[MetaFam](https://mainnet.aragon.org/#/metafam)** - A decentralized collective building the infrastructure for MetaGame (that's us! :)).
