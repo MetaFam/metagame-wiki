@@ -28,7 +28,6 @@ Currently "MetaGame Wiki"; MetaLibrary is a crucial piece of building MetaGame.
 Right now, there's mostly content about understanding MetaGame, but it will over time skew more and more to being a wiki about building decentralized organizations & applications in general.
 </details>
 
-
 <details>
 <summary>MyMeta</summary>
 MyMeta is your access to MetaGame. It starts as simple profiles to make it easier for you to display who you are and find other players, but evolves into a place where you can do things like display & sell your NFTs, as well as your dapp dashboard.
@@ -40,7 +39,7 @@ To see the full post on MyMeta Profiles, go here.
 
 <details>
     
-<summary>Miscellaneous</summary>
+<summary>Random</summary>
 <br />
 
 This includes a bunch of other projects we've been working on that we also consider mission critical but not as big of a deal as the above two.
@@ -100,13 +99,15 @@ Maybe ask me again when you reach the Diamond league. ;)
 </details>
 
 <details>
-<summary>Miscellaneous</summary>
+<summary>Random</summary>
 
-Not going to write much about this either.
+Not going to write much about this either. As the phase info suggests, its when we start taking real world issues seriously by contributing to ecological & philantropic initiatives etc.
 
 If the world hasn't gone to shit: these hackathons, conferences & other types of gatherings should be more regular and happening in-person as well.
 
-There should be hundreds of other, smaller initiatives, experiments & projects.
+There should be the starting of the Outpost Network, a network of hackerhouses & other kinds of spaces that players may live & work at.
+
+There should also be hundreds of other, smaller initiatives, experiments & projects.
 
 </details>
 
@@ -145,5 +146,7 @@ More in the Minimum Viable Stack article soon.
 <details>
 <summary>???</summary>
 While there isn't a lack of ideas for late stages of MetaGame, Phase III is likely 5+ years away so making any predictions more specific than "we'll be doing things that the people need" would be kind of...
+
+If there's one thing to be expected of this phase, its that by now crypto technology has moved into the background and we're focused on building & nurturing the web of life by sustaining more and more people in doing good things & supporting good causes.
 </details>
 
