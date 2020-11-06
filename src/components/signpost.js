@@ -64,22 +64,19 @@ const directions = [
   {
     emoji: '🧙',
     label: 'Players',
-    url:
-      'https://my.metagame.wtf',
+    url: 'https://my.metagame.wtf',
     description: 'The list of players of MetaGame.',
   },
   {
     emoji: '📈',
     label: 'Leaderboard',
-    url:
-      'See the XP stats',
-    description: 'Townhall Gatherings & Meetups.',
+    url: '/docs/enter-metagame/leaderboard',
+    description: 'See the XP stats',
   },
   {
     emoji: '⚔️',
     label: 'Guilds',
-    url:
-      '/docs/enter-metagame/guilds-of-metagame',
+    url: '/docs/enter-metagame/guilds-of-metagame',
     description: 'The list of guilds considered to be a part of MetaGame.',
   },
   {
@@ -94,15 +91,16 @@ const directions = [
 export function SignpostItem(props, key) {
   const [menuActive, setMenuActive] = useState(false);
   const { emoji, label, url, description } = props;
-
+  console.log(url);
   const toggleMenu = () => {
     setMenuActive(!menuActive);
   };
   useEffect(() => {
     const sidebar = document.querySelector('[class^="sidebar"]');
 
+    console.log('sb', sidebar);
     const menu = document.querySelector('[class^="sidebar"] .menu');
-
+    console.log('mn', menu);
     const display = window.innerWidth;
 
     menuActive
@@ -121,10 +119,10 @@ export function SignpostItem(props, key) {
   }, [menuActive]);
 
   return (
-    <li className={styles.signpostItem} data-key={key}>
+    <ListItem key={`item-${key}`}>
       <Link
         className={url && url === '#here' ? 'trigger' : null}
-        key={key}
+        key={`link-${key}`}
         to={useBaseUrl(url)}
         title={description}
         onClick={url && url === '#here' ? toggleMenu : null}
@@ -132,9 +130,14 @@ export function SignpostItem(props, key) {
         <span>{emoji}</span>
         <span>{label}</span>
       </Link>
-    </li>
+    </ListItem>
   );
 }
+
+export const ListItem = (props) => {
+  const { children } = props;
+  return <li className={styles.signpostItem}>{children}</li>;
+};
 
 export function Signpost() {
   return (
