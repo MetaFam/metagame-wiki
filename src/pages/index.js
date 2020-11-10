@@ -236,7 +236,7 @@ function Home() {
                   <br />
                 </p>
                 <p>
-                  We’re building a <a href="https://wiki.metagame.wtf/docs/wtf-is-metagame/narrative-1-a-decentralized-factory"><em>decentralized factory</em></a>&nbsp;for baking the
+                  We’re building a <a href="https://wiki.metagame.wtf/docs/wtf-is-metagame/narrative-1-a-decentralized-factory">decentralized factory</a>&nbsp;for baking the
                   bricks we're going to use to build the future we want to live in.
                 </p>
                 <h2 id='the-bigger-picture'>The Bigger Picture</h2>
