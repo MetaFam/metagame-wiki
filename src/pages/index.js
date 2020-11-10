@@ -251,7 +251,7 @@ function Home() {
                   society; a global society focused around solving problem - not
                   squeezing the world for profit.
                 </p>
-                <p>We are building the future we want to live in:</p>
+                <p>Building the future we want to live in:</p>
                 <ul>
                   <li>
                     A more collaborative, transparent &amp; decentralized
@@ -262,7 +262,7 @@ function Home() {
                     destruction.
                   </li>
                 </ul>
-                <p>Read more about the Phases of MetaGame?</p>
+                <p> Read more about the Phases of MetaGame <a href="https://wiki.metagame.wtf/docs/how-does-it-work/phases-of-metagame">here</a></p>
               </div>
             </div>
 
