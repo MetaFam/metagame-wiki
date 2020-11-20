@@ -2,8 +2,6 @@
 title: 👑 Become a Founder of MetaGame
 ---
 
-# How to Become a Founder of MetaGame
-
 >MetaGame is an idea we can build a new world on top of the old one.  
 It is currently being built by a bunch of Ethereum & Open Source fanatics who believe this “blockchain thing” gave us an opportunity to challenge the status-quo and re-imagine the way we run societies.
 
@@ -56,14 +54,6 @@ The above numbers were set somewhat arbitrarily, here’s why:
 -   There were 7 figures identified as key for the founding of the USA.
 -   The _Declaration of Independence_ was signed by 56 delegates.
     
-
-## Questions
-**Q:** What are Seeds?
-Seeds are what fuels the MetaGame. They represent your _skin in the game._
-
-**Q:** Will they ever be valuable?
-Yes, they will be traded on a bonding curve, and we’ll probably make them more valuable by realizing The MetaGame ;)
-
 ## So…
 So yeah, if you ever felt like front-running a (r)evolution without leaving your bedroom, this might be the perfect opportunity.
 
