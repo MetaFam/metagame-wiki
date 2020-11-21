@@ -1,14 +1,14 @@
 module.exports = {
-  title: "MetaGame Wiki",
-  tagline: "Build the future you want to live in.",
-  url: "https://wiki.metagame.wtf",
-  baseUrl: "/",
-  favicon: "img/mg-icon.png",
-  organizationName: "MetaFam",
-  projectName: "metagame-wiki",
+  title: 'MetaGame Wiki',
+  tagline: 'Build the future you want to live in.',
+  url: 'https://wiki.metagame.wtf',
+  baseUrl: '/',
+  favicon: 'img/mg-icon.png',
+  organizationName: 'MetaFam',
+  projectName: 'metagame-wiki',
   themeConfig: {
     colorMode: {
-      defaultMode: "dark",
+      defaultMode: 'dark',
       disableSwitch: true,
     },
     // navbar: {
@@ -82,21 +82,21 @@ module.exports = {
   },
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://wiki.metagame.wtf/admin/#/?",
+          sidebarPath: require.resolve('./sidebars.js'),
+          editUrl: 'https://wiki.metagame.wtf/admin/#/?',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.scss"),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
       },
     ],
   ],
   plugins: [
-    require.resolve("docusaurus-lunr-search"),
-    require.resolve("docusaurus-plugin-sass"),
-    "docusaurus2-dotenv",
+    require.resolve('docusaurus-lunr-search'),
+    require.resolve('docusaurus-plugin-sass'),
+    'docusaurus2-dotenv',
   ],
 };

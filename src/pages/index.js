@@ -1,93 +1,93 @@
-import React, { useEffect, useState } from "react";
-import ReactGA from "react-ga";
-import classnames from "classnames";
-import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import useBaseUrl from "@docusaurus/useBaseUrl";
-import styles from "./styles.module.scss";
+import React, { useEffect, useState } from 'react';
+import ReactGA from 'react-ga';
+import classnames from 'classnames';
+import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import styles from './styles.module.scss';
 
 const features = [
   {
-    title: "For Players",
-    imageUrl: "assets/players.png",
+    title: 'For Players',
+    imageUrl: 'assets/players.png',
     description:
-      "<p>MetaGame is for those who want to play an active role in building the future.</p> <p>For those who want to:</p> <ul><li>Build their knowledge, get experience & level up.</li> <li>Find cool projects, solve problems & get paid.</li> <li>Become a part of something bigger.</li></ul>",
-    linkText: "Through here",
-    linkTo: "docs/start-here/for-players",
+      '<p>MetaGame is for those who want to play an active role in building the future.</p> <p>For those who want to:</p> <ul><li>Build their knowledge, get experience & level up.</li> <li>Find cool projects, solve problems & get paid.</li> <li>Become a part of something bigger.</li></ul>',
+    linkText: 'Through here',
+    linkTo: 'docs/start-here/for-players',
   },
   {
-    title: "For Guilds",
-    imageUrl: "assets/guilds.png",
+    title: 'For Guilds',
+    imageUrl: 'assets/guilds.png',
     description:
       '<p>Its also for groups of people, those building tools & services for a decentralized future.</p> <p>For those who want:</p> <ul><li>Help finding tools, frameworks & funds accessible.</li> <li>Help getting value-aligned contributors & adopters.</li> <li>Become a part of the "new world" puzzle.</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-guilds',
   },
   {
-    title: "For Patrons",
-    imageUrl: "assets/patrons.png",
+    title: 'For Patrons',
+    imageUrl: 'assets/patrons.png',
     description:
-      "<p>Those who really want to see MetaGame succeed, but prefer to help with funds.</p> <p>Why?</p> <ul><li>They love builder onboarding & support systems.</li> <li>Membership and other things, all paid in Seeds.</li> <li>Understanding MetaGame made them go: Fuck yeah!</li></ul>",
+      '<p>Those who really want to see MetaGame succeed, but prefer to help with funds.</p> <p>Why?</p> <ul><li>They love builder onboarding & support systems.</li> <li>Membership and other things, all paid in Seeds.</li> <li>Understanding MetaGame made them go: Fuck yeah!</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
   },
   {
-    title: "For Lamers",
-    imageUrl: "assets/lamers.png",
+    title: 'For Lamers',
+    imageUrl: 'assets/lamers.png',
     description:
-      "<p>Those who prefer to push their self-interest over everyone & only detract from the commons.</p> <p>NOT for:</p> <ul><li>Those who want to get rich quick & buy Lambos.</li><li>Those who say, but do not do.</li><li>Those who like to complain.</li></ul>",
+      '<p>Those who prefer to push their self-interest over everyone & only detract from the commons.</p> <p>NOT for:</p> <ul><li>Those who want to get rich quick & buy Lambos.</li><li>Those who say, but do not do.</li><li>Those who like to complain.</li></ul>',
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
   },
 ];
 
 const wrapperStyle = {
-  width: "680px",
-  maxWidth: "680px",
-  margin: "5rem auto",
+  width: '680px',
+  maxWidth: '680px',
+  margin: '5rem auto',
   // overflow: 'hidden',
 };
 const panelStyle = {
-  backgroundColor: "rgba(255,255,255,0.08)",
+  backgroundColor: 'rgba(255,255,255,0.08)',
   // borderRadius: '6px',
-  display: "flex",
-  alignItems: "center",
-  flexFlow: "row nowrap",
-  flex: "0 0 100%",
-  marginBottom: "30px",
-  padding: "30px",
-  textAlign: "left",
-  width: "100%",
+  display: 'flex',
+  alignItems: 'center',
+  flexFlow: 'row nowrap',
+  flex: '0 0 100%',
+  marginBottom: '30px',
+  padding: '30px',
+  textAlign: 'left',
+  width: '100%',
 };
 const lastPanelStyle = {
   ...panelStyle,
-  marginBottom: "50px",
+  marginBottom: '50px',
 };
 const lamerPanelStyle = {
   ...panelStyle,
-  marginBottom: "30px",
+  marginBottom: '30px',
 };
 const imgWrap = {
-  flex: "0 0 33%",
-  width: "33%",
-  marginRight: "15px",
+  flex: '0 0 33%',
+  width: '33%',
+  marginRight: '15px',
 };
 const mainWrap = {
   flexGrow: 1,
-  paddingLeft: "10px",
-  paddingRight: "20px",
+  paddingLeft: '10px',
+  paddingRight: '20px',
 };
 const aspectBox = {
-  position: "relative",
-  height: "205px",
-  width: "203px",
+  position: 'relative',
+  height: '205px',
+  width: '203px',
   // overflow: 'hidden',
-  textAlign: "center",
+  textAlign: 'center',
 };
 const imgStyle = {
-  width: "100%",
-  height: "100%",
+  width: '100%',
+  height: '100%',
 };
 const lamerImgStyle = {
   ...imgStyle,
@@ -97,19 +97,19 @@ const lamerImgStyle = {
 
 const sectionHeading = {
   fontFamily: '"IBM Plex Mono"',
-  fontSize: "24px",
-  color: "#a5b9f6",
+  fontSize: '24px',
+  color: '#a5b9f6',
 };
 const panelTitleStyle = {
   ...sectionHeading,
-  color: "white",
-  marginBottom: "3px",
-  flex: "0 0 100%",
-  width: "100%",
-  textAlign: "left",
+  color: 'white',
+  marginBottom: '3px',
+  flex: '0 0 100%',
+  width: '100%',
+  textAlign: 'left',
 };
 const textStyle = {
-  fontSize: "14px",
+  fontSize: '14px',
 };
 
 function Panel({
@@ -125,7 +125,7 @@ function Panel({
   return (
     <div
       className={classnames(
-        "col",
+        'col',
         styles.feature,
         styles.panel,
         lastPlayerPanel && styles.lastItem
@@ -159,10 +159,10 @@ function Panel({
 function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
-  let wikipath = "home";
+  let wikipath = 'home';
 
   useEffect(() => {
-    wikipath = window.location.pathname === "/" ? "home" : "docs";
+    wikipath = window.location.pathname === '/' ? 'home' : 'docs';
   });
 
   useEffect(() => {
@@ -172,9 +172,9 @@ function Home() {
 
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
-      <div className={classnames("wrapper", wikipath)}>
+      <div className={classnames('wrapper', wikipath)}>
         <div
-          className={classnames("inner-wrapper", styles.innerWrapper)}
+          className={classnames('inner-wrapper', styles.innerWrapper)}
           style={wrapperStyle}
         >
           <header className={classnames(styles.heroBanner)}>
@@ -184,7 +184,7 @@ function Home() {
                 className={styles.wikiLogo}
                 width='555'
                 src={
-                  "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93a37b7-2a48-421c-80b7-3079eca8beb7_2048x881.png"
+                  'https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93a37b7-2a48-421c-80b7-3079eca8beb7_2048x881.png'
                 }
               />
               <p className={styles.heroSubtitle}>
@@ -196,11 +196,11 @@ function Home() {
             <div
               className='row'
               style={{
-                display: "flex",
-                justifyContent: "center",
+                display: 'flex',
+                justifyContent: 'center',
               }}
             >
-              <div className={"col"}>
+              <div className={'col'}>
                 <h2 id='abstract'>Abstract</h2>
                 <blockquote>
                   <p>
@@ -209,7 +209,7 @@ function Home() {
                       operates outside of the prescribed rules of the game, uses
                       external factors to affect the game, or goes beyond the
                       supposed limits or environment set by the game.”
-                    </em>{" "}
+                    </em>{' '}
                     - From Wiki
                   </p>
                 </blockquote>
@@ -244,7 +244,7 @@ function Home() {
                   <br />
                 </p>
                 <p>
-                  We’re building a{" "}
+                  We’re building a{' '}
                   <a href='https://wiki.metagame.wtf/docs/wtf-is-metagame/narrative-1-a-decentralized-factory'>
                     decentralized factory
                   </a>
@@ -275,8 +275,8 @@ function Home() {
                   </li>
                 </ul>
                 <p>
-                  {" "}
-                  Read more about the Phases of MetaGame{" "}
+                  {' '}
+                  Read more about the Phases of MetaGame{' '}
                   <a href='https://wiki.metagame.wtf/docs/how-does-it-work/phases-of-metagame'>
                     here
                   </a>
@@ -289,11 +289,11 @@ function Home() {
                 <div className='container'>
                   <div className='row'>
                     <div
-                      className={"col"}
+                      className={'col'}
                       style={{
-                        display: "flex",
-                        flexFlow: "row wrap",
-                        justifyContent: "center",
+                        display: 'flex',
+                        flexFlow: 'row wrap',
+                        justifyContent: 'center',
                       }}
                     >
                       <h2 style={sectionHeading}>So, who is it for?</h2>
@@ -306,10 +306,10 @@ function Home() {
                             <Panel
                               key={idx}
                               lastPlayerPanel={
-                                i === features.length - 2 ? "last-item" : ""
+                                i === features.length - 2 ? 'last-item' : ''
                               }
                               lamerPanel={
-                                i === features.length - 1 ? "lamer-panel" : ""
+                                i === features.length - 1 ? 'lamer-panel' : ''
                               }
                               {...props}
                             />
@@ -322,27 +322,27 @@ function Home() {
             )}
             <div
               style={{
-                display: "flex",
-                justifyContent: "center",
+                display: 'flex',
+                justifyContent: 'center',
               }}
             >
               <div className={styles.buttons}>
                 <Link
                   className={classnames(
-                    "button button--primary button--lg button--explore",
+                    'button button--primary button--lg button--explore',
                     styles.button
                   )}
-                  to={useBaseUrl("docs/home")}
+                  to={useBaseUrl('docs/home')}
                 >
                   EXPLORE
                 </Link>
                 <Link
                   className={classnames(
-                    "button button--primary button--lg button--join",
+                    'button button--primary button--lg button--join',
                     styles.button,
                     styles.btnJoin
                   )}
-                  to={useBaseUrl("docs/enter-metagame/join-metagame")}
+                  to={useBaseUrl('docs/enter-metagame/join-metagame')}
                 >
                   JOIN
                 </Link>
