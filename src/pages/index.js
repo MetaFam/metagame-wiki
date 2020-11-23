@@ -3,6 +3,7 @@ import ReactGA from 'react-ga';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import Head from '@docusaurus/Head';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.scss';
@@ -14,13 +15,13 @@ const features = [
     description:
       '<p>MetaGame is for those who want to play an active role in building the future.</p> <p>For those who want to:</p> <ul><li>Build their knowledge, get experience & level up.</li> <li>Find cool projects, solve problems & get paid.</li> <li>Become a part of something bigger.</li></ul>',
     linkText: 'Through here',
-    linkTo: 'docs/start-here/for-players',
+    linkTo: 'docs/start-here/for-players'
   },
   {
     title: 'For Guilds',
     imageUrl: 'assets/guilds.png',
     description:
-      '<p>Its also for groups of people, those building tools & services for a decentralized future.</p> <p>For those who want:</p> <ul><li>Help finding tools, frameworks & funds accessible.</li> <li>Help getting value-aligned contributors & adopters.</li> <li>Become a part of the "new world" puzzle.</li></ul>',
+      '<p>Its also for groups of people, those building tools & services for a decentralized future.</p> <p>For those who want:</p> <ul><li>Help finding tools, frameworks & funds accessible.</li> <li>Help getting value-aligned contributors & adopters.</li> <li>Become a part of the "new world" puzzle.</li></ul>'
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-guilds',
   },
@@ -28,7 +29,7 @@ const features = [
     title: 'For Patrons',
     imageUrl: 'assets/patrons.png',
     description:
-      '<p>Those who really want to see MetaGame succeed, but prefer to help with funds.</p> <p>Why?</p> <ul><li>They love builder onboarding & support systems.</li> <li>Membership and other things, all paid in Seeds.</li> <li>Understanding MetaGame made them go: Fuck yeah!</li></ul>',
+      '<p>Those who really want to see MetaGame succeed, but prefer to help with funds.</p> <p>Why?</p> <ul><li>They love builder onboarding & support systems.</li> <li>Membership and other things, all paid in Seeds.</li> <li>Understanding MetaGame made them go: Fuck yeah!</li></ul>'
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
   },
@@ -36,16 +37,16 @@ const features = [
     title: 'For Lamers',
     imageUrl: 'assets/lamers.png',
     description:
-      '<p>Those who prefer to push their self-interest over everyone & only detract from the commons.</p> <p>NOT for:</p> <ul><li>Those who want to get rich quick & buy Lambos.</li><li>Those who say, but do not do.</li><li>Those who like to complain.</li></ul>',
+      '<p>Those who prefer to push their self-interest over everyone & only detract from the commons.</p> <p>NOT for:</p> <ul><li>Those who want to get rich quick & buy Lambos.</li><li>Those who say, but do not do.</li><li>Those who like to complain.</li></ul>'
     // linkText: 'Through here',
     // linkTo: 'docs/start-here/for-patrons',
-  },
+  }
 ];
 
 const wrapperStyle = {
   width: '680px',
   maxWidth: '680px',
-  margin: '5rem auto',
+  margin: '5rem auto'
   // overflow: 'hidden',
 };
 const panelStyle = {
@@ -58,39 +59,39 @@ const panelStyle = {
   marginBottom: '30px',
   padding: '30px',
   textAlign: 'left',
-  width: '100%',
+  width: '100%'
 };
 const lastPanelStyle = {
   ...panelStyle,
-  marginBottom: '50px',
+  marginBottom: '50px'
 };
 const lamerPanelStyle = {
   ...panelStyle,
-  marginBottom: '30px',
+  marginBottom: '30px'
 };
 const imgWrap = {
   flex: '0 0 33%',
   width: '33%',
-  marginRight: '15px',
+  marginRight: '15px'
 };
 const mainWrap = {
   flexGrow: 1,
   paddingLeft: '10px',
-  paddingRight: '20px',
+  paddingRight: '20px'
 };
 const aspectBox = {
   position: 'relative',
   height: '205px',
   width: '203px',
   // overflow: 'hidden',
-  textAlign: 'center',
+  textAlign: 'center'
 };
 const imgStyle = {
   width: '100%',
-  height: '100%',
+  height: '100%'
 };
 const lamerImgStyle = {
-  ...imgStyle,
+  ...imgStyle
   // width: '185px',
   // height: '182px',
 };
@@ -98,7 +99,7 @@ const lamerImgStyle = {
 const sectionHeading = {
   fontFamily: '"IBM Plex Mono"',
   fontSize: '24px',
-  color: '#a5b9f6',
+  color: '#a5b9f6'
 };
 const panelTitleStyle = {
   ...sectionHeading,
@@ -106,10 +107,10 @@ const panelTitleStyle = {
   marginBottom: '3px',
   flex: '0 0 100%',
   width: '100%',
-  textAlign: 'left',
+  textAlign: 'left'
 };
 const textStyle = {
-  fontSize: '14px',
+  fontSize: '14px'
 };
 
 function Panel({
@@ -119,7 +120,7 @@ function Panel({
   linkText,
   linkTo,
   lastPlayerPanel,
-  lamerPanel,
+  lamerPanel
 }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
@@ -172,6 +173,13 @@ function Home() {
 
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
+      <Head>
+        <script
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.customFields.GA4_TAG}`}
+        ></script>
+        <script src='../gtag_script.js'></script>
+      </Head>
       <div className={classnames('wrapper', wikipath)}>
         <div
           className={classnames('inner-wrapper', styles.innerWrapper)}
@@ -197,7 +205,7 @@ function Home() {
               className='row'
               style={{
                 display: 'flex',
-                justifyContent: 'center',
+                justifyContent: 'center'
               }}
             >
               <div className={'col'}>
@@ -293,7 +301,7 @@ function Home() {
                       style={{
                         display: 'flex',
                         flexFlow: 'row wrap',
-                        justifyContent: 'center',
+                        justifyContent: 'center'
                       }}
                     >
                       <h2 style={sectionHeading}>So, who is it for?</h2>
@@ -322,7 +330,7 @@ function Home() {
             <div
               style={{
                 display: 'flex',
-                justifyContent: 'center',
+                justifyContent: 'center'
               }}
             >
               <div className={styles.buttons}>

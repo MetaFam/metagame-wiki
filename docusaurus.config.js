@@ -8,20 +8,21 @@ module.exports = {
   projectName: 'metagame-wiki',
   customFields: {
     GA_TAG: process.env.GA_TAG,
+    GA4_TAG: process.env.GA4_TAG
   },
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: true,
+      disableSwitch: true
     },
     // headerLinks: [{ page: 'help', label: 'Help' }],
     navbar: {
       title: 'MetaGame Wiki',
       logo: {
         alt: 'MetaGame Logo',
-        src: 'img/mg-crystal.png',
-      },
-    },
+        src: 'img/mg-crystal.png'
+      }
+    }
     // footer: {
     //   style: 'dark',
     //   links: [
@@ -73,17 +74,17 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://wiki.metagame.wtf/admin/#/?',
+          editUrl: 'https://wiki.metagame.wtf/admin/#/?'
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.scss'),
-        },
-      },
-    ],
+          customCss: require.resolve('./src/css/custom.scss')
+        }
+      }
+    ]
   ],
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     require.resolve('docusaurus-plugin-sass'),
-    'docusaurus2-dotenv',
-  ],
+    'docusaurus2-dotenv'
+  ]
 };
