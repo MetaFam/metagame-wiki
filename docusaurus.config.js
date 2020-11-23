@@ -7,8 +7,7 @@ module.exports = {
   organizationName: 'MetaFam',
   projectName: 'metagame-wiki',
   customFields: {
-    GA_TAG: process.env.GA_TAG,
-    GA4_TAG: process.env.GA4_TAG
+    TAG_MANAGER_ID: process.env.TAG_MANAGER_ID
   },
   themeConfig: {
     colorMode: {

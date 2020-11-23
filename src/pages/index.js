@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import ReactGA from 'react-ga';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import Head from '@docusaurus/Head';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.scss';
@@ -166,20 +164,8 @@ function Home() {
     wikipath = window.location.pathname === '/' ? 'home' : 'docs';
   });
 
-  useEffect(() => {
-    ReactGA.initialize(siteConfig.customFields.GA_TAG);
-    ReactGA.pageview(window.location.pathname);
-  }, []);
-
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
-      <Head>
-        <script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.customFields.GA4_TAG}`}
-        ></script>
-        <script src='../gtag_script.js'></script>
-      </Head>
       <div className={classnames('wrapper', wikipath)}>
         <div
           className={classnames('inner-wrapper', styles.innerWrapper)}
