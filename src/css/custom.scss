@@ -36,6 +36,10 @@ body {
   @media (min-width: 995px) {
     font-size: 17px;
   }
+
+  div {
+    // outline: 1px solid red;
+  }
 }
 
 body,
@@ -276,7 +280,7 @@ body,
         margin-left: auto;
         margin-right: 0;
         max-width: unset;
-        padding-left: 0;
+        padding-left: 7px;
       }
       .row {
         display: flex;
