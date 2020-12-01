@@ -29,7 +29,8 @@ function TheRoom() {
       <iframe
         className={styles.theRoom}
         allow='microphone'
-        src='https://map.highfidelity.com/yC943b9F2bPxjq0U/?map=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F741427932601516142%2F780606593393885184%2FMeta_Mansion_.png'
+        src='https://map.highfidelity.com/yC943b9F2bPxjq0U/?map=https%3A%2F%2Fi.ibb.co%2F1TQPMjg%2FoXjMqWPQ.png' // Vitalik Mansion
+        // src='https://map.highfidelity.com/yC943b9F2bPxjq0U/?map=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F741427932601516142%2F780606593393885184%2FMeta_Mansion_.png'
       />
     </Layout>
   );
