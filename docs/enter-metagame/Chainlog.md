@@ -5,7 +5,7 @@ title: ⛓️ CHAINLOG ⛓️
 
 ## 📜Block #10
 
-Thought it’d be good to give y’all a longer rundown of all the progress rather than just these bullet points. So here’s just a few:
+**🗺️ General**
 - Seeds pump even harder, almost quadrupling since the last newsletter.
 - MyMeta makes good progress towards full realization.
 - The effect of The Purge continues: the number of active players increases, while the total number of players actually decreases. 😱
@@ -80,39 +80,8 @@ You’ll know soon enough 🙃
 Not just refusing to leak our alpha, we’re also not yet sure ourselves. We only know it will be some kind of a dashboard & likely a feed.
 We’ll be doing a design sprint with the folks over from Deep Work to work out which of the 100 awesome ideas we should build first.
 
-- ***❓ Quests***
-Don’t want to be among the next 20 to get booted out of MetaGame for being inactive, do you? Here are some quests 🙃👇
 
-Evergreen:
 
- >🧠 Learn or Teach - We need more knowledge to spread! Go to the #🧠-brain-exchange channel and post “I want to learn X” or “I can teach someone Y”.
-
- >🏛️ Tread The Forums - Forums are a crucial place for curating useful information but currently still underpopulated. Go and do something about it.
-
- >🚨 Speak up! - We need more people suggesting improvements & speaking up for what sucks in MetaGame. Do that in the #🚨-issues-n-ideas channel.
-
- >💩 Don Dump - You’ve been holding Seeds through this x3 pump and you have no intention of selling any time soon? That alone is worth some recognition.
-
- >🏥 Help Others - Go help someone! May be a fellow metagamer or it maybe a a fellow stranger - any philantropic or ecological cause out there.
-
-New/high impact:
-
- >🍝 Pasta - We need someone to copy the ⛓️Chainlog sections from the past 10-20 newsletters, and make it into a post of its own.
-
- >🔍 Analyze - Install Google Analytics or other analytics software on the wiki so we can know if enough people are finding it, what they find most valuable etc..
-
- >📚 Curate - Making MetaGame more useful for Ethereum noobs! We’re collecting knowledge on all things tokens, dApps & DeFi. Got useful links or thoughts? Tell us about it in the #🧠-meta-library.`
-
-As always, report to #😇-did-a-thing upon completion to claim your rewards 😊.
-
-- ***⚔️ Open Roles***
->🛠️ Builder - Can never have enough builders.
-
- >✒️ Scribe - We need scribes at our weekly Inner Circle & Community Gathering calls. Also someone to write posts that go with podcast episodes.
-
- >📽️ Anchorman - We need someone to start recording update videos based on these newsletters & educational content for the wiki. Considering becoming a youtuber? Now is your time to shine 🙃.`
-
-If you have any questions about the quests or the open roles, please feel free to ask in the #⁉️ask-anything channel or the tavern.
 
 ## 📜Block #9
 
