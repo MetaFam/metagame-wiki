@@ -1,8 +1,7 @@
 ---
-title: House of NFTs
+title: 🎨 House of NFTs
 ---
 
-import { mmDonts, ethSafetyLinks, List } from "../../src/components/list.js";
 
 <details>
 <summary>🤔 Wait, WTF are NFTs?</summary>
