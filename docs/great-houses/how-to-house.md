@@ -25,7 +25,7 @@ The main content of the House page is an organised list of links to other resour
 
 (or whatever combination of these sections makes sense for your topic)
 
-Lastly, please include a "Now What?" and "Subscribe" section ([See other pages](https://wiki.metagame.wtf/docs/great-houses/house-of-daos#now-what) to get feedback, updates, improvements + suggestions for other Houses and also a pointer to the MetaGame community Discord server.
+Lastly, please include a "Now What?" and "Subscribe" section ([See other pages](https://wiki.metagame.wtf/docs/great-houses/house-of-daos#now-what)) to get feedback, updates, improvements + suggestions for other Houses and also a pointer to the MetaGame community Discord server.
 
 Don't assume someone will have read any of the other wiki pages - they may just see this one!
 
