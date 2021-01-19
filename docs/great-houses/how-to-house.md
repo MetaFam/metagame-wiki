@@ -14,14 +14,14 @@ In general, they should start with a (collapsed) introduction: Wait, WTF is/are 
 
 The main content of the House page is an organised list of links to other resources. These can include (but are not limited to):
 
-_ Basic background information & general context
-_ News
-_ Events
-_ Communities to explore
-_ Books
-_ Articles & other resources
-_ Tutorials
-_ Links to "How-to" guides
+- Basic background information & general context
+- News
+- Events
+- Communities to explore
+- Books
+- Articles & other resources
+- Tutorials
+- Links to "How-to" guides
 
 (or whatever combination of these sections makes sense for your topic)
 
@@ -32,7 +32,7 @@ Don't assume someone will have read any of the other wiki pages - they may just 
 
 ### Adding the page:
 
-To be published, pages should be in markdown and added to the https://github.com/MetaFam/metagame-wiki repository in github.
+To be published, pages should be in markdown and added to the [MetaFam/metagame-wiki](https://github.com/MetaFam/metagame-wiki) repository in github.
 
 If you aren't familiar with markdown, you there a handy tool, [StackEdit](https://stackedit.io/) which can translate your text formatting into markdown.  Highly recommeneded!
 
