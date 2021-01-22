@@ -115,7 +115,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://wiki.metagame.wtf/admin/#/?",
+          editUrl: "https://metagame-wiki-iota.vercel.app/admin#/?",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.scss"),
