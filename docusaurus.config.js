@@ -14,7 +14,7 @@ module.exports = {
       defaultMode: "dark",
       disableSwitch: true,
     },
-    // headerLinks: [{ page: 'help', label: 'Help' }],
+    headerLinks: [{ page: "help", label: "Help" }, { search: true }],
     navbar: {
       title: "MetaGame Wiki",
       logo: {
