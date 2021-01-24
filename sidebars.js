@@ -42,9 +42,9 @@ module.exports = {
       'Guilding/building-successful-teams',
     ],
     "📚 Playbooks": [
-      "playbooks/index",
+      "playbooks/browse",
       "playbooks/how-to-make-it-without-technical-skills",
-      "playbooks/how-to-not-get-hacked",
+      // "playbooks/how-to-not-get-hacked",
 
       // {
       //   type: "subcategory",
