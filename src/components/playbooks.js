@@ -3,40 +3,40 @@ import styles from "./playbooks.module.scss";
 import { someSidebar } from "../../sidebars";
 // console.log(someSidebar);
 
-export const books = [
-  {
-    id: 1,
-    title: "📚 Make it Without Technical Skills",
-    imgURL: "https://imgur.com/1Kezv9Q.png",
-    bookPath: "playbooks/how-to-make-it-without-technical-skills",
-    decription:
-      "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
-  },
-  {
-    id: 2,
-    title: "📚 How not to get hacked",
-    imgURL: "https://imgur.com/1Kezv9Q.png",
-    bookPath: "playbooks/how-not-to-get-hacked",
-    decription:
-      "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
-  },
-  {
-    id: 1,
-    title: "Playbook 1",
-    imgURL: "https://imgur.com/1Kezv9Q.png",
-    bookPath: "",
-    decription:
-      "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
-  },
-  {
-    id: 2,
-    title: "Playbook 2",
-    imgURL: "https://imgur.com/1Kezv9Q.png",
-    bookPath: "",
-    decription:
-      "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
-  },
-];
+// export const books = [
+//   {
+//     id: 1,
+//     title: "📚 Make it Without Technical Skills",
+//     imgURL: "https://imgur.com/1Kezv9Q.png",
+//     bookPath: "playbooks/how-to-make-it-without-technical-skills",
+//     decription:
+//       "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
+//   },
+//   {
+//     id: 2,
+//     title: "📚 How to not get hacked",
+//     imgURL: "https://imgur.com/1Kezv9Q.png",
+//     bookPath: "playbooks/how-not-to-get-hacked",
+//     decription:
+//       "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
+//   },
+//   {
+//     id: 1,
+//     title: "Playbook 1",
+//     imgURL: "https://imgur.com/1Kezv9Q.png",
+//     bookPath: "",
+//     decription:
+//       "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
+//   },
+//   {
+//     id: 2,
+//     title: "Playbook 2",
+//     imgURL: "https://imgur.com/1Kezv9Q.png",
+//     bookPath: "",
+//     decription:
+//       "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
+//   },
+// ];
 
 export function bookList() {
   const pages = Object.entries(someSidebar);
