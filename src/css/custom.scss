@@ -405,7 +405,7 @@ body,
       position: relative;
       background-color: rgba(255, 255, 255, 0.08);
       background-image: none;
-      background-size: 20px;
+      backdrop-filter: blur(0px);
       color:  #fff;
       font-size: 0.7rem;
       line-height: 1.4rem;
@@ -421,6 +421,7 @@ body,
       &:focus {
         background-color: rgba(255, 255, 255, 0.25);
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(0px);
         color:  #fa85bc;
         max-width: 130px;
         &::placeholder {
@@ -471,12 +472,12 @@ body,
 .algolia-autocomplete {
   background-color: rgba(255, 255, 255, 0.02);
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(7px);
+  // backdrop-filter: blur(7px);
   border-radius: 6px;
   .ds-dropdown-menu {
     background-color: rgba(255, 255, 255, 0.02);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(7px);
+    // backdrop-filter: blur(7px);
     border-radius: 6px;
     width: 500px;
   }
