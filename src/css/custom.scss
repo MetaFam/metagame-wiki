@@ -400,11 +400,47 @@ body,
       width: 80px;
     }
   }
+  &__search {
+    &-input {
+      position: relative;
+      background-color: rgba(255, 255, 255, 0.08);
+      background-image: none;
+      background-size: 20px;
+      backdrop-filter: blur(7px);
+      color:  #fa85bc;
+      padding-left: 2rem;
+      border-radius: 6px;
+      box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+      transition: all 0.2s ease-in-out;
+      &:focus {
+        background-color: rgba(255, 255, 255, 0.25);
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+        color:  #fff;
+        &::placeholder {
+          color: #fff;
+        }
+      }
+      &::placeholder {
+        color: #fa85bc;
+        transition: color 0.2s 0.2s ease;
+      }
+    }
+    &::before {
+      content: "🔍";
+      display: block;
+      position: absolute;
+      top: 5%;
+      left: 25px;
+      height: 20px;
+      width: 20px;
+      z-index: 200;
+    }
+  }
   &__items {
     &--right {
       position: absolute;
       display: block;
-      right: 0;
+      right: 15px;
       top: 25%;
     }
   }
