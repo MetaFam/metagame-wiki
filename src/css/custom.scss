@@ -448,6 +448,10 @@ body,
 
 /* Main dropdown wrapper */
 .algolia-autocomplete {
+  background-color: rgba(255, 255, 255, 0.02);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(7px);
+  border-radius: 6px;
   .ds-dropdown-menu {
     background-color: rgba(255, 255, 255, 0.02);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
@@ -477,33 +481,6 @@ body,
   }
 } 
 
-/* Main category (eg. Getting Started) */
-// .algolia-autocomplete .algolia-docsearch-suggestion--category-header {
-//   color: darkgray;
-//   border: 1px solid gray;
-// }
-
-// /* Category (eg. Downloads) */
-// .algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {
-//   color: gray;
-// }
-
-// /* Title (eg. Bootstrap CDN) */
-// .algolia-autocomplete .algolia-docsearch-suggestion--title {
-//   font-weight: bold;
-//   color: black;
-// }
-
-// /* Description description (eg. Bootstrap currently works...) */
-// .algolia-autocomplete .algolia-docsearch-suggestion--text {
-//   font-size: 0.8rem;
-//   color: gray;
-// }
-
-// /* Highlighted text */
-// .algolia-autocomplete .algolia-docsearch-suggestion--highlight {
-//   color: blue;
-// }
 
 .pagination-nav__link,
 .markdown details summary {
