@@ -449,6 +449,10 @@ body,
 /* Main dropdown wrapper */
 .algolia-autocomplete {
   .ds-dropdown-menu {
+    background-color: rgba(255, 255, 255, 0.02);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(7px);
+    border-radius: 6px;
     width: 500px;
   }
   .algolia-docsearch-suggestion {
@@ -461,7 +465,7 @@ body,
     }
     &--title {
       font-weight: bold;
-      color: black;
+      color: #fff;
     }
     &--text {
       font-size: 0.8rem;
