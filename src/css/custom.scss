@@ -402,7 +402,10 @@ body,
   }
   &__items {
     &--right {
-      display: none;
+      position: absolute;
+      display: block;
+      right: 0;
+      top: 25%;
     }
   }
 }
