@@ -406,7 +406,6 @@ body,
       background-color: rgba(255, 255, 255, 0.08);
       background-image: none;
       background-size: 20px;
-      // backdrop-filter: blur(0px);
       color:  #fff;
       font-size: 0.7rem;
       line-height: 1.4rem;
@@ -417,11 +416,11 @@ body,
       width: 300px;
       max-width: 20px;
       transition: all 0.2s ease-in-out, max-width 0.3s 0.2s ease-in-out;
+      z-index: 200;
 
       &:focus {
         background-color: rgba(255, 255, 255, 0.25);
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-        // backdrop-filter: blur(0px);
         color:  #fa85bc;
         max-width: 130px;
         &::placeholder {
