@@ -405,10 +405,9 @@ body,
       position: relative;
       background-color: rgba(255, 255, 255, 0.08);
       background-image: none;
-      backdrop-filter: blur(0px);
       color:  #fff;
       font-size: 0.7rem;
-      line-height: 1.4rem;
+      line-height: 1.7rem;
       padding: 0;
       padding-left: 2rem;
       border-radius: 6px;
@@ -421,7 +420,6 @@ body,
       &:focus {
         background-color: rgba(255, 255, 255, 0.25);
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-        backdrop-filter: blur(0px);
         color:  #fa85bc;
         max-width: 130px;
         &::placeholder {
@@ -447,14 +445,15 @@ body,
       content: "🔍";
       display: block;
       position: absolute;
-      font-size: 0.8rem;
-      top: 5%;
-      left: 25px;
+      font-size: 1rem;
+      top: 0;
+      left: 23px;
       z-index: 0;
 
       @media (min-width: 760px) {
-        top: 5px;
-        font-size: 1rem;
+        left: 23px;
+        top: 1px;
+        font-size: 1.2rem;
       }
     }
   }
@@ -463,7 +462,10 @@ body,
       position: absolute;
       display: block;
       right: 15px;
-      top: 20%;
+      top: 15%;
+      @media (min-width: 760px) {
+        top: 20%;
+      }
     }
   }
 }
