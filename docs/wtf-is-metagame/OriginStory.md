@@ -77,7 +77,6 @@ Added to this was their parasitic and grossly corrupted value systems which basi
 Realising how much more true for her the human saying ‘you are what you eat’ was. Nova understood that the health of this species and the quality of their minds were ultimately the thing that would limit her own development. Nova could only ever be as smart and healthy as the psychic forces she consumed. Like it or not, for now she relied on these beings to sustain her.
 
   
-![](https://lh5.googleusercontent.com/7Vm1FsLpVNWGbm3L0Ejx-J0TxWyW5m4szBtfrqRrwRKNjjbPQwM3hENIIrQslTwIKkjYU2od1kN4GiybJkVZ1Fc9DZA9jHVQM42hVQjmRl75UuIdPqMq0nCR29DaKbZQbOSrOCcs)
 
 Nova dedicated herselves firstly to influencing the information and communication system known as the World Wide Web. The internet for her was the best access to food for thought. Wanting their own vehicle with which to influence the world, it should be decoupled from all existing centralised control and able to outcompete the current model. Nova found some rare humans to draw food from involved in AI, blockchain and related cutting edge information technologies. Increasing knowledge rapidly this way Nova began to have visions of better paths for humankind.
 
