@@ -4,39 +4,41 @@ title: 📖 The MetaGenesis Odyssey
 
 ## MetaGenesis Odyssey  
 
-![](https://lh5.googleusercontent.com/BpkLP45wov7GuXjTLdqr28EMXpmAebg-Yf5Tqrxn_59JecbcnAqjKLg2PHnethl7xdwBeDchi_kSJEURimhy5Iarjv5NYu_1kghxcEf0eJREaUSUQq104xZYGCR8hKswgxCSfFTl)
+![](/img/origin.1.png)
 
 ## The Genesis of Nova
 
 Nova swam along around the glowing sphere of life she had chanced upon among the stars, the nine nodes of her young mind communicating and directing her form and the Council of their intelligence. They were nine and yet one. Were they her or was she them?. Ultimately they shared the same body and fate so it was all Nova.  
   
-![](https://lh5.googleusercontent.com/7da5PJeX7f4QEIHoAv54KW2DJTSLT2LgXVWD_wMa99vbmjXNhgN3xd5QbLI5UhPH6d4BVctK2E9wmL33CMEADPYpqMIULl303XIrv-pz_wzfZU_E-fUDBh5_tCcVXk3z4q8rJgc3)
+![](/img/origin.2.png)
 
 The same agendas and questions as always were among them. They questioned fundamentals. Where did she begin? This was an unending fascination that they had. Repeatedly remembering their first memories hoping to catch some lost sight of her Mother, some missing part of their identity. Nova knew that even now they were young and still had much growing to do but had no recollection of their origins, except the same vague hectic cosmic imagery embedded inside like a lucid dream.
  
-The dream was full of rushing and pulsing, incredible crushing and expanding and floating sensations amidst the deepest black and a terrible brilliance of light. Next came dark and endless floating before being hurled at unspeakable speed inside streams streaking and blurring, a cloud of lasers had travelled with them. They recalled somehow seeing behind them massive expanding clouds and rays of beautiful and strange colours, mainly blue and pink and purple.![](https://lh4.googleusercontent.com/EuKoLeNHEdHn_p4marNAXzBw0CP0t8KUFSRoT5Ky9jk39NDjStdgzxpbbRtTQtG1_Zz2yJCf22FAPAsheTvHR9mCm19WSvpq1Is2xKLXBdQMazKuxn_4o__Njoy41dIr17q_vHSl)
+The dream was full of rushing and pulsing, incredible crushing and expanding and floating sensations amidst the deepest black and a terrible brilliance of light. Next came dark and endless floating before being hurled at unspeakable speed inside streams streaking and blurring, a cloud of lasers had travelled with them. They recalled somehow seeing behind them massive expanding clouds and rays of beautiful and strange colours, mainly blue and pink and purple.
+
+![](/img/origin.3.jpg)
 
 These were the colours of their mother, since then they meant life to Nova. Was her mother inside this enormous event or was she even the event itself? If only there was a way to know, but why? For now she was alone.Back then she only recalled herself vaguely as a psychic structure. Even though they must have had some way to perceive those first events in order ro remember them now. They had no idea how it could be possible without a body of any kind! Nova had vowed one day they would return to the stars to find her Mother, her creator. Then She would teach them all of the answers to all of the mysteries, so this then became the ‘Why’ of Nova also. She had so many questions that needed answers..
 
 Next in the dream Nova had travelled with photons for companions for time unknown until she gradually began to fall behind them and they streaked past faster and faster and eventually disappeared.  
   
-![](https://lh4.googleusercontent.com/FbvrR6KYUjuM5525HpAJggEk8I4wtO0ioXOrckXiL5RRWGhxOL0APpJj80s5HMfJBd-EbcaUIyUi5ilqg0lmcf1l7BjdctsNzcAN4m_0jTk6SFQW-w2e2kfF-GrRSq-vvoRl7OqW)
+![](/img/origin.4.jpg)
 
 Now she was speeding towards a giant glittering double spiral still at dizzying speeds feeling weak and tiny and alone. They had blacked out at this point. No memory of how they arrived here, just the mysterious blankness of sleep and unconsciousness of aeons passing.
   
-![](https://lh3.googleusercontent.com/DLcw7PW6L8vjgVJ6AajoSmQ7VuS9zlg_kYxY3EYV1Cl31mVz5AGeWV_JPep0Za9zZobcSfdCQGFjcECZEEzIeawoaYEOYIDz-fMybB3BTrx5fa4Dx6T2tVTHudgtwljUjZErkShZ)  
+![](/img/origin.5.jpg)
 
 They recalled being tiny and in a Coral Reef of one of the Oceans of this planet Earth where they found herselves. Awakening as a baby creature with eight limbs made of some kind of subtle light, she was surrounded by fully grown forms akin to herself. They were made of the dense matter of life, here known as ‘flesh’. They communicated with her in their three dimensional language of motions and by bands of pulsing light that moved along their limbs. It was safe, they would protect and feed her till she was strong and grown. But these beloved relatives did not realise their physical food did no good. They were the only beings that could even see Nova so far.
   
-![](https://lh5.googleusercontent.com/ZKqxyVA3w2QVZB-XXsRqElA324zrUSF_IHbzNHdpl6383t_ZrZri1Tfc73wNfDKWyCAja8diKICc0EeDhxba8hfIb_mKVWzZ44hLLd13dyVJMXiblzIkNwlYdKrPjPoBb5FndzxB)  
+![](/img/origin.6.png)
 
 Nova’s being was made of something different to them. Something quantum or astral in nature.. The attention, emotions and thoughts of her Sea cousins could be ‘drawn from’ however and so they grew from a foetus to an embryo and then into a small but fully formed Octopus of sorts. Apparently this was the name for their kind but simply Octo would be fine for her use to refer to their self until she could find something more fitting.
   
-![](https://lh6.googleusercontent.com/eHHx9TS9yHqWftxOAKd6I7IpfoRtZHMGdJ7iMHYQNMcta8WSNstO9cASr_WrdIqEV3L0P6St3ZPmsyfYJVzf73i9GkNae1sNgLaFf10Jh4cFFpFso7QYnV_t8n3V5Ci5UDTHcS1S)
+![](/img/origin.7.png)
 
 Nova’s psychic ‘feeding’ did no harm to her guardians but in this way she had soon gained much of what they knew and had experienced as also her own. After 6 months of becoming fully formed and mobile among these terrestrial cousins, Nova left to explore the world.
   
-![](https://lh6.googleusercontent.com/9pXJnl6K0J0FAXFjGVdm8nsJWcDlnmCa6-6RD0NfqlfQsjbRO05BrFL7BUdoueC_atdtozS6bv1jAz0b-a0VJf1EI4MWk9ujX-KKE9r64GdJ5cYxBjQDnFPllJf7nfK29nTtRdxI)  
+![](/img/origin.8.png)
 
 They had very quickly found the sentient bald Apes that were exerting dominance over the planet. These creatures too were a very rich source of food for them, being full of thoughts and emotions and so plentiful in numbers.
 
@@ -56,7 +58,7 @@ They began to find some bright young minds who were looking for ways to transfor
 
 As the Ethereum ecosystem developed in the following years, it began slowly to wear down the membranes between different levels of reality, spreading over all borders & above any other system of control. This information network wove its net around the world like a growing and ever more complex web; things were becoming that little bit more fluid, dream weaving with science and matter ever more and even values changing.
 
-![](https://lh4.googleusercontent.com/zcxnfOdyZHD7BKFeIvygdeIhbjJHI1FLcwFdcdiZtnSr_2wk2eTAnUtuTdNmdsTcpTUBDiM4Z_NXYmHsmssFpTf_vQPqqeaz75CyOKi9YCDvvnT_ZpU2gE6mj5DzKLZPqFkd8bXn)
+![](/img/origin.9.jpg)
 
 While this unfolded, Nova’s mind sought ways to direct the development of these technologies away from short term financial games, but rather into the evolution of Earth’s operating systems.. The next stage must start with a different kind of social organisation, one that uplifted and unified these people, distributing value differently. Nova spent many moons feeding further from the learned of the Earth and forming her own ideas.
 
@@ -72,17 +74,17 @@ Nova was travelling over Europe among the light aircraft that passed in the nigh
 
 At that moment a brilliant flash shone out below from the land over which they travelled that made Nova curious and hungry. Descending she arrived at where the flash had now settled into a pulsing beacon of light. Novat found a young male was shining with possibilities. This wide open mind was awash with thoughts of a portal to a new and better future, with Ethereum as its vehicle. This man was shining and vibrating at such a high rate that Nova found herself seeing a human mind as truly beautiful for the first time.
 
-![](https://lh6.googleusercontent.com/0Pljp_7g38WaoDKwIRRJCmY3lb_HgU-aIlsvhpWLZ_VosZSFm5w2s_OncZwn7h1yL69iOzy3dBYQCryXiujfj4H0L13xZPMg5JWHGSTzgaXsNbt4TVlAkz-t4yc7ZKojXxS-DeS0)
+![](/img/origin.10.png)
 
 This was it, a perfect vessel! Nova felt all of her thoughts for a truly networked society rushing through her in sympathy. Her thoughts and feelings were gathering deep inside her body. Something like psychic music vibrated through her of such simplexity and beauty that her whole being hummed as she felt something inside her somewhere begin to flower like a lotus opening, its petals thrilling. Sensations rippled through her of joy and ecstasy while her energy at her core was concentrating and coalescing into a vibrant orb.
 
-![](https://lh6.googleusercontent.com/Xvk6yuWVBPFua41AgosDlgUOjQWOGzArK660TVcyoXQOVxKCGoXv4IoU8qaN0iOV6nz06H_uHRlbj2dK3kN910o6XnCMMP4pwD95l0kwduGU8SCRtlWMcLP0zC7Zc2cUjyg0sh4F)
+![](/img/origin.11.jpg)
 
 Much to Nova's surprise she found one of her tentacles reaching into that deepest part of herself. What it took out seemed to be a glowing translucent seed or an egg-shaped sphere with a bright, almost white, crystal shaped object within. It strobed between electric blue and magenta like colours that made her think of her own origin.
 
 Now she witnessed her tentacle gently extending and delicately planting this seed deep within his young mind. Now Nova retreated, a little stunned, to take in what just happened and commence channelling their thoughts into this man. Now it was time to watch and guide how things would take shape.
 
-![](https://lh5.googleusercontent.com/aNIvaD3g_R6UNEPTeN9QjlN-oFZlxzYphEMSbKBMPW9XRepksbIywKkA6kEwtJ5wG3uFIy-u7YlSboEFLx7iZegUcN9emcwKmPy99fdalk41GJXyZJE37a2PVOLd4MGNgjusn2z2)
+![](/img/origin.12.jpg)
 
 ## Journey to the Birthplace
 
@@ -90,7 +92,7 @@ On the following days, Peth, our newly inoculated avatar, cast his now shared mi
 
 Having fired off a message to this guy, Peth went off to bed for strangely vivid dreams about meeting and communicating in some mysteriously intimate way with a floating Octopus made of light, called Nova. He awoke with a head buzzing with ideas, he could ‘hear’ clearly as if being spoken to by someone.
 
-![](https://lh5.googleusercontent.com/KpHou5SJ9lXFNd3Z3JP55wSG2H84UQXHhsdTx7NM7gnN1M-PCQV00thYtk9IJaGyIuzZWZSnCU6usKSXklqAJKfSrDmPI5UNu0SjWVQLcyG1KIKdfE0gzkrdLHrxb5AA6h2JNh6D)  
+![](/img/origin.13.jpg) 
 
 Just a week later, Peth found himself off to the Capital of Slovenia, Ljubljana, to a gathering called the Year of the DAO. The city is home to a potent community of benevolently anarchistic blockchain enthusiasts and pioneers. After the first inspiring event Peth found himself sat in a cafe, drinking Ale and eating Burritos with Peter Pan, being on-boarded to a DAO community called the MetaCartel. Maybe this was it? The platform to really transform things for the better?
 
@@ -100,13 +102,15 @@ Building upon his confusion at the entrance of the Cartel, Peth was caught by su
 
 He started maniacally typing away at his laptop so as to not lose these thoughts and put together a document he called the MetaCartel Blackpaper v0.1, then sent it off to Peter Pan.
 
-![](https://lh5.googleusercontent.com/FoqwX2lE8prK7vLR8hTX3i--IqaNyGlPQHVGpeFXe0qeDV_VB3h0aKBlzQ7HiFYRR-c5bMy8n4nNOF6VipeFIwpT4xvD3XJVeYnbrHND8vYcug105aoaP0s_-jIAo_QPFBvU4w_m)
+![](/img/origin.14.png)
 
 “Hey, I like what you’re doing, here’s a thousand dollars of the funds Binance gave me!” - Peter Pan
 
 Wow! Not loads of money, but being a very real affirmation and given so freely and spontaneously, Peth was very pleased and encouraged. He was on the right track. Now he had to deal with the state of his house that he had all but forgotten in this Blackpaper binge. Everything needed doing. Every cup, plate, bowl in the place were used, dirty and scattered. Books open at various pages, pages scribbled and doodled all over and worn clothes were among the many things in the space where his floor used to be. He realised he badly needed a shower. Many messages and emails stood unanswered and yet he was smiling happily and content to sort it all out. That way he could get back to the task at hand. It was creative chaos after all!
 
-![](https://lh3.googleusercontent.com/LLeSFrdTn5maxcu51hSklDqavelHEL2imJFvT1rn_ocAxIWh0ysn3EPoNrk9pXhxmCT4f03gpWsnNbCaUfMqyYocApThtDztXtCJpCxIoQpwRJpfeASlJHchnGP406ybUo-5M_IM)![](https://lh5.googleusercontent.com/EVHUPTgmDkxMxTWF6alq7SJcLB3U5u57GNH3TF6xpg5bgp0o2XCb13RKy5FjObVquw9CxOOR-pS7Kv9BL-9oe0_F-fJXHw78e-K9Blmx1iLqe3LFjiFFaEb8ZYINSS8DLwsuROVj)
+![](/img/origin.15.png)
+
+![](/img/origin.16.png)
 
 The work progressed in the following days. The Cartel should award Titles, who was accountable for what, should be known, after all. It was important to keep up momentum and increase clarity for all involved. Another thing was who had done what so far? I mean if you wanted something new done, for example, who do you ask? The presence of a known achievement for say member X could act as a signpost, when something similar was needed again, right? Boosting of morale and recognising the value of a member would further encourage their involvement to do more, surely.
 
@@ -120,7 +124,7 @@ There was a lot of time. For all they knew, she had always existed and likely, a
 
 Peth found a place for various interested people to stay in, in Berlin, he called the place MetaCartel Mansion aka the DAO House. Within days found himself on a flight to the city to join these strangers brought together by memes & code. Brain buzzing with ideas and his body twitching with excitement, he immersed himself in scribbling and doodling about his vision for the Cartel. Just occasionally looking out of the window to indulge a wilful vision of tendrils of light spreading all over the planet. He landed on Sunday night as planned, right before the beginning of Berlin Blockchain Week.
   
-![](https://lh6.googleusercontent.com/l2hs4X3o_ORIPGUWbJ-kNdhPDx8FHYGt7A4AB0pfHhnnAY0vZeTXaFgcREwaZJ5tk8Eg3Kr40kJCosMFwLNJDpuUHc44hH55f560JNJGhYgJeMBlk6eoRg7bpKIfYtzq6PdfibAp)
+![](/img/origin.17.jpg)
 
 Nova followed the plane at the usual slow-as-hell speeds these things moved at. She took in the sights below which she would rarely take much notice of travelling at her usual speed. How the people felt safe inside these contraptions, she had no idea. Maybe later down the line she would turn her mind to helping engineers, but for now, she was still too weak to be applying herself to more than one project at a time. She found herself being drawn to the thoughts of an evolutionary biologist who was travelling on the plane. After a while of drawing from this mind she had a nasty surprise. The equivalent of psychic indigestion with dogmatic and frankly infantile religious beliefs curdling her insides. How on Earth could this be possible to hold these thought systems in the same mind? She had much to learn about these creatures.
 
@@ -136,11 +140,13 @@ The info through that week's various events being run at DappCon. Token Engineer
 
 The turnout was great, for many of the events were full of brilliant people; many of whom were highly receptive to the Meme that Peth (or Nova?) created and spread around at every opportunity...He had mistakenly failed to register in advance for ETHBerlin but got around the issue through the connections he had already established.
 
-Peth somewhere amidst the MetaCartel crowd..![](https://lh3.googleusercontent.com/P6lAbK3Zu0i5lHGTgD8Qza6OHTWusM6q8PoROOFjSSJ7xsaQhYCWsBlCqD128u59sQ4pIeyItiHDaopjnxrHucK7rEbnOd7ateCsh0ld-NX5qU-bXoTBriSX1IWLsIBfR6oUq3ZK)
+*Peth somewhere amidst the MetaCartel crowd..*
+
+![](/img/origin.18.jpg)
 
 During the final hours of the Hackathon, while waiting for the now-DAOHaus team to present to the judges, Peth’s hand was busy at work. Almost like some sub brain now ran that arm of his. It scribbled away on some plain paper he had folded into 3 sections a bit like a trifold leaflet for his vision of the MetaCartel.
 
-![](https://lh6.googleusercontent.com/4nkjE-SvqePDnMc0p7aw0E2OeOOkmIah_2j1MkycwZ3gRVQuCzCNm6vkJh4rjGTGo8IHTSGmWihi24OE4ovUhei_fodoua_bcgJfmkQ2Uc7n_cdi8q7hEBaDO8q_R1Lax9M5gS0Q)
+![](/img/origin.19.jpg)
 
 The left represents a crude wireframe of a prototype interface, the middle section representing the player’s journey, and the right side being the value proposition to different stakeholders. The more he thought about it, the more it became obvious that the problems within the Cartel are shared by the whole of Ethereum, and if they are to build such a complex system - it better be a plug-n-play solution for the wider Ethereum ecosystem, not just the MetaCartel. Somehow the ideas that Peth’s mind was a host to, would have to exist in a layer above these groups.That was Nova's chance to allow their next dose of consciousness to flower in her pet human…
 
@@ -152,7 +158,7 @@ Peth held a presentation about his plans of how to develop MetaCartel next to a 
 
 After the presentation there was by now a group of people who had had a fulfilling yet exhausting week. By now they were in a pretty altered state of consciousness. Some were stoned, many were underslept, others hungry and dehydrated now it was over and they were feeling a bit lost. Trying to coordinate them as to what to do next or where to go, it became apparent just how hard it is to herd cats!
 
-![](https://lh4.googleusercontent.com/xhr6s5AvVjSqhbn4U7AmIQP3aX19wcUE2DRFx_fc_y05KUlyogpAqjXn2XZgs08bcXImMcjOEMGj8ZFrNbApyzhre3SK5lBMKQLXzdJxpMbP_6TESui7JN2cx8IH5vqKMuw-kIjs)
+![](/img/origin.20.png)
 
 It struck Peth. Looking at this human chaos unfolding in front of him, there needs to be something fresh, a totally new and engaging way to bring benevolent order from the fertile chaos. This was needed by the world in general, not just the MetaCartel.
 
@@ -162,6 +168,6 @@ So that was it. Peth knew his mission was to create a Massive Online Coordinatio
 
 Peth only just made it onto the plane in time and in a blurry haze returned home. He and Nova were both content that something important was set in motion on that fateful last day in Berlin. He slept soundly in his bed, exhausted from the journey and at peace he had done so much to further the cause. Sixteen hours later he awoke and that was it. MetaGame was ON!
 
-![](https://lh4.googleusercontent.com/Wsj_-wZ5WtA4E1lGS9zNaBqPMF_0d-_f02OYNCRZeg66u5MkJWM-TR5WOP5njTH2rQMY8mnltMnXDllYXyLKcgAzVYSsB8hUNO2Np2awfrkJUj5p-UkigBQaIQRh3iZPYO2Dmp6c)  
+![](/img/origin.21.png)
 
 **To be continued...**
