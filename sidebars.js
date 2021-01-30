@@ -3,14 +3,14 @@ module.exports = {
     '🌀 MetaOS': ['home'],
     '🤨 Pillar Memes': [
       'wtf-is-metagame/in-search-of-commons-that-scale',
+      'wtf-is-metagame/origin-story',
       'wtf-is-metagame/the-coming-of-metagame',
       'wtf-is-metagame/way-of-web3-founders',
       'wtf-is-metagame/narrative-1-a-decentralized-factory',
       'wtf-is-metagame/narrative-2-a-web-of-opportunity',
       'wtf-is-metagame/metafam-way',
     ],
-    '🧐 Understanding MetaGame': [
-      'wtf-is-metagame/origin-story',
+    '🧐 Understanding MetaGame': 
       'wtf-is-metagame/wtf-is-metagame',
       'how-does-it-work/phases-of-metagame',
       'how-does-it-work/how-metagame-works',
