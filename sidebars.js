@@ -10,7 +10,7 @@ module.exports = {
       'wtf-is-metagame/narrative-2-a-web-of-opportunity',
       'wtf-is-metagame/metafam-way',
     ],
-    '🧐 Understanding MetaGame': 
+    '🧐 Understanding MetaGame': [
       'wtf-is-metagame/wtf-is-metagame',
       'how-does-it-work/phases-of-metagame',
       'how-does-it-work/how-metagame-works',
