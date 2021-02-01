@@ -1,5 +1,5 @@
 ---
-title: 📖 MetaManifesto
+title: "📖 MetaManifesto "
 ---
 
 
