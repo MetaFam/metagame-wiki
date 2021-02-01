@@ -36,6 +36,7 @@ module.exports = {
     ],
     '⚔️ Guilding': [
       'Guilding/what-why-how-of-your-dao',
+      'Guilding/metasys',
       'Guilding/guilding-101',
       'Guilding/building-successful-teams',
     ],
