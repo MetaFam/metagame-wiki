@@ -2,9 +2,12 @@
 title: 🕋 MetaSys
 ---
 
+# 🤔 Why MetaSys?
+If you're going to build a better future, you should probably build it in a decentralized way or else it likely won't end up much better.
+
 # 😬 DAOs - not quite there yet
 
-We weren’t really happy with how DAOs currently work.
+We weren’t happy with the way DAOs currently work.
 
 They are pretty much command & control based, with commands simply being given by token holders rather than CEOs.
 
