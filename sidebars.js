@@ -2,8 +2,8 @@ module.exports = {
   someSidebar: {
     '🌀 MetaOS': ['home'],
     '🤨 Pillar Memes': [
-      'wtf-is-metagame/in-search-of-commons-that-scale',
       'wtf-is-metagame/origin-story',
+      'wtf-is-metagame/in-search-of-commons-that-scale',
       'wtf-is-metagame/the-coming-of-metagame',
       'wtf-is-metagame/way-of-web3-founders',
       'wtf-is-metagame/narrative-1-a-decentralized-factory',
