@@ -72,9 +72,9 @@ This is how it's done in [Metamask](http://www.metamask.io/).
 
 Once you're in your wallet:
 
-1. scroll to the bottom of the MetaMask screen and click 'Add token
-2. click on the "custom token" tab
-3. in the contract field: paste this 0x30cF203b48edaA42c3B4918E955fED26Cd012A3F
+1. scroll to the bottom of the MetaMask screen and click "Add Token"
+2. click on the "Custom Token" tab
+3. in the contract field, paste: 0x30cF203b48edaA42c3B4918E955fED26Cd012A3F
 4. click "Save"
 
 After this, all there is to do is to give it time. Due to high overheads, we only mint Seeds at the beginning of each month. 😬
