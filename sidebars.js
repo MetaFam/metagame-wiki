@@ -11,7 +11,6 @@ module.exports = {
       'wtf-is-metagame/metafam-way',
     ],
     '🧐 Understanding MetaGame': [
-      'wtf-is-metagame/origin-story',
       'wtf-is-metagame/wtf-is-metagame',
       'how-does-it-work/phases-of-metagame',
       'how-does-it-work/how-metagame-works',
