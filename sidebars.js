@@ -2,6 +2,7 @@ module.exports = {
   someSidebar: {
     '🌀 MetaOS': ['home'],
     '🤨 Pillar Memes': [
+      'wtf-is-metagame/origin-story',
       'wtf-is-metagame/in-search-of-commons-that-scale',
       'wtf-is-metagame/the-coming-of-metagame',
       'wtf-is-metagame/way-of-web3-founders',
@@ -35,6 +36,7 @@ module.exports = {
       //   'great-houses/house-of-tokens',
     ],
     '⚔️ Guilding': [
+      'Guilding/metasys',
       'Guilding/what-why-how-of-your-dao',
       'Guilding/guilding-101',
       'Guilding/building-successful-teams',
