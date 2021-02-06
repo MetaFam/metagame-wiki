@@ -1,6 +1,6 @@
-WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind
+## WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind**
 
-The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and generally a Capitalised point of view, also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and general pillage of the globe to feed the bottom-up capitalist corporate harvester.
+The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
 
 This clearly doesn’t apply to contemporary cultures, e.g. A foraging/nomadic tribal community, or in fact anyone that has truly achieved low impact sustainability in their lives.
 
@@ -91,5 +91,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MTQyMzA2LC0xNzE1MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbLTExNTAzNTk5OTUsMzM5MTQyMzA2LC0xNz
+E1MzAwNzIxXX0=
 -->
