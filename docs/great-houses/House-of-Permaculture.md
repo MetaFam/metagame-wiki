@@ -60,28 +60,30 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Use Edges and Value the Marginal:** So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have blown about and because it’s at the edge you just let them get on with it, in a systems sense, this is where your system starts to engage with other systems around it and as such is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy. [https://youtu.be/4vp4B9Hu0ik](https://youtu.be/4vp4B9Hu0ik)
 
-Creatively Use and Respond to Change:  Change does not stop! Nothing is constant in this universe and beyond, other than change, we are in a constant state of dynamic flux, again there is no way of over stating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen, that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of creatively using and responding to change! [https://youtu.be/n08bNUPyHgE](https://youtu.be/n08bNUPyHgE)
+**Creatively Use and Respond to Change:**  Change does not stop! Nothing is constant in this universe and beyond, other than change, we are in a constant state of dynamic flux, again there is no way of over stating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen, that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of creatively using and responding to change! [https://youtu.be/n08bNUPyHgE](https://youtu.be/n08bNUPyHgE)
 
 So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:
 
-David Holmgren’s 12 x Principals of Permaculture:
+**David Holmgren’s 12 x Principals of Permaculture:**
 
 [https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/](https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/)
 
-Bill Mollison’s 12 x Principals of Permaculture:
+**Bill Mollison’s 12 x Principals of Permaculture:**
 
 [https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/](https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/)
 
-Both on one Page:
+**Both on one Page:**
 
 [https://knowledgebase.permaculture.org.uk/principles](https://knowledgebase.permaculture.org.uk/principles)
 
-Geoff Lawton Student of Bill Mollison, very prolific in his work:
+**Geoff Lawton Student of Bill Mollison, very prolific in his work:**
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzI4MzkyOCwxMTI3MjY4MzIwLDU5Nz
-IwNDk0OSwtMTQ5OTk0ODIxNiwtNTUwNDY3NzY4LDEwMDQ1NTg4
-MTcsMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC0xNz
-E1MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3Mj
+A0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgx
+NywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MT
+UzMDA3MjFdfQ==
 -->
