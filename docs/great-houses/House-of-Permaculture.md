@@ -18,23 +18,23 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 ![](https://lh3.googleusercontent.com/dRoZTeD-HUVF25m6X-PrcJwBQ-DSXgfxVYo0_xX8Ys6COHrGG_w2YNlGhbfCECJ4e93D47qxpEekmlhavxSLIaYnEGA91A9QOQp87ygfGY_tyx6kWsWQWd-guVuA0uYCMnEz7Q0q)
 
-Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts.
+**Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts.**
 
-The MF Ethics
+## The MF Ethics
 
-Earth Care: De-Centralised Everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production, etc.
+**Earth Care:** De-Centralised Everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production, etc.
 
-People Care: De-Centralised Everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc.
+**People Care:** De-Centralised Everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc.
 
-Equitable Share: By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s), avoid superfluous financial roles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
+**Equitable Share:** By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s), avoid superfluous financial roles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
 
-Knowledge Share: By building and using networks at a local level, through to worldwide networks on the web to connect people, tightly aligned with Earth Hubs, which can spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process.
+**Knowledge Share:** By building and using networks at a local level, through to worldwide networks on the web to connect people, tightly aligned with Earth Hubs, which can spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process.
 [Ethics & Principles of Permaculture](https://cdn.discordapp.com/attachments/781969288642560041/792364405072723998/Permaculture.png)![](https://lh3.googleusercontent.com/Rzdk-3m7JHMcv779XPySyke0b8xlj724_W7DXbIhkbxb9FLiL7iuBrdxdAJTTMCfVVEBh3kjK0kxSmbu7NHa125PVNI0tijqDGRYLQ8-P2iiRCfiiab0Oa3x-D_bAN8T5h5Py5KH)
 
   
   
 
-The MF Principles
+## The MF Principles
 
 Observe and Interact:  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirement in. If you look hard enough, or for long enough, there is always a you-sized space. [https://youtu.be/lSWWChaEi1o](https://youtu.be/lSWWChaEi1o)
 
@@ -85,6 +85,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MT
-QyMzA2LC0xNzE1MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbMTQwNTc4ODkxMywxMzMzMTM5MjYzLDE0Mj
+I2NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
 -->
