@@ -39,16 +39,9 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! [https://youtu.be/MinWXNy4_LY](https://youtu.be/MinWXNy4_LY)
 
-  
-
 **Use and value Renewable Resources and Services:** Back to Rhythms and Cycles, exploit and conserve these when they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle, exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, or milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….[https://youtu.be/h__qCy4GhSM](https://youtu.be/h__qCy4GhSM)
 
-  
-
 **Produce no Waste:** This is one of the most tangible indicators of how well you are doing. In non-anthropogenic nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so. [https://youtu.be/mgZkn56dpk8](https://youtu.be/mgZkn56dpk8)
-
-  
-  
 
 **Design from Patterns to Detail:** Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Plus, you probably need to have some chocolate trifle around. Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. [https://youtu.be/qOl2cYubn0I](https://youtu.be/qOl2cYubn0I)
 
@@ -65,19 +58,15 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:
 
 **David Holmgren’s 12 x Principals of Permaculture:**
-
 [https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/](https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/)
 
 **Bill Mollison’s 12 x Principals of Permaculture:**
-
 [https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/](https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/)
 
 **Both on one Page:**
-
 [https://knowledgebase.permaculture.org.uk/principles](https://knowledgebase.permaculture.org.uk/principles)
 
 **Geoff Lawton Student of Bill Mollison, very prolific in his work:**
-
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
 The 21 Cards of the ethics and principles of Bill Mollison as provided on https://www.permaculturefundamentals.com/ by Brett Cooper
@@ -86,9 +75,9 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMj
-k3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgz
-MjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMT
-AwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIz
-MDYsLTE3MTUzMDA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMT
+QzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1
+MjM2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC
+01NTA0Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2
+NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
 -->
