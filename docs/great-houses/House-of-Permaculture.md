@@ -17,12 +17,11 @@ We are in a constantly moving and changing world and as well as our environment 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
 
 ![](https://lh3.googleusercontent.com/dRoZTeD-HUVF25m6X-PrcJwBQ-DSXgfxVYo0_xX8Ys6COHrGG_w2YNlGhbfCECJ4e93D47qxpEekmlhavxSLIaYnEGA91A9QOQp87ygfGY_tyx6kWsWQWd-guVuA0uYCMnEz7Q0q)
-
 **Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts.**
 
 ## The MF Ethics
 
-**Earth Care:** De-Centralised Everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production, etc.
+**Earth Care:** Our No.1 Priority is to ensuring that our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can finDe-Centralised Everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production, etc.
 
 **People Care:** De-Centralised Everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc.
 
@@ -85,6 +84,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTc4ODkxMywxMzMzMTM5MjYzLDE0Mj
-I2NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
+eyJoaXN0b3J5IjpbOTU5NTkxMDQ3LDEzMzMxMzkyNjMsMTQyMj
+Y2MDM1LDMzOTE0MjMwNiwtMTcxNTMwMDcyMV19
 -->
