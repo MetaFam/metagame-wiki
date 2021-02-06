@@ -27,7 +27,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Equitable Share:** By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s, Bartering schemes, online shopping sites for individuals and organisations and Farmer's Markets which allow peer to peer flow of finance/value), Avoiding/Eliminating superfluous roles, tiers in production, distribution and point of sale/delivery creates a value surplus which feeds the sustainability of the individual financially and/or can be set aside to further the above principles and/or store and use to encourage progress of personal and community efforts in de-linking themselves from overheads, challenging the ability to be financially self sufficient.
 
-**Knowledge Share:** By building and using networks at a local level, through to worldwide networks on the web we are and can connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly aligned with Earth Hubs/Outposts, which can spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process and the return of basic needs being met at a local level.
+**Knowledge Share:** By building and using networks at a local level, through to worldwide networks on the web we are and can connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly align these networks with Earth Hubs/Outposts, which can then spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process and the return of basic needs being met at a local level.
 [Ethics & Principles of Permaculture](https://cdn.discordapp.com/attachments/781969288642560041/792364405072723998/Permaculture.png)![](https://lh3.googleusercontent.com/Rzdk-3m7JHMcv779XPySyke0b8xlj724_W7DXbIhkbxb9FLiL7iuBrdxdAJTTMCfVVEBh3kjK0kxSmbu7NHa125PVNI0tijqDGRYLQ8-P2iiRCfiiab0Oa3x-D_bAN8T5h5Py5KH)
 
   
@@ -84,8 +84,7 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkyNjU1NTgsNTk3MjA0OTQ5LC0xND
-k5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5
-MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ
-==
+eyJoaXN0b3J5IjpbMTEyNzI2ODMyMCw1OTcyMDQ5NDksLTE0OT
+k5NDgyMTYsLTU1MDQ2Nzc2OCwxMDA0NTU4ODE3LDEzMzMxMzky
+NjMsMTQyMjY2MDM1LDMzOTE0MjMwNiwtMTcxNTMwMDcyMV19
 -->
