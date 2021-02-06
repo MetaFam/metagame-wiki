@@ -35,10 +35,7 @@ People Care: De-Centralised Everything (This includes Education, Identity Contro
 Equitable Share: By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s), avoid superfluous financial roles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
 
 Knowledge Share: By building and using networks at a local level, through to worldwide networks on the web to connect people, tightly aligned with Earth Hubs, which can spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process.
-
- 
-
-![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/792364405072723998/Permaculture.png)![](https://lh3.googleusercontent.com/Rzdk-3m7JHMcv779XPySyke0b8xlj724_W7DXbIhkbxb9FLiL7iuBrdxdAJTTMCfVVEBh3kjK0kxSmbu7NHa125PVNI0tijqDGRYLQ8-P2iiRCfiiab0Oa3x-D_bAN8T5h5Py5KH)
+[Ethics & Principles of Permaculture](https://cdn.discordapp.com/attachments/781969288642560041/792364405072723998/Permaculture.png)![](https://lh3.googleusercontent.com/Rzdk-3m7JHMcv779XPySyke0b8xlj724_W7DXbIhkbxb9FLiL7iuBrdxdAJTTMCfVVEBh3kjK0kxSmbu7NHa125PVNI0tijqDGRYLQ8-P2iiRCfiiab0Oa3x-D_bAN8T5h5Py5KH)
 
   
   
@@ -94,5 +91,5 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTI5NzgyMSwtMTcxNTMwMDcyMV19
+eyJoaXN0b3J5IjpbMzM5MTQyMzA2LC0xNzE1MzAwNzIxXX0=
 -->
