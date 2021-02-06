@@ -82,17 +82,11 @@ So Prior to me re-writing these previously described principles and ethics for u
 
 The 21 Cards of the ethics and principles of Bill Mollison as provided on https://www.permaculturefundamentals.com/ by Brett Cooper
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg)
-|  |  |
-|  |  |
-|--|--|
-|  |  |
 
-|--|--|
-|  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc5MjgyNSwxMjY5OTUxNDMwLDk1OD
+eyJoaXN0b3J5IjpbMTI5NzUyOTQ2NSwxMjY5OTUxNDMwLDk1OD
 k2NTIzNiwxMTI3MjY4MzIwLDU5NzIwNDk0OSwtMTQ5OTk0ODIx
 NiwtNTUwNDY3NzY4LDEwMDQ1NTg4MTcsMTMzMzEzOTI2MywxND
 IyNjYwMzUsMzM5MTQyMzA2LC0xNzE1MzAwNzIxXX0=
