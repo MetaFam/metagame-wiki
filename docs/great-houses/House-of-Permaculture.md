@@ -16,8 +16,6 @@ We are in a constantly moving and changing world and as well as our environment 
 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
 
-  
-
 ![](https://lh3.googleusercontent.com/dRoZTeD-HUVF25m6X-PrcJwBQ-DSXgfxVYo0_xX8Ys6COHrGG_w2YNlGhbfCECJ4e93D47qxpEekmlhavxSLIaYnEGA91A9QOQp87ygfGY_tyx6kWsWQWd-guVuA0uYCMnEz7Q0q)
 
 Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts.
@@ -87,6 +85,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjY2MDM1LDMzOTE0MjMwNiwtMTcxNT
-MwMDcyMV19
+eyJoaXN0b3J5IjpbNjkwMDQxODMsMTQyMjY2MDM1LDMzOTE0Mj
+MwNiwtMTcxNTMwMDcyMV19
 -->
