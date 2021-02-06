@@ -23,7 +23,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Earth Care:** Our No.1 Priority is ensuring our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing, with positive reversal protocols including planting millions and millions of trees, along with other initiatives to capture Carbon, which are many and varied. Do not be in any doubt that 8 billion people all doing a little bit will help with this! It will and so get involved in whatsoever way you can! The main focus has to be on Industry though!
 
-**People Care:** Human Beings were not supposed to exist as automatons mindlessly repeating tasks for the benefit of a corporation to profit in the boomerang of produce and services that could have been delivered at source in the first place by the very peopThe devolution of power and supply and production is at the heart of this, decentralising everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc. T
+**People Care:** Human Beings were not supposed to exist as automatons mindlessly repeating tasks for the benefit of a corporation to profit in the boomerang of produce and services that could have been delivered at source in the first place by the very people enslaved into a cycle of pointless parts existent only to create as many price points as possible, the cost to individuals has been devastating, including physiological damage from interuptions to their gene rhythms, The devolution of power and supply and production is at the heart of this, decentralising everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc. T
 
 **Equitable Share:** By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s), avoid superfluous financial roles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
 
@@ -84,7 +84,7 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTQyMTY4MSwxMDA0NTU4ODE3LDEzMz
-MxMzkyNjMsMTQyMjY2MDM1LDMzOTE0MjMwNiwtMTcxNTMwMDcy
-MV19
+eyJoaXN0b3J5IjpbNDQ3MTY3Nzk5LDEwMDQ1NTg4MTcsMTMzMz
+EzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC0xNzE1MzAwNzIx
+XX0=
 -->
