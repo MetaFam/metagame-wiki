@@ -80,9 +80,10 @@ So Prior to me re-writing these previously described principles and ethics for u
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
-The 21 Cards as provided on 
+The 21 Cards as provided on https://www.permaculturefundamentals.com/
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTA5MTE1Myw5NTg5NjUyMzYsMTEyNz
+eyJoaXN0b3J5IjpbMTI2OTk1MTQzMCw5NTg5NjUyMzYsMTEyNz
 I2ODMyMCw1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2
 OCwxMDA0NTU4ODE3LDEzMzMxMzkyNjMsMTQyMjY2MDM1LDMzOT
 E0MjMwNiwtMTcxNTMwMDcyMV19
