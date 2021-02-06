@@ -12,7 +12,7 @@ Monoculture: The destruction of existing diversity to facilitate homogeneity. Th
 
 There is this idea that Permaculture, which is definitely a zeitgeist amongst capitalised mankind, begun in the 1970’s, was coined by Bill Mollison and David Holmgren when in fact it has been (appropriately) around since the beginning of time and will endure until the end. These fine gentlemen have taken a long hard look at how things have been over the preceding millennia and have distilled what they have found into a wonderful manual for not fucking things up any further! So I have structured the below to access all you can need to gain a comprehensive understanding of how in our language we explain these subjects, but please understand that we are not coining or inventing ideas, they/we are collating information passed down for 1000’s if not millions of years, held in oral tradition, genetic memory and more recently the tip of the iceberg in written format available online.
 
-We are in a constantly moving and changing world and as well as our environment being constantly on the move, so is our understanding and ways of interpreting it and ultimately our ways of explaining it, however, if you have something to add, or something to question, then you are most welcome and I hope that it will move this work on, in an ever more poignant and progressive direction.
+We are in a constantly moving and changing world and as well as our environment being constantly on the move, so is our understanding and ways of interpreting it and ultimately our ways of explaining it, however, if you have something to add, or something to question, then you are most welcome and I hope that it will move this work on, in an ever more poignant and progressive direction. We are in the business of positive strides forward, even positive tippy toe, teeny, weeny steps would be good, but definitely inspired by a sturdy boot up the ass and not a lament of the kimchi we are in!!
 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
 
@@ -85,6 +85,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjMwNDA1MiwxNDIyNjYwMzUsMzM5MT
+eyJoaXN0b3J5IjpbMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MT
 QyMzA2LC0xNzE1MzAwNzIxXX0=
 -->
