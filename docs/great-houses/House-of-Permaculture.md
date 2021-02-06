@@ -80,10 +80,10 @@ So Prior to me re-writing these previously described principles and ethics for u
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
-The 
+The 21 Cards as provided on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5MjgwOTEsOTU4OTY1MjM2LDExMj
-cyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3
-NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMz
-kxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
+eyJoaXN0b3J5IjpbMjEwNTA5MTE1Myw5NTg5NjUyMzYsMTEyNz
+I2ODMyMCw1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2
+OCwxMDA0NTU4ODE3LDEzMzMxMzkyNjMsMTQyMjY2MDM1LDMzOT
+E0MjMwNiwtMTcxNTMwMDcyMV19
 -->
