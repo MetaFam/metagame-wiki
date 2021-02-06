@@ -4,7 +4,7 @@ The first thing that we need to establish is that we are speaking from the point
 
 This clearly doesn’t apply to contemporary roots cultures, e.g.  foraging/nomadic tribal communities, or in fact anyone that has truly achieved low impact sustainability in their lives.
 
-The reason I start with this, is because the work is specific and to know what the task is, defines the tone of this guide. There is so much information on the internet pertaining to Permaculture. It’s overwhelmingly prolific, which is amazing, but it’s really important to remind ourselves that since the beginning of time there has been what we term in English "Permaculture"; it is in essence Biodiversity/Biomimicry – harnessing and marrying our existence, our social dynamics and the cultivation of our crops and society to and with our surrounding ecosystem, on the basis that we are a part of the overall ecosystem. Not above it! And certainly not the masters of it! For the moment we position ourselves apart from our ecosystem, we cease to be a part of it thereby abandoning our post and our post was and is, as important as an earthworm. We are in the business of positive strides forward, even positive tippy toe teeny weeny steps would be good, but definitely inspired by a sturdy boot up the ass and not a lament of the kimchi we are in!!
+The reason I start with this, is because the work is specific and to know what the task is, defines the tone of this guide. There is so much information on the internet pertaining to Permaculture. It’s overwhelmingly prolific, which is amazing, but it’s really important to remind ourselves that since the beginning of time there has been what we term in English "Permaculture"; it is in essence Biodiversity/Biomimicry – harnessing and marrying our existence, our social dynamics and the cultivation of our crops and society to and with our surrounding ecosystem, on the basis that we are a part of the overall ecosystem. Not above it! And certainly not the masters of it! For the moment we position ourselves apart from our ecosystem, we cease to be a part of it thereby abandoning our post and our post was and is, as important as an earthworm.
 
 Let us also in the early stages identify the enemy, the enemy of all that is good and wonderful in this miraculous and awe-inspiring world in which we have had the incredible privilege to have been birthed into and to fully fulfil our obligation towards graciousness, we must understand what it is that we must overcome.
 
@@ -85,6 +85,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMDQxODMsMTQyMjY2MDM1LDMzOTE0Mj
-MwNiwtMTcxNTMwMDcyMV19
+eyJoaXN0b3J5IjpbLTI3NjMwNDA1MiwxNDIyNjYwMzUsMzM5MT
+QyMzA2LC0xNzE1MzAwNzIxXX0=
 -->
