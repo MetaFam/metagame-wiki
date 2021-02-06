@@ -21,7 +21,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 ## The MF Ethics
 
-**Earth Care:** Our No.1 Priority is to ensuring that our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years
+**Earth Care:** Our No.1 Priority is to ensuring that our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing
 
 **People Care:** De-Centralised Everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc.
 
@@ -84,7 +84,7 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Nzg4MDA0NiwxMDA0NTU4ODE3LDEzMz
+eyJoaXN0b3J5IjpbMTQyMjA0MTM4MywxMDA0NTU4ODE3LDEzMz
 MxMzkyNjMsMTQyMjY2MDM1LDMzOTE0MjMwNiwtMTcxNTMwMDcy
 MV19
 -->
