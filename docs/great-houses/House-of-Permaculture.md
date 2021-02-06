@@ -25,7 +25,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **People Care:** Human Beings were not supposed to exist as automatons mindlessly repeating tasks for the benefit of a corporation to profit in the boomerang of produce and services that could have been delivered at source in the first place by the very people enslaved into a cycle of pointless parts existent only to create as many price points as possible, the cost to individuals has been devastating, including physiological damage from interuptions to their gene rhythms, over-concentrations of chemical exposures to communities and individuals, repetitive injuries and psychological damage from lack of natural light, absence from families and the theft of their creativity, freewill and calm. The devolution of power and supply and production is at the heart of the solution to this, decentralising everything (This includes Education, Identity Control, IP Control, Financial Control, Botanical Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution and ultimately this comes down to people getting their lives back as their own.
 
-**Equitable Share:** By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s, Bartering schemes, online shops and Farmer's Markets which allow peer to peer flow of finance), avoid superfluous financial roles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
+**Equitable Share:** By Re-appropriating the governance of our own needs/protocols, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s, Bartering schemes, online shopping sites for individuals and organisations and Farmer's Markets which allow peer to peer flow of finance/value), Avoiding/Eliminating superfluous tiers in productionroles/exercises and set the surplus aside to further the above principles. (Yes Sparrow - will refine this!)
 
 **Knowledge Share:** By building and using networks at a local level, through to worldwide networks on the web to connect people, tightly aligned with Earth Hubs, which can spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process.
 [Ethics & Principles of Permaculture](https://cdn.discordapp.com/attachments/781969288642560041/792364405072723998/Permaculture.png)![](https://lh3.googleusercontent.com/Rzdk-3m7JHMcv779XPySyke0b8xlj724_W7DXbIhkbxb9FLiL7iuBrdxdAJTTMCfVVEBh3kjK0kxSmbu7NHa125PVNI0tijqDGRYLQ8-P2iiRCfiiab0Oa3x-D_bAN8T5h5Py5KH)
@@ -84,7 +84,7 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDAwMzAxMiwtMTQ5OTk0ODIxNiwtNT
-UwNDY3NzY4LDEwMDQ1NTg4MTcsMTMzMzEzOTI2MywxNDIyNjYw
-MzUsMzM5MTQyMzA2LC0xNzE1MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbNTY2ODkzNDM0LC0xNDk5OTQ4MjE2LC01NT
+A0Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAz
+NSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
 -->
