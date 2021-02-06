@@ -21,7 +21,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 ## The MF Ethics
 
-**Earth Care:** Our No.1 Priority is to ensuring that our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can finDe-Centralised Everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production, etc.
+**Earth Care:** Our No.1 Priority is to ensuring that our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out there are no more in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and preservtion of our ecosustem means 
 
 **People Care:** De-Centralised Everything (This includes Education, Identity Control, IP Control, Financial Control, Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution etc.
 
@@ -84,6 +84,6 @@ Geoff Lawton Student of Bill Mollison, very prolific in his work:
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTkxMDQ3LDEzMzMxMzkyNjMsMTQyMj
-Y2MDM1LDMzOTE0MjMwNiwtMTcxNTMwMDcyMV19
+eyJoaXN0b3J5IjpbLTIwMDg0NDY0NDYsMTMzMzEzOTI2MywxND
+IyNjYwMzUsMzM5MTQyMzA2LC0xNzE1MzAwNzIxXX0=
 -->
