@@ -80,10 +80,10 @@ So Prior to me re-writing these previously described principles and ethics for u
 
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
-
+The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3Mj
-A0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgx
-NywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MT
-UzMDA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDU5MjgwOTEsOTU4OTY1MjM2LDExMj
+cyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3
+NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMz
+kxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
 -->
