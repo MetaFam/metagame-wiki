@@ -36,7 +36,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Catch and Store Energy:**  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. [https://youtu.be/K6YsvKQrNlU](https://youtu.be/K6YsvKQrNlU)
 
-**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. [https://youtu.be/tSTFfKHJg4Y](https://youtu.be/tSTFfKHJg4Y)
+**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. [https://youtu.be/tSTFfKHJg4Y](https://youtu.be/tSTFfKHJg4Y)
 
 **Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! [https://youtu.be/MinWXNy4_LY](https://youtu.be/MinWXNy4_LY)
 
@@ -76,10 +76,10 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0xNj
-MxOTc3Mjc1LC0xMDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5NzUy
-OTQ2NSwxMjY5OTUxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIwLD
-U5NzIwNDk0OSwtMTQ5OTk0ODIxNiwtNTUwNDY3NzY4LDEwMDQ1
-NTg4MTcsMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC
-0xNzE1MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNz
+c3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAw
+MjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LD
+ExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0
+Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNS
+wzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
 -->
