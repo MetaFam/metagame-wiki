@@ -27,7 +27,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Equitable Share:** By Re-appropriating the governance of our own needs and surplus, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s, Bartering schemes, online shopping sites for individuals and organisations and Farmer's Markets which allow peer to peer flow of finance/value).  Avoiding/Eliminating superfluous roles, tiers in production, distribution and point of sale/delivery creates a value surplus which feeds the sustainability of the individual financially and/or can be set aside to further the above principles and/or store and use to encourage progress of personal and community efforts in de-linking themselves from overheads, challenging the ability to be financially self sufficient.
 
-**Knowledge Share:** By building and using networks at a local level, through to worldwide networks on the web we are and can connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly align these networks with Earth Hubs/Outposts, which can then spawn guides to take the necessary learning, exposure and immersion to proliferate the message, with overwatch support, to accelerate the Decentralisation process and the return of basic needs being met at a local level.
+**Knowledge Share:** By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, with overwatch support, to accelerate the Decentralisation process and the return of basic needs being met at a local level.
 
 ![Principlesof Permaculture](https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png)
 ## The MF Principles
@@ -76,10 +76,10 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLT
-EwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5
-NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC
-0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNywxMzMz
-MTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3Mj
-FdfQ==
+eyJoaXN0b3J5IjpbMTc1Mzc5NzE3MywtMTE3Nzc5NTQwOSwtMT
+YzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1LDEyOTc1
+Mjk0NjUsMTI2OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2ODMyMC
+w1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OCwxMDA0
+NTU4ODE3LDEzMzMxMzkyNjMsMTQyMjY2MDM1LDMzOTE0MjMwNi
+wtMTcxNTMwMDcyMV19
 -->
