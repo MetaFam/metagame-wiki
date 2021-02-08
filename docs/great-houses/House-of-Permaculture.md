@@ -90,7 +90,7 @@ src="https://www.youtube.com/embed/4vp4B9Hu0ik">
 
 **Creatively Use and Respond to Change:**  Change does not stop! Nothing is constant in this universe and beyond, other than change, we are in a constant state of dynamic flux, again there is no way of over stating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen, that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of creatively using and responding to change! [https://youtu.be/n08bNUPyHgE](https://youtu.be/n08bNUPyHgE)<center><a href="https://youtu.be/4vp4B9Hu0ik">'The Edge' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
-src="https://www.youtube.com/embed/4vp4B9Hu0ik">  
+src="https://www.youtube.com/embed/n08bNUPyHgE">  
 </iframe></center>
 
 So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:
@@ -113,11 +113,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMT
-c5NDQ3NjY1MCwtMTI2NDA5MTU1LDE0NzU4NTIwNTUsLTE4NTU4
-NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywyOTg3NzEzOD
-QsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2
-MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NT
-I5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAs
-NTk3MjA0OTQ5XX0=
+eyJoaXN0b3J5IjpbMTE3ODY4NTE0LDIxMjU3NzczMTIsLTE5OT
+EwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1ODUy
+MDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMzU5Mj
+csMjk4NzcxMzg0LDExNTkyMzI3MzEsODUxNzgwMjk1LC0xMTc3
+Nzk1NDA5LC0xNjMxOTc3Mjc1LC0xMDIxMTQ1NzYxLDE0MzgwMD
+I4MDUsMTI5NzUyOTQ2NSwxMjY5OTUxNDMwLDk1ODk2NTIzNiwx
+MTI3MjY4MzIwXX0=
 -->
