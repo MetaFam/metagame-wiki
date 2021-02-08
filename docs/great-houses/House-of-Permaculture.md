@@ -43,12 +43,14 @@ src="https://www.youtube.com/embed/K6YsvKQrNlU">
 </iframe></center>
 
 
-**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. <center><a href="https://youtu.be/tSTFfKHJg4Y">'Yield' by The Formiddable Vegetable sound system</a><p class="big">
+**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. 
+<center><a href="https://youtu.be/tSTFfKHJg4Y">'Yield' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
 src="https://www.youtube.com/embed/tSTFfKHJg4Y">  
 </iframe></center>
 
-**Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! <center><a href="https://youtu.be/MinWXNy4_LY">'Limits' by The Formiddable Vegetable sound system</a><p class="big">
+**Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! 
+<center><a href="https://youtu.be/MinWXNy4_LY">'Limits' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
 src="https://www.youtube.com/embed/MinWXNy4_LY">  
 </iframe></center>
@@ -113,11 +115,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MTI0MzI0LDE2Mzg1NTYyNjUsMjEyNT
-c3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5
-MTU1LDE0NzU4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgwNjE4Nz
-IsMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OTIzMjczMSw4NTE3
-ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjExND
-U3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAs
-OTU4OTY1MjM2XX0=
+eyJoaXN0b3J5IjpbLTY5NDQ4NzA0MCwxNjM4NTU2MjY1LDIxMj
+U3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQw
+OTE1NSwxNDc1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxOD
+cyLDE2NjMxMzU5MjcsMjk4NzcxMzg0LDExNTkyMzI3MzEsODUx
+NzgwMjk1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3Mjc1LC0xMDIxMT
+Q1NzYxLDE0MzgwMDI4MDUsMTI5NzUyOTQ2NSwxMjY5OTUxNDMw
+LDk1ODk2NTIzNl19
 -->
