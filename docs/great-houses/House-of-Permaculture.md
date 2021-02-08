@@ -18,7 +18,7 @@ We are in a constantly moving and changing world and as well as our environment 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
 
 ![](https://lh3.googleusercontent.com/dRoZTeD-HUVF25m6X-PrcJwBQ-DSXgfxVYo0_xX8Ys6COHrGG_w2YNlGhbfCECJ4e93D47qxpEekmlhavxSLIaYnEGA91A9QOQp87ygfGY_tyx6kWsWQWd-guVuA0uYCMnEz7Q0q)
-<center><b>Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts. <p class="big">The MF Ethics</center></b>
+<center><b>Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts. <p class="big"><b>The MF Ethics</b></center>
 
 **Earth Care:** Our No.1 Priority is ensuring our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing, with positive reversal protocols including planting millions and millions of trees, along with other initiatives to capture Carbon, which are many and varied. Do not be in any doubt that 8 billion people all doing a little bit will help with this! It will and so get involved in whatsoever way you can! The main focus has to be on Industry though!
 
@@ -29,7 +29,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 **Knowledge Share:** By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, first hand, with overwatch support, to accelerate the necessary learning, to enable the Decentralisation process and the return of basic needs being met at a local level.
 
 ![Principlesof Permaculture](https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png)
-## The MF Principles
+<center><b>The MF Principles</b></center>
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. [https://youtu.be/lSWWChaEi1o](https://youtu.be/lSWWChaEi1o)
 
@@ -75,11 +75,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQxNDg3NDUsMjk4NzcxMzg0LDExNT
-kyMzI3MzEsODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3
-Mjc1LC0xMDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5NzUyOTQ2NS
-wxMjY5OTUxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIwLDU5NzIw
-NDk0OSwtMTQ5OTk0ODIxNiwtNTUwNDY3NzY4LDEwMDQ1NTg4MT
-csMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC0xNzE1
-MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbLTI1NDg3MzU2OSwyOTg3NzEzODQsMTE1OT
+IzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5Nzcy
+NzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LD
+EyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0
+OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNy
+wxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MTUz
+MDA3MjFdfQ==
 -->
