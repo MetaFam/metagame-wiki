@@ -34,7 +34,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
 <center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><p class="big">
-<iframe width="400" height="200"  
+<iframe width="600" height="200"  
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
@@ -80,7 +80,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI4NjA5NzgsMTY2MzEzNTkyNywyOT
+eyJoaXN0b3J5IjpbLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywyOT
 g3NzEzODQsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0
 MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNS
 wxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcy
