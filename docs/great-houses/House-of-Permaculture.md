@@ -58,12 +58,15 @@ src="https://www.youtube.com/embed/MinWXNy4_LY">
 src="https://www.youtube.com/embed/h__qCy4GhSM">  
 </iframe></center>
 
-**Produce no Waste:** This is one of the most tangible indicators of how well you are doing. In non-anthropogenic nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so. [https://youtu.be/mgZkn56dpk8](https://youtu.be/mgZkn56dpk8)<center><a href="https://youtu.be/h__qCy4GhSM">'Oil' by The Formiddable Vegetable sound system</a><p class="big">
+**Produce no Waste:** This is one of the most tangible indicators of how well you are doing. In non-anthropogenic nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so. <center><a href="https://youtu.be/mgZkn56dpk8">'No Such Thing As Waste' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
-src="https://www.youtube.com/embed/h__qCy4GhSM">  
+src="https://www.youtube.com/embed/mgZkn56dpk8">  
 </iframe></center>
 
-**Design from Patterns to Detail:** Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Plus, you probably need to have some chocolate trifle around. Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. [https://youtu.be/qOl2cYubn0I](https://youtu.be/qOl2cYubn0I)
+**Design from Patterns to Detail:** Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Plus, you probably need to have some chocolate trifle around. Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. [https://youtu.be/qOl2cYubn0I](https://youtu.be/qOl2cYubn0I)<center><a href="https://youtu.be/qOl2cYubn0I">'Patterns' by The Formiddable Vegetable sound system</a><p class="big">
+<iframe width="600" height="200"  
+src="https://www.youtube.com/embed/qOl2cYubn0I">  
+</iframe></center>
 
 **Integrate rather than Segregate:** If you segregate, then you are stupid and deserve to fail completely and there is no hope for you, natural selection will hopefully do away with you. So reference material here is Flooding & Weeds (Please excuse where I get a bit rural, rustic and earthy, because this shit most definitely applies to Social Design, Web Design, Manufacturing Design et al, it’s just these are my comfort zones, so not segregating less earthbound studies/practices, just using the most familiar examples to me for furthering a point that can when better understood be brought to bear in other environments more effectively, because I used such remote examples :-D), anyway back to flooding, so segregate water management from all of its familiar relationships and you get incredible flooding when it rains/snow melt etc. and everything washed away to the ocean in moments leaving no water and absolute destruction behind it. Now if you put the river in some wildly optimistic concrete canal, from which it must never meander! Bypassing completely all the essential buffering of self regulating ecosystem infrastructure, the floods come and they just keep on rising. If we retrofit everything that was there before we came along and took it all away, we start to see correction, trees drink up to 50 gallons of water a day, beavers can create the most wonderful habitats for a myriad of wonderful creatures, whilst also modulating the flow of a swollen river. Wetlands exist to soak up and release these ebbs and flows of current, naturally, but we like to drain them and build on them and wonder why we can’t get house insurance against an act of God!! It’s not an act of God! It’s an act of Anthropogenic Madness! Growing your garden you will have invariably at some point pulled your hair out at about the same frequency as the futile pulling of weeds, look, there is no such thing as weeds!! There is space and conditions for something to grow, as with a leader like Trump, Yes I brought him up!! He; is not the problem, the problem is the environment that leaves a space for him to grow! - On a social level, if you segregate individuals or groups, you are not only losing whatever human value they may have added to your equation, you are actually value negative, because they are now going to rail against you for that segregation (A traditional african proverb goes something like this: “The child who is sent from the village, will come back and burn the village down” - The Positive version of this is: “It takes a village to raise a child”). We are all from the same place, yep all made of stardust, everything and all of us and mother earth as well, so simply put we need to acknowledge all parts of an ecosystem and to understand we are a part of it, we are not masters of it and to get the best out of ourselves all of our souls and parts are to be understood, valued, seen, smelt, felt, tasted and heard. [https://youtu.be/06gUoes7gdo](https://youtu.be/06gUoes7gdo)
 
@@ -95,11 +98,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAwOTI0NzMsLTE5OTEwNDk5NTIsLT
-E3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1ODUyMDU1LC0xODU1
-ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMzU5MjcsMjk4NzcxMz
-g0LDExNTkyMzI3MzEsODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0x
-NjMxOTc3Mjc1LC0xMDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5Nz
-UyOTQ2NSwxMjY5OTUxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIw
-LDU5NzIwNDk0OV19
+eyJoaXN0b3J5IjpbMTUzNzA0NTEwOSwtMTk5MTA0OTk1MiwtMT
+c5NDQ3NjY1MCwtMTI2NDA5MTU1LDE0NzU4NTIwNTUsLTE4NTU4
+NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywyOTg3NzEzOD
+QsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2
+MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NT
+I5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAs
+NTk3MjA0OTQ5XX0=
 -->
