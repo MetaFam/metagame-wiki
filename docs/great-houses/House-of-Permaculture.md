@@ -28,7 +28,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 **Equitable Share:** By Re-appropriating the governance of our own needs and surplus, we can create equitable trading and remuneration (an example of this would be the emergence of DAO’s, Bartering schemes, online shopping sites for individuals and organisations and Farmer's Markets which allow peer to peer flow of finance/value).  Avoiding/Eliminating superfluous roles, tiers in production, distribution and point of sale/delivery creates a value surplus which feeds the sustainability of the individual financially and/or can be set aside to further the above principles and/or store and use to encourage progress of personal and community efforts in de-linking themselves from overheads, challenging the ability to be financially self sufficient.
 
 **Knowledge Share:** By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism, tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, first hand, with overwatch support, to accelerate the necessary learning, to enable the Decentralisation process and the return of basic needs being met at a local level.
-<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png" alt="Girl in a jacket" width="600" height="300">
+<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png" alt="Girl in a jacket" width="600" height="360"></center>
 <center><b>The MF Principles</b></center>
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
@@ -79,11 +79,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3MzYxOTQsLTE4NTU4NTAwOTEsLT
-E5MTgwNjE4NzIsMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OTIz
-MjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNz
-UsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEy
-Njk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0OT
-Q5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNywx
-MzMzMTM5MjYzXX0=
+eyJoaXN0b3J5IjpbMTM1OTc4OTM5MCwtMTg1NTg1MDA5MSwtMT
+kxODA2MTg3MiwxNjYzMTM1OTI3LDI5ODc3MTM4NCwxMTU5MjMy
+NzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQwOSwtMTYzMTk3NzI3NS
+wtMTAyMTE0NTc2MSwxNDM4MDAyODA1LDEyOTc1Mjk0NjUsMTI2
+OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2ODMyMCw1OTcyMDQ5ND
+ksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OCwxMDA0NTU4ODE3LDEz
+MzMxMzkyNjNdfQ==
 -->
