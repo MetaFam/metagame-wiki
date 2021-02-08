@@ -1,4 +1,4 @@
-<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808398234778337280/PermacultureHeaderInvert.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
+<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808408258842853397/PermacultureHeaderAlt.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
@@ -126,11 +126,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI0NDIwOTgsLTM2NjYzODU3MCwxND
-Q0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwtMTk5MTA0
-OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5MTU1LDE0NzU4NTIwNT
-UsLTE4NTU4NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywy
-OTg3NzEzODQsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OT
-U0MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAwMjgw
-NSwxMjk3NTI5NDY1XX0=
+eyJoaXN0b3J5IjpbMTczNzQwMDk4MywtMzY2NjM4NTcwLDE0ND
+Q3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5
+OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1MjA1NS
+wtMTg1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OTI3LDI5
+ODc3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NT
+QwOSwtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1
+LDEyOTc1Mjk0NjVdfQ==
 -->
