@@ -1,4 +1,4 @@
-<center>
+
 ![enter image description here](https://cdn.discordapp.com/attachments/788121740256608276/808070249311240242/PermacultureHeader.jpg)
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
@@ -80,11 +80,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjA5NTk2MiwxNjYzMTM1OTI3LDI5OD
-c3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQw
-OSwtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1LD
-EyOTc1Mjk0NjUsMTI2OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2
-ODMyMCw1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OC
-wxMDA0NTU4ODE3LDEzMzMxMzkyNjMsMTQyMjY2MDM1LDMzOTE0
-MjMwNl19
+eyJoaXN0b3J5IjpbLTE1MTE2MjM3MjUsMTY2MzEzNTkyNywyOT
+g3NzEzODQsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0
+MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNS
+wxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcy
+NjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3Nj
+gsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkx
+NDIzMDZdfQ==
 -->
