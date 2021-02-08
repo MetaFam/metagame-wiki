@@ -16,7 +16,7 @@ There is this idea that Permaculture, which is definitely a zeitgeist amongst ca
 We are in a constantly moving and changing world and as well as our environment being constantly on the move, so is our understanding and ways of interpreting it and ultimately our ways of explaining it, however, if you have something to add, or something to question, then you are most welcome and I hope that it will move this work on, in an ever more poignant and progressive direction. We are in the business of positive strides forward, even positive tippy toe, teeny, weeny steps would be good, but definitely inspired by a sturdy boot up the ass and not a lament of the kimchi we are in!!
 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
-
+<center><img src="https://cdn.discordapp.com/attachments/782054752484589579/802967678309498880/EcoOctoWorld.png" alt="The Metagame House of Permaculture" width="760" height="760"></center><p class="big">
 <center><b>Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts. <p class="big"><b>The MF Ethics</b></center>
 
 **Earth Care:** Our No.1 Priority is ensuring our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing, with positive reversal protocols including planting millions and millions of trees, along with other initiatives to capture Carbon, which are many and varied. Do not be in any doubt that 8 billion people all doing a little bit will help with this! It will and so get involved in whatsoever way you can! The main focus has to be on Industry though!
@@ -78,11 +78,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTM2NDU2OSwtMTI2NDA5MTU1LDE0Nz
-U4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEz
-NTkyNywyOTg3NzEzODQsMTE1OTIzMjczMSw4NTE3ODAyOTUsLT
-ExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQz
-ODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1Mj
-M2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01
-NTA0Njc3NjhdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxND
+c1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMx
+MzU5MjcsMjk4NzcxMzg0LDExNTkyMzI3MzEsODUxNzgwMjk1LC
+0xMTc3Nzk1NDA5LC0xNjMxOTc3Mjc1LC0xMDIxMTQ1NzYxLDE0
+MzgwMDI4MDUsMTI5NzUyOTQ2NSwxMjY5OTUxNDMwLDk1ODk2NT
+IzNiwxMTI3MjY4MzIwLDU5NzIwNDk0OSwtMTQ5OTk0ODIxNiwt
+NTUwNDY3NzY4XX0=
 -->
