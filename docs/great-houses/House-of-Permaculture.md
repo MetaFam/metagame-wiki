@@ -1,4 +1,4 @@
-## WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind**
+![enter image description here](https://cdn.discordapp.com/attachments/788121740256608276/808070249311240242/PermacultureHeader.jpg)## WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind**
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
 
@@ -76,10 +76,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNz
-c3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjExNDU3NjEsMTQzODAw
-MjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAsOTU4OTY1MjM2LD
-ExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5OTQ4MjE2LC01NTA0
-Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5MjYzLDE0MjI2NjAzNS
-wzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNDI3MjIxMDgsMTE1OTIzMjczMSw4NT
+E3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjEx
+NDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0Mz
+AsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5
+OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNywxMzMzMTM5Mj
+YzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MTUzMDA3MjFdfQ==
+
 -->
