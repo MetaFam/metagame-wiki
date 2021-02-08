@@ -37,13 +37,16 @@ src="https://www.youtube.com/embed/lSWWChaEi1o">
 </iframe></center>
 
 **Catch and Store Energy:**  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
-<center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><p class="big">
+<center><a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
-src="https://www.youtube.com/embed/lSWWChaEi1o">  
+src="https://www.youtube.com/embed/K6YsvKQrNlU">  
 </iframe></center>
 
 
-**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. [https://youtu.be/tSTFfKHJg4Y](https://youtu.be/tSTFfKHJg4Y)
+**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. [https://youtu.be/tSTFfKHJg4Y](https://youtu.be/tSTFfKHJg4Y)<center><a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a><p class="big">
+<iframe width="600" height="200"  
+src="https://www.youtube.com/embed/K6YsvKQrNlU">  
+</iframe></center>
 
 **Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! [https://youtu.be/MinWXNy4_LY](https://youtu.be/MinWXNy4_LY)
 
@@ -83,11 +86,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzQ2OTA2MywtMTc5NDQ3NjY1MCwtMT
-I2NDA5MTU1LDE0NzU4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgw
-NjE4NzIsMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OTIzMjczMS
-w4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEw
-MjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NT
-E0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC0x
-NDk5OTQ4MjE2XX0=
+eyJoaXN0b3J5IjpbOTU1OTg0OTIzLC0xNzk0NDc2NjUwLC0xMj
+Y0MDkxNTUsMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2
+MTg3MiwxNjYzMTM1OTI3LDI5ODc3MTM4NCwxMTU5MjMyNzMxLD
+g1MTc4MDI5NSwtMTE3Nzc5NTQwOSwtMTYzMTk3NzI3NSwtMTAy
+MTE0NTc2MSwxNDM4MDAyODA1LDEyOTc1Mjk0NjUsMTI2OTk1MT
+QzMCw5NTg5NjUyMzYsMTEyNzI2ODMyMCw1OTcyMDQ5NDksLTE0
+OTk5NDgyMTZdfQ==
 -->
