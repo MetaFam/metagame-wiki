@@ -1,3 +1,4 @@
+<center>
 ![enter image description here](https://cdn.discordapp.com/attachments/788121740256608276/808070249311240242/PermacultureHeader.jpg)
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
@@ -32,7 +33,8 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 <center><b>The MF Principles</b></center>
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
-<center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><iframe width="400" height="200"  
+<center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a>
+<iframe width="400" height="200"  
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
@@ -78,11 +80,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OT
-IzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5Nzcy
-NzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LD
-EyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0
-OTQ5LC0xNDk5OTQ4MjE2LC01NTA0Njc3NjgsMTAwNDU1ODgxNy
-wxMzMzMTM5MjYzLDE0MjI2NjAzNSwzMzkxNDIzMDYsLTE3MTUz
-MDA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTI2MjA5NTk2MiwxNjYzMTM1OTI3LDI5OD
+c3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQw
+OSwtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1LD
+EyOTc1Mjk0NjUsMTI2OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2
+ODMyMCw1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OC
+wxMDA0NTU4ODE3LDEzMzMxMzkyNjMsMTQyMjY2MDM1LDMzOTE0
+MjMwNl19
 -->
