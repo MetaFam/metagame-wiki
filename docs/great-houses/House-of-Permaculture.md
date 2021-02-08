@@ -32,7 +32,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 <center><b>The MF Principles</b></center>
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
-<center><a href="https://youtu.be/lSWWChaEi1o">_'Look Around' by The Formiddable Vegetable sound system_</a><iframe width="420" height="315"  
+<center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><iframe width="400" height="200"  
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
@@ -78,7 +78,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODUyNDUxNCwyOTg3NzEzODQsMTE1OT
+eyJoaXN0b3J5IjpbMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OT
 IzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5Nzcy
 NzUsLTEwMjExNDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LD
 EyNjk5NTE0MzAsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0
