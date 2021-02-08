@@ -18,7 +18,7 @@ We are in a constantly moving and changing world and as well as our environment 
 Nothing is sacred other than our Earth Mother Gaia and all upon and from her in essence and not in synthesis, we are all sacred, but our mouths and pens can utter absolute Beauty and conversely absolute Bollocks.
 
 ![](https://lh3.googleusercontent.com/dRoZTeD-HUVF25m6X-PrcJwBQ-DSXgfxVYo0_xX8Ys6COHrGG_w2YNlGhbfCECJ4e93D47qxpEekmlhavxSLIaYnEGA91A9QOQp87ygfGY_tyx6kWsWQWd-guVuA0uYCMnEz7Q0q)
-**Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts.**
+Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts. </center></
 
 ## The MF Ethics
 
@@ -77,7 +77,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU3MjA0OTgsMTE1OTIzMjczMSw4NT
+eyJoaXN0b3J5IjpbLTE5MTMwNjgzNzksMTE1OTIzMjczMSw4NT
 E3ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjEx
 NDU3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0Mz
 AsOTU4OTY1MjM2LDExMjcyNjgzMjAsNTk3MjA0OTQ5LC0xNDk5
