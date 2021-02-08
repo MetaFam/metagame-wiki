@@ -32,7 +32,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 <center><b>The MF Principles</b></center>
 
 **Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
-<embed <a href="https://youtu.be/lSWWChaEi1o">_link text_</a>
+<embed ><a href="https://youtu.be/lSWWChaEi1o">_'Yield' by The Formiddable Vegetable sound system_</a>
 
 **Catch and Store Energy:**  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. [https://youtu.be/K6YsvKQrNlU](https://youtu.be/K6YsvKQrNlU)
 
@@ -76,11 +76,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjcxNTEwMTcsMjk4NzcxMzg0LDExNT
-kyMzI3MzEsODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3
-Mjc1LC0xMDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5NzUyOTQ2NS
-wxMjY5OTUxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIwLDU5NzIw
-NDk0OSwtMTQ5OTk0ODIxNiwtNTUwNDY3NzY4LDEwMDQ1NTg4MT
-csMTMzMzEzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC0xNzE1
-MzAwNzIxXX0=
+eyJoaXN0b3J5IjpbNDUyNTY4OTksMjk4NzcxMzg0LDExNTkyMz
+I3MzEsODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3Mjc1
+LC0xMDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5NzUyOTQ2NSwxMj
+Y5OTUxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIwLDU5NzIwNDk0
+OSwtMTQ5OTk0ODIxNiwtNTUwNDY3NzY4LDEwMDQ1NTg4MTcsMT
+MzMzEzOTI2MywxNDIyNjYwMzUsMzM5MTQyMzA2LC0xNzE1MzAw
+NzIxXX0=
 -->
