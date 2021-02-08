@@ -1,4 +1,4 @@
-<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808070249311240242/PermacultureHeader.jpg" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
+<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808398234778337280/PermacultureHeaderInvert.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
@@ -113,11 +113,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOT
-kxMDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1
-MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OT
-I3LDI5ODc3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3
-Nzc5NTQwOSwtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MD
-AyODA1LDEyOTc1Mjk0NjUsMTI2OTk1MTQzMCw5NTg5NjUyMzYs
-MTEyNzI2ODMyMF19
+eyJoaXN0b3J5IjpbODQ5MTI0MzI0LDE2Mzg1NTYyNjUsMjEyNT
+c3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5
+MTU1LDE0NzU4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgwNjE4Nz
+IsMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OTIzMjczMSw4NTE3
+ODAyOTUsLTExNzc3OTU0MDksLTE2MzE5NzcyNzUsLTEwMjExND
+U3NjEsMTQzODAwMjgwNSwxMjk3NTI5NDY1LDEyNjk5NTE0MzAs
+OTU4OTY1MjM2XX0=
 -->
