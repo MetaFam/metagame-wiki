@@ -1,5 +1,5 @@
+<center><img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"></center>
 
-![enter image description here](https://cdn.discordapp.com/attachments/788121740256608276/808070249311240242/PermacultureHeader.jpg)
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
@@ -80,11 +80,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMT
-kxODA2MTg3MiwxNjYzMTM1OTI3LDI5ODc3MTM4NCwxMTU5MjMy
-NzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQwOSwtMTYzMTk3NzI3NS
-wtMTAyMTE0NTc2MSwxNDM4MDAyODA1LDEyOTc1Mjk0NjUsMTI2
-OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2ODMyMCw1OTcyMDQ5ND
-ksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OCwxMDA0NTU4ODE3LDEz
-MzMxMzkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTE0ODE1NDYsMTQ3NTg1MjA1NSwtMT
+g1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OTI3LDI5ODc3
+MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQwOS
+wtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1LDEy
+OTc1Mjk0NjUsMTI2OTk1MTQzMCw5NTg5NjUyMzYsMTEyNzI2OD
+MyMCw1OTcyMDQ5NDksLTE0OTk5NDgyMTYsLTU1MDQ2Nzc2OCwx
+MDA0NTU4ODE3XX0=
 -->
