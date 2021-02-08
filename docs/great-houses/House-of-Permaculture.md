@@ -48,9 +48,9 @@ src="https://www.youtube.com/embed/K6YsvKQrNlU">
 src="https://www.youtube.com/embed/tSTFfKHJg4Y">  
 </iframe></center>
 
-**Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! [https://youtu.be/MinWXNy4_LY](https://youtu.be/MinWXNy4_LY) <center><a href="https://youtu.be/tSTFfKHJg4Y">'Yield' by The Formiddable Vegetable sound system</a><p class="big">
+**Apply Relf-Regulation and Accept Feedback:** So…This is back to the Decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult! <center><a href="https://youtu.be/MinWXNy4_LY">'Limits' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="600" height="200"  
-src="https://www.youtube.com/embed/tSTFfKHJg4Y">  
+src="https://www.youtube.com/embed/MinWXNy4_LY">  
 </iframe></center>
 
 **Use and value Renewable Resources and Services:** Back to Rhythms and Cycles, exploit and conserve these when they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle, exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, or milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….[https://youtu.be/h__qCy4GhSM](https://youtu.be/h__qCy4GhSM)
@@ -89,11 +89,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MTc5ODkwLC0xNzk0NDc2NjUwLC0xMj
-Y0MDkxNTUsMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2
-MTg3MiwxNjYzMTM1OTI3LDI5ODc3MTM4NCwxMTU5MjMyNzMxLD
-g1MTc4MDI5NSwtMTE3Nzc5NTQwOSwtMTYzMTk3NzI3NSwtMTAy
-MTE0NTc2MSwxNDM4MDAyODA1LDEyOTc1Mjk0NjUsMTI2OTk1MT
-QzMCw5NTg5NjUyMzYsMTEyNzI2ODMyMCw1OTcyMDQ5NDksLTE0
-OTk5NDgyMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLT
+EyNjQwOTE1NSwxNDc1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4
+MDYxODcyLDE2NjMxMzU5MjcsMjk4NzcxMzg0LDExNTkyMzI3Mz
+EsODUxNzgwMjk1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3Mjc1LC0x
+MDIxMTQ1NzYxLDE0MzgwMDI4MDUsMTI5NzUyOTQ2NSwxMjY5OT
+UxNDMwLDk1ODk2NTIzNiwxMTI3MjY4MzIwLDU5NzIwNDk0OSwt
+MTQ5OTk0ODIxNl19
 -->
