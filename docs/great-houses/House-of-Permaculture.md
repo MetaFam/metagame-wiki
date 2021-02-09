@@ -202,15 +202,17 @@ More sections will be coming soon as we dig the dirt on the many layers of Perma
 
 Please get in touch if you would like to contribute to our House of Permaculture in any way, or have any questions or suggestions.
 
-Thank you for your time reading and digesting, Kind Regards John Davie E-Mail Me: johnadavie@gmail.com
+Thank you for your time reading and digesting, Kind Regards John Davie
+
+Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMT
-Y1MzQ2NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0
-NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NC
-wxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4
-NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0Nz
-Y2NTAsLTEyNjQwOTE1NSwxNDc1ODUyMDU1LC0xODU1ODUwMDkx
-LC0xOTE4MDYxODcyXX0=
+eyJoaXN0b3J5IjpbLTI0MzQ3NDc3LC0xNDg1NzIzOTEsLTIwNz
+E3Mjc2OTksLTE2NTM0NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4
+NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LD
+ExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3
+NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OT
+UyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1MjA1NSwt
+MTg1NTg1MDA5MV19
 -->
