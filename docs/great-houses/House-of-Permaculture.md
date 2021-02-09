@@ -207,15 +207,15 @@ Thank you for your time reading and digesting, Kind Regards John Davie
 
 Please E-Mail Me: johnadavie@gmail.com
 
-
+<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808742051222650951/depositphotos_73841759-stock-illustration-silhouette-meadows.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1"><p class="big">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU3ODU2ODksMjczODU3MDU0LC05Nj
-YwNzA0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcy
-MzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MD
-MsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3
-NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzOD
-U3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwt
-MTk5MTA0OTk1Ml19
+eyJoaXN0b3J5IjpbLTY2NjYyNDIyOSwyNzM4NTcwNTQsLTk2Nj
+A3MDQzNSwxODY4MTU3Mzc0LC0xNDE3NzEwOTg0LC0xNDg1NzIz
+OTEsLTIwNzE3Mjc2OTksLTE2NTM0NjUwNTIsLTQyOTAyMTYwMy
+wtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4MiwxMzc3
+MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NT
+cwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0x
+OTkxMDQ5OTUyXX0=
 -->
