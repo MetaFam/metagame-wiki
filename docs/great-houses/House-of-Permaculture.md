@@ -57,7 +57,7 @@ src="https://www.youtube.com/embed/tSTFfKHJg4Y">
 src="https://www.youtube.com/embed/MinWXNy4_LY">  
 </iframe></center>
 
-<b>Use and value Renewable Resources and Services:</b> Back to Rhythms and Cycles people; exploit and conserve these as they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle; exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop it into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection and microbes do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….
+<b>Use and value Renewable Resources and Services:</b> Back to Rhythms and Cycles; exploit and conserve these as they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle; exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop it into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection and microbes do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….
 <center><a href="https://youtu.be/h__qCy4GhSM">'Oil' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/h__qCy4GhSM">  
@@ -69,7 +69,7 @@ src="https://www.youtube.com/embed/h__qCy4GhSM">
 src="https://www.youtube.com/embed/mgZkn56dpk8">  
 </iframe></center>
 
-**Design from Patterns to Detail:** Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. 
+<b>Design from Patterns to Detail:</b> Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Actually only a 30%to 70% Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. 
 <center><a href="https://youtu.be/qOl2cYubn0I">'Patterns' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/qOl2cYubn0I">  
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNTMzMzM3LDE4NjgxNTczNzQsLTE0MT
-c3MTA5ODQsLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMTY1MzQ2
-NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOC
-wyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3
-NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2Mj
-Y1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAs
-LTEyNjQwOTE1NV19
+eyJoaXN0b3J5IjpbMTE4ODk2MDU1NiwxODY4MTU3Mzc0LC0xND
+E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
+NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
+gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
+NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
+I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
+LC0xMjY0MDkxNTVdfQ==
 -->
