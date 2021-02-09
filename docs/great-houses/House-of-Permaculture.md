@@ -32,13 +32,13 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 <center><b>The MF Principles</b></center>
 
-<b>Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
+<b>Observe and Interact:</b>  Take the time to understand cycles, rhythms, relationships, triggers and interactions, then, and only then, when you have begun to understand the subtleties and the delicacies of the ecosystem around you, find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
 <center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
-**Catch and Store Energy:**  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
+<b>Catch and Store Energy:</b>  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
 <center><a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/K6YsvKQrNlU">  
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDQzODk2NiwxODY4MTU3Mzc0LC0xND
-E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
-NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
-gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
-NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
-I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
-LC0xMjY0MDkxNTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI1OTQzOTIsMTg2ODE1NzM3NCwtMT
+QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
+NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
+A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
+Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NT
+YyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1
+MCwtMTI2NDA5MTU1XX0=
 -->
