@@ -126,6 +126,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 <table style="width:100%">  
 <tr>  
+<<td><colspan="3">
 </tr>  
 <tr>  
 <td>Bill Gates</td>  
@@ -136,11 +137,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 <center><p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"><p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"><p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgzMjUxNjQsMjAyMjQxMjU4MiwxMz
-c3MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4
-NTcwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC
-0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3
-NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMT
-M1OTI3LDI5ODc3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwt
-MTE3Nzc5NTQwOV19
+eyJoaXN0b3J5IjpbLTU4MzcyOTEwMiwyMDIyNDEyNTgyLDEzNz
+czMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1
+NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLT
+E5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1
+ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMz
+U5MjcsMjk4NzcxMzg0LDExNTkyMzI3MzEsODUxNzgwMjk1LC0x
+MTc3Nzk1NDA5XX0=
 -->
