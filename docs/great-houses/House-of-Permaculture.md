@@ -38,14 +38,14 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
-<b>Catch and Store Energy:</b>  Don’t let energy get away, it’s all around us moving at different speeds, occurring at different frequencies and manifesting in deifferent ways; it may not be there for another 6 months, but maybe there was enough last week to last for 6 month, if you’d been able to capture it and store it. Interactions between different sources is incredibly useful in terms of modulation, for example, you may have winds when the sun is out, driving your wind turbines and then solar kicking back in for your solar panels to take the baton, then maybe your river swells because of the rains and your micro hydro system kicks in. Also long and short cycles, i.e. day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
+<b>Catch and Store Energy:</b>  Don’t let energy get away, it’s all around us moving at different speeds, occurring at different frequencies and manifesting in deifferent ways; it may not be there for another 6 months, but maybe there was enough last week to last for 6 month, if you’d been able to capture it and store it. Interactions between different sources is incredibly useful in terms of modulation, for example, you may have winds when the sun is out, driving your wind turbines and then solar kicking back in for your solar panels to take the baton, then maybe your river swells because of the rains and your micro hydro system kicks in. Also long and short cycles, i.e. day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights over dynamos at peak times to feed electricity supply, selectively modulating the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
 <center><a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/K6YsvKQrNlU">  
 </iframe></center>
 
 
-**Obtain a Yield:** It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. 
+<b>Obtain a Yield:</b> It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. Yield is making the most out of your enegy inputs and 
 <center><a href="https://youtu.be/tSTFfKHJg4Y">'Yield' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/tSTFfKHJg4Y">  
@@ -208,7 +208,7 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDcxMTcxNTksMTg2ODE1NzM3NCwtMT
+eyJoaXN0b3J5IjpbLTIwMDI1NTI0MDMsMTg2ODE1NzM3NCwtMT
 QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
 NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
 A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
