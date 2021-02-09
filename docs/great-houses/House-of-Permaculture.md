@@ -115,10 +115,7 @@ src="https://permacultureprinciples.com/">
 <iframe width="760" height="200"  
 src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/"> </iframe></center>
 
-<center><b><a href="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/">Holmgren & Mollison's Principals Together:</a><p class="big">
-<iframe width="760" height="200"  
-src="http://knowledgebase.permaculture.org.uk/principles">  
-</iframe></center><b>
+
 
 
 **Both on one Page:**
@@ -210,7 +207,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTMwMjYxMywtNDI5MDIxNjAzLC0zMT
+eyJoaXN0b3J5IjpbLTc0NjMxNDQ4OCwtNDI5MDIxNjAzLC0zMT
 QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
 ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
 Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
