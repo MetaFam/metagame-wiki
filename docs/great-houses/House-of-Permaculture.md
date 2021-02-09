@@ -115,7 +115,7 @@ src="https://permacultureprinciples.com/">
 <iframe width="760" height="200"  
 src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/"> </iframe></center>
 
-<center><b>The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a href="https://permaculturefundamentals.com">www.Permaculturefundamentals.com</a> by Brett Cooper & Brett Pritchard. These are free to download, pr<p class="big">
+<center><b>The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a href="https://permaculturefundamentals.com">www.Permaculturefundamentals.com</a> by Brett Cooper & Brett Pritchard. These are free to download, print and use for educational purposes and are an incredibly useful resource in summarising Permaculture to the uninitiated and prompts for those a little more experienced too<p class="big">
 
 <center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1"><p class="big">
 
@@ -198,7 +198,7 @@ src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODQ4MDg5MywtMTY1MzQ2NTA1MiwtND
+eyJoaXN0b3J5IjpbLTYzNDE2MTYxMSwtMTY1MzQ2NTA1MiwtND
 I5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEy
 NTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC
 0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3
