@@ -5,9 +5,11 @@ Here at The Metagame, we are redefining our relationships with each other, our c
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester. This clearly doesn’t apply to contemporary roots cultures, e.g.  foraging/nomadic tribal communities, or in fact anyone that has truly achieved low impact sustainability in their lives.
 
-The reason I start with this, is because the work is specific and to know what the task is, defines the tone of this guide. There is so much information on the internet pertaining to Permaculture. It’s overwhelmingly prolific, which is amazing, but much of it is very scientific and as such innaccesible to many lay peopit’s really important to remind ourselves that since the beginning of time there has been what we term in English "Permaculture"; it is in essence Biodiversity/Biomimicry – harnessing and marrying our existence, our social dynamics and the cultivation of our crops and society to and with our surrounding ecosystem, on the basis that we are a part of the overall ecosystem. Not above it! And certainly not the masters of it! For the moment we position ourselves apart from our ecosystem, we cease to be a part of it thereby abandoning our post and our post was and is, as important as an earthworm.
+The reason I start with this, is because the work is specific and to know what the task is, defines the tone of this guide. There is so much information on the internet pertaining to Permaculture. It’s overwhelmingly prolific, which is amazing, but much of it is very scientific, esoteric and as such innaccesible to many lay people of this world.
 
-Let us also in the early stages identify the enemy, the enemy of all that is good and wonderful in this miraculous and awe-inspiring world in which we have had the incredible privilege to have been birthed into and to fully fulfil our obligation towards graciousness, we must understand what it is that we must overcome.
+It’s really important to remind ourselves that since the beginning of time there has been what we term in English "Permaculture"; it is in essence Biodiversity/Biomimicry – harnessing and marrying our existence, our social dynamics and the cultivation of our crops and society to and with our surrounding ecosystem, on the basis that we are a part of the overall ecosystem. Not above it! And certainly not the masters of it! For the moment we position ourselves apart from our ecosystem, we cease to be a part of it thereby abandoning our post and our post was and is, as important as an earthworm.
+
+Let us also in the early stages identify the enemy, the enemy of all that is good and wonderful in this miraculous and awe-inspiring world in which we have had the incredible privilege to have been birthed into and to fully fulfil our obligation and graciousness to our spherical home, we must understand what it is that we must overcome.
 
 Monoculture: The destruction of existing diversity to facilitate homogeneity. The reasoning for this is usually improved efficiency of top-down control, the dangers of this are that it is fundamentally unsustainable (Creating massively disproportionate energy inputs to initiate and maintain, an absence of regionalised benefit, huge volumes of unmanageable waste and an incredibly fragile immunity. One disaster, disease can wipe out a whole system rapidly and unimpeded), eating its way through the planet systematically, leaving us in the slightly unnerving situation of a mass extinction event due to there being nothing left at all.
 
@@ -206,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU1OTI3NDYsMTg2ODE1NzM3NCwtMT
-QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
-NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
-A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
-Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NT
-YyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1
-MCwtMTI2NDA5MTU1XX0=
+eyJoaXN0b3J5IjpbMTI2OTIwMzkwMCwxODY4MTU3Mzc0LC0xND
+E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
+NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
+gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
+NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
+I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
+LC0xMjY0MDkxNTVdfQ==
 -->
