@@ -89,13 +89,13 @@ src="https://www.youtube.com/embed/06gUoes7gdo">
 src="https://www.youtube.com/embed/f098VsIIUTk">  
 </iframe></center>
 
-<b>Use and Value Diversity:</b>  Diversity is our best friend!! It reduces energy inputs, it is the nature of nature, it is the friend of exponentially increasing outputs and remove just one part of a diverse ecosystem and you’re screwed! Basically work-load goes up, resource pool declines, chances of disaster is exponentially up and damage to the environment; already foretold! Diversity in social terms is our friend: Genetically, we get stronger if we don’t have kids with our next of kin (plus we have more aesthetically pleasing features ;-) and when it comes to infrastructure, diversity is where we sometimes find the most surprising and beneficial solutions. You have a bank run by 50 something crusty, musty establishment guys trying to run a profitable economic model and a startup suddenly pops up out of nowhere, because some bright spark was like “Hey we don’t need actual banks anymore, let’s just stick it on people’s smart phones , and send them a notification once the money lands” I’ll leave the rest to your vivid imaginations (Clearly Smart-Phones are a massive problem ecologically and ethically, but are currently, an intrinsic cog in the permaculture existent in society and our Digital/Real Life interphasically based communities, it would be awesome to see the back of these, but I am doubtful we will until we have established an implant and HUD replacement tech). 
+<b>Use and Value Diversity:</b>  Diversity is our best friend!! It reduces energy inputs, it is the nature of nature, it is the friend of exponentially increasing outputs and remove just one part of a diverse ecosystem and you’re screwed! Basically work-load goes up, resource pool declines, chances of disaster is exponentially up and damage to the environment; already foretold! Diversity in social terms is our friend: Genetically, we get stronger if we don’t have kids with our next of kin (plus we have more aesthetically pleasing features ;-) and when it comes to infrastructure, diversity is where we sometimes find the most surprising and beneficial solutions. You have a bank run by 50 something crusty, musty establishment guys trying to run a profitable economic model and a startup suddenly pops up out of nowhere, because some bright spark was like “Hey we don’t need actual banks anymore, let’s just stick it on people’s smart phones , and send them a notification once the money lands” I’ll leave the rest to your vivid imaginations (Clearly Smart-Phones are a massive problem ecologically and ethically, but are currently, an intrinsic cog in the permaculture existent in society and our Digital/Real Life interphasically based communities, it would be awesome to see the back of these, but I am doubtful we will until we have established an implant and HUD, upgraded tech solution). 
 <center><a href="https://youtu.be/8beQuHwfVag">'Many Many' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/8beQuHwfVag">  
 </iframe></center>
 
-**Use Edges and Value the Marginal:** So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have blown about and because it’s at the edge you just let them get on with it, in a systems sense, this is where your system starts to engage with other systems around it and as such is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy. 
+<b>Use Edges and Value the Marginal:</b> So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Because i am diversity, dynamism, not skilled in the Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have blown about and because it’s at the edge you just let them get on with it, in a systems sense, this is where your system starts to engage with other systems around it and as such is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy. 
 <center><a href="https://youtu.be/4vp4B9Hu0ik">'The Edge' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/4vp4B9Hu0ik">  
@@ -210,11 +210,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNjIzNDA2LDI3Mzg1NzA1NCwtOTY2MD
-cwNDM1LDE4NjgxNTczNzQsLTE0MTc3MTA5ODQsLTE0ODU3MjM5
-MSwtMjA3MTcyNzY5OSwtMTY1MzQ2NTA1MiwtNDI5MDIxNjAzLC
-0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzcz
-MDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1Nz
-AsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5
-OTEwNDk5NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTAzNzQ2NTcsMjczODU3MDU0LC05Nj
+YwNzA0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcy
+MzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MD
+MsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3
+NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzOD
+U3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwt
+MTk5MTA0OTk1Ml19
 -->
