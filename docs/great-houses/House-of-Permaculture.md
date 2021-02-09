@@ -121,16 +121,16 @@ src="https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/">
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
 The 21 Cards of the ethics and principles of Bill Mollison as provided on https://www.permaculturefundamentals.com/ by Brett Cooper
-![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg)
+![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg)<center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Girl in a jacket" width="760" height="475"></center><p class="big">
  ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg)
 ![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzQwMDk4MywtMzY2NjM4NTcwLDE0ND
-Q3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5
-OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1MjA1NS
-wtMTg1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OTI3LDI5
-ODc3MTM4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NT
-QwOSwtMTYzMTk3NzI3NSwtMTAyMTE0NTc2MSwxNDM4MDAyODA1
-LDEyOTc1Mjk0NjVdfQ==
+eyJoaXN0b3J5IjpbMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNj
+Y2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3Nzcz
+MTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NS
+wxNDc1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2
+NjMxMzU5MjcsMjk4NzcxMzg0LDExNTkyMzI3MzEsODUxNzgwMj
+k1LC0xMTc3Nzk1NDA5LC0xNjMxOTc3Mjc1LC0xMDIxMTQ1NzYx
+LDE0MzgwMDI4MDVdfQ==
 -->
