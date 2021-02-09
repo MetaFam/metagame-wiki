@@ -95,7 +95,7 @@ src="https://www.youtube.com/embed/f098VsIIUTk">
 src="https://www.youtube.com/embed/8beQuHwfVag">  
 </iframe></center>
 
-<b>Use Edges and Value the Marginal:</b> So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Because i am diversity, dynamism, not skilled in the arts of web design, but a builder and Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have blown about and because it’s at the edge you just let them get on with it, in a systems sense, this is where your system starts to engage with other systems around it and as such is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy. 
+<b>Use Edges and Value the Marginal:</b> So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Because i am diversity, dynamism, not skilled in the arts of web design, but a builder and poet, so far from the metiers, of my fellow digital builders who have done so much to Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have blown about and because it’s at the edge you just let them get on with it, in a systems sense, this is where your system starts to engage with other systems around it and as such is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy. 
 <center><a href="https://youtu.be/4vp4B9Hu0ik">'The Edge' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/4vp4B9Hu0ik">  
@@ -210,11 +210,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzUxMjAyLDI3Mzg1NzA1NCwtOTY2MD
-cwNDM1LDE4NjgxNTczNzQsLTE0MTc3MTA5ODQsLTE0ODU3MjM5
-MSwtMjA3MTcyNzY5OSwtMTY1MzQ2NTA1MiwtNDI5MDIxNjAzLC
-0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzcz
-MDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1Nz
-AsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5
-OTEwNDk5NTJdfQ==
+eyJoaXN0b3J5IjpbLTM0MTk5Nzk0MSwyNzM4NTcwNTQsLTk2Nj
+A3MDQzNSwxODY4MTU3Mzc0LC0xNDE3NzEwOTg0LC0xNDg1NzIz
+OTEsLTIwNzE3Mjc2OTksLTE2NTM0NjUwNTIsLTQyOTAyMTYwMy
+wtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4MiwxMzc3
+MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NT
+cwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0x
+OTkxMDQ5OTUyXX0=
 -->
