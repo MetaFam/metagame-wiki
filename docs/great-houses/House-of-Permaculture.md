@@ -87,7 +87,7 @@ src="https://www.youtube.com/embed/06gUoes7gdo">
 src="https://www.youtube.com/embed/f098VsIIUTk">  
 </iframe></center>
 
-**Use and Value Diversity:**  Diversity is our best friend!! It reduces energy inputs, it is the nature of nature, it is the friend of exponentially increasing outputs and remove just one part of a diverse ecosystem and you’re screwed! Basically work-load goes up, resource pool declines, chances of disaster is exponentially up and damage to the environment, already foretold! Diversity in social terms is our friend: Genetically, we get stronger if we don’t have kids with our next of kin, plus we have more aesthetically pleasing features ;-) and when it comes to infrastructure, diversity is where we sometimes find the most surprising and beneficial solutions. If you have a bank run by 50 something crusty, musty establishment guys trying to run a progressive economic model and you have a startup suddenly out of nowhere, because some bright spark was like “Hey we don’t need actual banks anymore, let’s just stick it on people’s smart phones , and send them a notification once the money lands” I’ll leave the rest to your vivid imaginations (Clearly Smart-Phones are a massive problem ecologically and ethically, but are currently, an intrinsic cog in the permaculture existent in society and digitally based communities, it would be awesome to see the back of these, but I am doubtful we will until we have established an implant and HUD replacement tech). 
+**Use and Value Diversity:**  Diversity is our best friend!! It reduces energy inputs, it is the nature of nature, it is the friend of exponentially increasing outputs and remove just one part of a diverse ecosystem and you’re screwed! Basically work-load goes up, resource pool declines, chances of disaster is exponentially up and damage to the environment, already foretold! Diversity in social terms is our friend: Genetically, we get stronger if we don’t have kids with our next of kin, plus we have more aesthetically pleasing features ;-) and when it comes to infrastructure, diversity is where we sometimes find the most surprising and beneficial solutions. If you have a bank run by 50 something crusty, musty establishment guys trying to run a progressive economic model and you have a startup suddenly out of nowhere, because some bright spark was like “Hey we don’t need actual banks anymore, let’s just stick it on people’s smart phones , and send them a notification once the money lands” I’ll leave the rest to your vivid imaginations (Clearly Smart-Phones are a massive problem ecologically and ethically, but are currently, an intrinsic cog in the permaculture existent in society and our digital/Real Life interphasically based communities, it would be awesome to see the back of these, but I am doubtful we will until we have established an implant and HUD replacement tech). 
 <center><a href="https://youtu.be/8beQuHwfVag">'Many Many' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/8beQuHwfVag">  
@@ -208,7 +208,7 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY2Nzg3OTgsLTE0ODU3MjM5MSwtMj
+eyJoaXN0b3J5IjpbLTE0MTc3MTA5ODQsLTE0ODU3MjM5MSwtMj
 A3MTcyNzY5OSwtMTY1MzQ2NTA1MiwtNDI5MDIxNjAzLC0zMTQw
 Mzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUzOD
 gsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0
