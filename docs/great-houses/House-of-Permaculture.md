@@ -174,8 +174,8 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 </tr>  
 <tr>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699319539892244/10.jpg" alt="Principal of Edge Effects" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699346731958302/11.jpg" alt="Principal of Intensification" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699371369037844/12.jpg" alt="Principal of Accelerated Succesion & Evolution" width="189.5" height="285"></td>  
 </tr>  
 </table></center><p class="big">
 
@@ -184,7 +184,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 <th colspan="3"></th>
 </tr>  
 <tr>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699400264253450/13.jpg" alt="Principal of Natural Force" width="189.5" height="285"></td>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
 </tr>  
@@ -203,7 +203,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjM1MTk2NywtNDI5MDIxNjAzLC0zMT
+eyJoaXN0b3J5IjpbMTIyMDUxNzYxNSwtNDI5MDIxNjAzLC0zMT
 QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
 ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
 Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
