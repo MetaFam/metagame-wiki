@@ -21,7 +21,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 <center><img src="https://cdn.discordapp.com/attachments/782054752484589579/802967678309498880/EcoOctoWorld.png" alt="The Metagame House of Permaculture" width="760" height="760"></center><p class="big">
 <center><b>Permaculture: A Design Principal, of Sustainability Rooted in the reflection of natural ecosystems, the diversity and symbiosis by which the whole is perpetually sustained by the sum and interaction of the parts. <p class="big"><b>The MF Ethics</b></center>
 
-<b>Earth Care:</b>Our No.1 Priority is ensuring our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. De-Centralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere, which is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing, with positive reversal protocols including planting millions and millions of trees, along with other initiatives to capture Carbon, which are many and varied. Do not be in any doubt that 8 billion people all doing a little bit will help with this! It will and so get involved in whatsoever way you can! The main focus has to be on Industry though!
+<b>Earth Care:</b> Our No.1 Priority is ensuring our species and in fact, all the other species we share this world with, still have a home called Planet Earth in the future. Sure we can find another planet to live on, but what then? do the same over? There are only so many Planets fit for purpose and once we've run out. There Are No More, in striking distance. Decentralising everything (This includes Food Production, Manufacturing, Technologies, The Internet and more) Rewilding, Re-Greening & Sustainable Energy Production and the restoration and preservation of our Planet's ecosystem means that even if we have to move on to another planet, we have a sustainable model for life to take with us. We have some major challenges to deal with including the re-balancing of carbon in our atmosphere; which if immediately tackled, is going to make little difference to the commited warming curve we are already on, but does mean that in about 40 years we will start to stabilise, but only once we have ceased our current carbon spewing, with positive reversal protocols including planting millions and millions of trees, along with other initiatives to capture Carbon, which are many and varied. Do not be in any doubt that 8 billion people all doing a little bit will help with this! It will and so get involved in whatsoever way you can! The main focus has to be on Industry though!
 
 **People Care:** Human Beings were not supposed to exist as automatons mindlessly repeating tasks for the benefit of a corporation to profit in the boomerang of produce and services that could have been delivered at source in the first place by the very people enslaved into a cycle of pointless parts existent only to create as many price points as possible, the cost to individuals has been devastating, including physiological damage from interuptions to their gene rhythms, over-concentrations of chemical exposures to communities and individuals, repetitive injuries and psychological damage from lack of natural light, absence from families and the theft of their creativity, freewill and calm. The devolution of power and supply and production is at the heart of the solution to this, decentralising everything (This includes Education, Identity Control, IP Control, Financial Control, Botanical Seed Control, Medicines, Medical Records, Policing and more), Community Regeneration, Wealth Redistribution and ultimately this comes down to people getting their lives back as their own.
 
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODg3MzIxLDE4NjgxNTczNzQsLTE0MT
-c3MTA5ODQsLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMTY1MzQ2
-NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOC
-wyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3
-NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2Mj
-Y1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAs
-LTEyNjQwOTE1NV19
+eyJoaXN0b3J5IjpbLTIwODU0NjYzMTYsMTg2ODE1NzM3NCwtMT
+QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
+NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
+A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
+Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NT
+YyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1
+MCwtMTI2NDA5MTU1XX0=
 -->
