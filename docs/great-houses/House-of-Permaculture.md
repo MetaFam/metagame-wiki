@@ -83,7 +83,7 @@ Growing your garden you will have invariably at some point pulled your hair out 
 src="https://www.youtube.com/embed/06gUoes7gdo">  
 </iframe></center>
 
-<b>Use Small and Slow Solutions:</b>  So we all saw what happened when Gorbachev introduced democracy to the USSR quickly, yep all the wealth got snapped up by Oligarchs and the power remained with the elite! Same happened when the Raj withdrew from India, 1.5% of Indian and Pakistani nationals were left at the helm. When Tito died in what was Yugoslavia, virtually overnight, the power vacuum that was left in the Balkans, where for years as the dictator he had been attempting to create an evenly dispersed cultural diversity (via some very dubious forced movements of communities, individuals and families), descended into absolute carnage! In the same way if you try to treat an outbreak of cabbage moths with torrents of pesticide, you will destroy a whole ecosystem of creatures, who will self-regulate the cabbage moth situation if given half a chance themselves. What you got to remember is that to plant your cabbages, you just destroyed hundreds of umbelliferae, which were like the street corner for gangs of insectivores to hang out and leer at those ikkle cabbage moth larvae, just before they swooped in and killed every mother fucking last one of them! So, maybe just gently and slowly plant some umbelliferae and other companion and previously existent plants and the rest will write itself. In a mid-range example, we could look at the gradual and determined efforts of Neal Spackman and his co-founders in the re-greening of the desert story of Al Baydah, referenced and linked in one of our next sections, soon to be published. Take your time. "Move at the Speed of Trust. focus on critical connections over critical mass. Build the resilience by building the relationships" (Quote: Emergent Strategy). Sudden change invariably ends in disaster! 
+<b>Use Small and Slow Solutions:</b>  So many of saw what happened when Gorbachev introduced democracy to the USSR too quickly, yep all the wealth got snapped up by Oligarchs and the power remained with the elite! Same happened when the Raj withdrew from India, 1.5% of Indian and Pakistani nationals were left at the helm, with s. When Tito died in what was Yugoslavia, virtually overnight, the power vacuum that was left in the Balkans, where for years as the dictator he had been attempting to create an evenly dispersed cultural diversity (via some very dubious forced movements of communities, individuals and families), descended into absolute carnage! In the same way if you try to treat an outbreak of cabbage moths with torrents of pesticide, you will destroy a whole ecosystem of creatures, who will self-regulate the cabbage moth situation if given half a chance themselves. What you got to remember is that to plant your cabbages, you just destroyed hundreds of umbelliferae, which were like the street corner for gangs of insectivores to hang out and leer at those ikkle cabbage moth larvae, just before they swooped in and killed every mother fucking last one of them! So, maybe just gently and slowly plant some umbelliferae and other companion and previously existent plants and the rest will write itself. In a mid-range example, we could look at the gradual and determined efforts of Neal Spackman and his co-founders in the re-greening of the desert story of Al Baydah, referenced and linked in one of our next sections, soon to be published. Take your time. "Move at the Speed of Trust. focus on critical connections over critical mass. Build the resilience by building the relationships" (Quote: Emergent Strategy). Sudden change invariably ends in disaster! 
 <center><a href="https://youtu.be/f098VsIIUTk">'Small & Slow' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/f098VsIIUTk">  
@@ -210,11 +210,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDA5NjYyNCwxODY4MTU3Mzc0LC0xND
-E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
-NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
-gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
-NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
-I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
-LC0xMjY0MDkxNTVdfQ==
+eyJoaXN0b3J5IjpbODI1MzczNDM0LDE4NjgxNTczNzQsLTE0MT
+c3MTA5ODQsLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMTY1MzQ2
+NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOC
+wyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3
+NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2Mj
+Y1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAs
+LTEyNjQwOTE1NV19
 -->
