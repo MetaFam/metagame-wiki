@@ -106,7 +106,7 @@ src="https://www.youtube.com/embed/n08bNUPyHgE">
 <center><b>So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:</b></center><p class="big">
 
 
-<center><b><a href="https://youtu.be/n08bNUPyHgE">'David Holmgren’s 12 x Principals of Permaculture:</a><p class="big">
+<center><b><a href="https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/">'David Holmgren’s 12 x Principals of Permaculture:</a><p class="big">
 <iframe width="760" height="200"  
 src="https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/">  
 </iframe></center>
@@ -203,11 +203,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTM3MzIxOCwtNDI5MDIxNjAzLC0zMT
-QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
-ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
-Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
-NDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1ODUyMD
-U1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMzU5Mjcs
-Mjk4NzcxMzg0XX0=
+eyJoaXN0b3J5IjpbMjkyMTY1OTU2LC00MjkwMjE2MDMsLTMxND
+AzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3NzMwNTM4
+OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzODU3MCwxND
+Q0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwtMTk5MTA0
+OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5MTU1LDE0NzU4NTIwNT
+UsLTE4NTU4NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywy
+OTg3NzEzODRdfQ==
 -->
