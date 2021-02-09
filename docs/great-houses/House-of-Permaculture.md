@@ -69,7 +69,7 @@ src="https://www.youtube.com/embed/h__qCy4GhSM">
 src="https://www.youtube.com/embed/mgZkn56dpk8">  
 </iframe></center>
 
-<b>Design from Patterns to Detail:</b> Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Actually only just over 40% are your own, the rest are made up of Microbes  not made of you. Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. 
+<b>Design from Patterns to Detail:</b> Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Actually only just over 40% are your own, don't worry though, the rest are made up of Microbes  not made of you. Hot-tip, one regular tea bag and a tea bag of lady grey in the one cup, yep, I know it’s totally out there, but ohhhh so good! and brings me nicely on to the next principle. 
 <center><a href="https://youtu.be/qOl2cYubn0I">'Patterns' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/qOl2cYubn0I">  
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU0NjIxNDgsMTg2ODE1NzM3NCwtMT
-QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
-NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
-A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
-Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NT
-YyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1
-MCwtMTI2NDA5MTU1XX0=
+eyJoaXN0b3J5IjpbMTI5NDUyNjI2NiwxODY4MTU3Mzc0LC0xND
+E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
+NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
+gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
+NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
+I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
+LC0xMjY0MDkxNTVdfQ==
 -->
