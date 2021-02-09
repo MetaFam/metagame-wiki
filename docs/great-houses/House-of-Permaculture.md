@@ -28,7 +28,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 <b>Equitable Share:</b> By Re-appropriating the governance of our own needs and surplus, we can create equitable trading and remuneration (an example of this would be Bartering Schemes, Online Shopping sites for individuals and organisations, Farmer's Markets and the emergence of DAO’s (To name but a few), which allow peer to peer flow of finance/value).  Avoiding/Eliminating superfluous roles, tiers in production, distribution and point of sale/delivery creates a value surplus which feeds the sustainability of the individual financially and/or can be set aside to further the above principles and/or be used to encourage progress of personal and community efforts in de-linking themselves from overheads, challenging the ability to be financially self sufficient.
 
 <b>Knowledge Share:</b> By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism's hold on people's reliance to these current economic models to pay the rent, the credit/bailiff cycle and generally, politically loaded closed financial loop attachment. If we tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, first hand, with overwatch support, to accelerate the necessary learning, this will enable the decentralisation process and the return of basic needs being met at a local level.
-<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png" alt="Principles of Permacul" width="760" height="475"></center><p class="big">
+<center><img src="https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png" alt="The MetaGame Principles of Permaculture" width="760" height="475"></center><p class="big">
 
 <center><b>The MF Principles</b></center>
 
@@ -109,7 +109,7 @@ src="https://www.youtube.com/embed/n08bNUPyHgE">
 
 <center><b>So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:</b></center><p class="big">
 
-<center><b><a href="https://permacultureprinciples.com/">'David Holmgren’s 12 x Principals of Permaculture:</a><p class="big">
+<center><b><a href="https://permacultureprinciples.com/">David Holmgren’s 12 x Principals of Permaculture:</a><p class="big">
 <iframe width="760" height="200"  
 src="https://permacultureprinciples.com/">  
 </iframe></center>
@@ -211,11 +211,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzkyMDY5NCwyNzM4NTcwNTQsLTk2Nj
-A3MDQzNSwxODY4MTU3Mzc0LC0xNDE3NzEwOTg0LC0xNDg1NzIz
-OTEsLTIwNzE3Mjc2OTksLTE2NTM0NjUwNTIsLTQyOTAyMTYwMy
-wtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4MiwxMzc3
-MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NT
-cwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0x
-OTkxMDQ5OTUyXX0=
+eyJoaXN0b3J5IjpbLTEzMjU0ODY3MjcsMjczODU3MDU0LC05Nj
+YwNzA0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcy
+MzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MD
+MsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3
+NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzOD
+U3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwt
+MTk5MTA0OTk1Ml19
 -->
