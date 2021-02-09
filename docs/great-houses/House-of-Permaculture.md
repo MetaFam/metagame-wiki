@@ -27,12 +27,12 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 
 <b>Equitable Share:</b> By Re-appropriating the governance of our own needs and surplus, we can create equitable trading and remuneration (an example of this would be Bartering Schemes, Online Shopping sites for individuals and organisations, Farmer's Markets and the emergence of DAO’s (To name but a few), which allow peer to peer flow of finance/value).  Avoiding/Eliminating superfluous roles, tiers in production, distribution and point of sale/delivery creates a value surplus which feeds the sustainability of the individual financially and/or can be set aside to further the above principles and/or be used to encourage progress of personal and community efforts in de-linking themselves from overheads, challenging the ability to be financially self sufficient.
 
-<b>Knowledge Share:</b> By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism's hold on people's reliance to these current economic models to pay the rent, the credit/bailiff loop and  tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, first hand, with overwatch support, to accelerate the necessary learning, to enable the Decentralisation process and the return of basic needs being met at a local level.
+<b>Knowledge Share:</b> By building and using networks at a local level and through worldwide networks on the web, we are and can, connect people of similar ambition and interests, in the movement away from monoculture and capitalism's hold on people's reliance to these current economic models to pay the rent, the credit/bailiff cycle and generally, politically loaded closed financial loop attachment. If we tightly align these networks with Earth Hubs/Outposts, which can then spawn guides whom through the exposure and immersion are able to then take and proliferate the message, first hand, with overwatch support, to accelerate the necessary learning, this will enable the decentralisation process and the return of basic needs being met at a local level.
 <center><img src="https://cdn.discordapp.com/attachments/788121740256608276/807751422472880159/PermacultureV2.png" alt="Girl in a jacket" width="760" height="475"></center><p class="big">
 
 <center><b>The MF Principles</b></center>
 
-**Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
+<b>Observe and Interact:**  Take the time to understand cycles, rhythms, relationships, triggers and then when you have begun to understand the subtleties and the delicacies of the ecosystem around you, then find a you-sized space to put yourself, or your requirements in. If you look hard enough, or for long enough, there is always a you-sized space. 
 <center><a href="https://youtu.be/lSWWChaEi1o">'Look Around' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTAzMTA2LDE4NjgxNTczNzQsLTE0MT
-c3MTA5ODQsLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMTY1MzQ2
-NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOC
-wyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3
-NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2Mj
-Y1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAs
-LTEyNjQwOTE1NV19
+eyJoaXN0b3J5IjpbMTIzNDQzODk2NiwxODY4MTU3Mzc0LC0xND
+E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
+NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
+gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
+NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
+I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
+LC0xMjY0MDkxNTVdfQ==
 -->
