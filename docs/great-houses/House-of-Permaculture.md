@@ -1,7 +1,7 @@
 <center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808408258842853397/PermacultureHeaderAlt.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
-Here at The Metagame, we are redefining our relationships with each other, our communities and the planet on which our communities reside. Intrinsically Permaculture is a muse for our Systems and Social Design and Extrinsicly we are hoping to set up outposed
+Here at The Metagame, we are redefining our relationships with each other, our communities and the planet on which our communities reside. Intrinsically Permaculture is a muse for our Systems and Social Design and Extrinsicly we are hoping to set up outposts around the globe for our online communities 
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
 
@@ -206,7 +206,7 @@ Thank you for your time reading and digesting, Kind Regards John Davie E-Mail Me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODgzMjUwOCwtMjA3MTcyNzY5OSwtMT
+eyJoaXN0b3J5IjpbMjA2MzY0MTEzOCwtMjA3MTcyNzY5OSwtMT
 Y1MzQ2NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0
 NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NC
 wxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4
