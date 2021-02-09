@@ -111,7 +111,7 @@ So Prior to me re-writing these previously described principles and ethics for u
 src="https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/">  
 </iframe></center>
 
-**Bill Mollison’s 12 x Principals of Permaculture:**
+<center><b>Bill Mollison’s 12 x Principals of Permaculture:**
 [https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/](https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/)
 
 **Both on one Page:**
@@ -196,14 +196,14 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 </tr>  
 <tr>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699484116516955/16.jpg" alt="Positivity Principal" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Positivity Principal" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699508200734760/17.jpg" alt="Proximity Principal" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699534053376000/18.jpg" alt="Demonstration Principal" width="189.5" height="285"></td>  
 </tr>  
 </table></center><p class="big">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzY5NjI5NiwtNDI5MDIxNjAzLC0zMT
+eyJoaXN0b3J5IjpbLTU0NjYxNjQzNCwtNDI5MDIxNjAzLC0zMT
 QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
 ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
 Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
