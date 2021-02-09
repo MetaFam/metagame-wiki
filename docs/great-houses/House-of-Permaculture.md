@@ -1,7 +1,7 @@
 <center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808408258842853397/PermacultureHeaderAlt.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
-Here at The Metagame, we are redefining our relationships with each other, our communities and the planet on which our communities reside. Intrinsically Permaculture is a muse for our Systems and Social Design and Extrinsicly we are hoping to set up outposts around the globe for our online communities to visit and learn and exchange value and then take their learning back out into the world to proliferate the earthy sides of Permaculture and to re-establish the meeting of basic needs provision in the realms of Food and Medicine production and application. 
+Here at The Metagame, we are redefining our relationships with each other, our communities and the planet on which our communities reside. Intrinsically Permaculture is a muse for our Systems and Social Design and Extrinsicly we are hoping to set up outposts around the globe for our online communities to visit and learn and exchange value; then take their learning back out into the world to proliferate the earthy sides of Permaculture and to re-establish the meeting of basic needs provision in the realms of Food and Medicine production and application. 
 
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
 
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMT
-Q4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00Mjkw
-MjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1OD
-IsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2
-NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3Nz
-MxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5MTU1
-LDE0NzU4NTIwNTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDY3MDA2MTgsMTg2ODE1NzM3NCwtMT
+QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
+NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
+A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
+Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NT
+YyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1
+MCwtMTI2NDA5MTU1XX0=
 -->
