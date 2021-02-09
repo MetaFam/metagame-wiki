@@ -124,16 +124,16 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 <center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1">
 
-| <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"> | <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"> |
+<center>| <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"> | <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"> |
 |--|--|
-|  |  |
+|  |  |</center>
 <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0MzI1MzMsMTM3NzMwNTM4OCwxMT
-g5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUz
-ODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwtMTk5MTA0OTk1Mi
-wtMTc5NDQ3NjY1MCwtMTI2NDA5MTU1LDE0NzU4NTIwNTUsLTE4
-NTU4NTAwOTEsLTE5MTgwNjE4NzIsMTY2MzEzNTkyNywyOTg3Nz
-EzODQsMTE1OTIzMjczMSw4NTE3ODAyOTUsLTExNzc3OTU0MDks
-LTE2MzE5NzcyNzVdfQ==
+eyJoaXN0b3J5IjpbMjAzMjQyMDY1MiwxMzc3MzA1Mzg4LDExOD
+kzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4
+ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC
+0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1MjA1NSwtMTg1
+NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OTI3LDI5ODc3MT
+M4NCwxMTU5MjMyNzMxLDg1MTc4MDI5NSwtMTE3Nzc5NTQwOSwt
+MTYzMTk3NzI3NV19
 -->
