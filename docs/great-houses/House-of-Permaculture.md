@@ -109,7 +109,6 @@ src="https://www.youtube.com/embed/n08bNUPyHgE">
 
 <center><b>So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:</b></center><p class="big">
 
-
 <center><b><a href="https://permacultureprinciples.com/">'David Holmgren’s 12 x Principals of Permaculture:</a><p class="big">
 <iframe width="760" height="200"  
 src="https://permacultureprinciples.com/">  
@@ -210,11 +209,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI2OTUxNzUsMjczODU3MDU0LC05Nj
-YwNzA0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcy
-MzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MD
-MsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3
-NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzOD
-U3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwt
-MTk5MTA0OTk1Ml19
+eyJoaXN0b3J5IjpbNTk2NDY0MzMxLDI3Mzg1NzA1NCwtOTY2MD
+cwNDM1LDE4NjgxNTczNzQsLTE0MTc3MTA5ODQsLTE0ODU3MjM5
+MSwtMjA3MTcyNzY5OSwtMTY1MzQ2NTA1MiwtNDI5MDIxNjAzLC
+0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzcz
+MDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1Nz
+AsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5
+OTEwNDk5NTJdfQ==
 -->
