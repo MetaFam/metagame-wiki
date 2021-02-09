@@ -38,7 +38,7 @@ Nothing is sacred other than our Earth Mother Gaia and all upon and from her in 
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe></center>
 
-<b>Catch and Store Energy:</b>  Don’t let energy get away, it’s all around us moving at different speeds and occurring at different frequencies, it may not be there for another 6 months, but maybe there was enough last week to last for 6 months if you’d been able to capture it and then store it, interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
+<b>Catch and Store Energy:</b>  Don’t let energy get away, it’s all around us moving at different speeds, occurring at different frequencies and manifesting in deifferent ways; it may not be there for another 6 months, but maybe there was enough last week to last for 6 month, if you’d been able to capture it and store it. Interactions between different sources is incredibly useful in terms of modulation throughout the day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights on dynamos at peak times to modulate electricity supply to modulate the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months. 
 <center><a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/K6YsvKQrNlU">  
@@ -208,7 +208,7 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI1OTQzOTIsMTg2ODE1NzM3NCwtMT
+eyJoaXN0b3J5IjpbLTEzMzg3NTE5MzcsMTg2ODE1NzM3NCwtMT
 QxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC0xNjUz
 NDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MD
 A4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3
