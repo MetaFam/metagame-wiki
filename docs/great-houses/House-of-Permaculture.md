@@ -184,9 +184,9 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 <th colspan="3"></th>
 </tr>  
 <tr>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699400264253450/13.jpg" alt="Principal of Natural Force" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699400264253450/13.jpg" alt="Principal of Natural Forces" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699429661999104/14.jpg" alt="Principal on Yield" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699455938658329/15.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
 </tr>  
 </table></center><p class="big">
 
@@ -203,7 +203,7 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDUxNzYxNSwtNDI5MDIxNjAzLC0zMT
+eyJoaXN0b3J5IjpbLTYwNTYwMTg3NiwtNDI5MDIxNjAzLC0zMT
 QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
 ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
 Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
