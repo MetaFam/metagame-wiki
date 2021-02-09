@@ -1,6 +1,8 @@
 <center><img src="https://cdn.discordapp.com/attachments/788121740256608276/808408258842853397/PermacultureHeaderAlt.png" alt="The Metagame House of Permaculture" width="760" height="324"></center><p class="big">
 <center><b>WTF is Permaculture? How is it Intrinsic and particularly Extrinsic to Metagame and why is it a key to a realistic and balanced future for Mankind</center></b>
 
+Here at The Metagame, we are redefining our relationships with each other and the 
+
 The first thing that we need to establish is that we are speaking from the point of view of Westernised, Democratised and a generally Capitalistic point of view; also the language we use is fundamentally and structurally different from every other culture other than the above, so we are not only explaining definitions here, but more importantly explaining them from this point of view. This is incredibly important to remember and to hold with you, as you transition any knowledge uptake you indulge in and particularly when you then try to explain it to others. We are in the business of Re-Coding thousands of years of Patriarchy, misappropriated spirituality, centralisation of power and the general pillage of the globe to feed the bottom-up capitalist corporate harvester.
 
 This clearly doesn’t apply to contemporary roots cultures, e.g.  foraging/nomadic tribal communities, or in fact anyone that has truly achieved low impact sustainability in their lives.
@@ -204,11 +206,11 @@ Thank you for your time reading and digesting, Kind Regards John Davie E-Mail Me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzYwNjYxMywtMTY1MzQ2NTA1MiwtND
-I5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEy
-NTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC
-0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3
-NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOT
-E1NSwxNDc1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcy
-LDE2NjMxMzU5MjddfQ==
+eyJoaXN0b3J5IjpbLTIwNzE3Mjc2OTksLTE2NTM0NjUwNTIsLT
+QyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQx
+MjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4My
+wtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1
+Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MD
+kxNTUsMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3
+MiwxNjYzMTM1OTI3XX0=
 -->
