@@ -128,9 +128,9 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 <p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285">
 
-![enter image description here](https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg)
+<p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODU4ODY4MiwxMzc3MzA1Mzg4LDExOD
+eyJoaXN0b3J5IjpbMTE2NTM4MjU3MSwxMzc3MzA1Mzg4LDExOD
 kzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4
 ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC
 0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1MjA1NSwtMTg1
