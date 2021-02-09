@@ -135,13 +135,79 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 </tr>  
 </table></center><p class="big">
 
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
+<center><table style="width:100%">  
+<tr>  
+<th colspan="3"></th>
+</tr>  
+<tr>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+</tr>  
+</table></center><p class="big">
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNz
-czMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1
-NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLT
-E5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1
-ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMz
-U5MjcsMjk4NzcxMzg0LDExNTkyMzI3MzEsODUxNzgwMjk1LC0x
-MTc3Nzk1NDA5XX0=
+eyJoaXN0b3J5IjpbLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMj
+I0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5
+ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMj
+EyNTc3NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1MCwtMTI2
+NDA5MTU1LDE0NzU4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgwNj
+E4NzIsMTY2MzEzNTkyNywyOTg3NzEzODQsMTE1OTIzMjczMSw4
+NTE3ODAyOTVdfQ==
 -->
