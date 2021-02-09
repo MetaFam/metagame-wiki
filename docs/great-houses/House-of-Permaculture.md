@@ -200,11 +200,11 @@ More sections will be coming soon as we dig the dirt on the many layers of Perma
 
 Please get in touch if you would like to contribute to our House of Permaculture in any way, or have any questions or suggestions.
 
-Thank you for your time reading and digesting
+Thank you for your time reading and digesting, Kind Regards John Davie E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzMyMTI3NiwtMTY1MzQ2NTA1MiwtND
+eyJoaXN0b3J5IjpbMTE5NzYwNjYxMywtMTY1MzQ2NTA1MiwtND
 I5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEy
 NTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC
 0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3
