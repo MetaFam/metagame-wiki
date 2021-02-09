@@ -101,7 +101,7 @@ src="https://www.youtube.com/embed/8beQuHwfVag">
 src="https://www.youtube.com/embed/4vp4B9Hu0ik">  
 </iframe></center>
 
-<b>Creatively Use and Respond to Change:**  Change does not stop! Nothing is constant in this universe and beyond, other than change, we are in a constant state of dynamic flux, again there is no way of over stating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen, that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of creatively using and responding to change! 
+<b>Creatively Use and Respond to Change:</b>  Change does not stop! Nothing is constant in this universe and beyond other than change, we are in a constant state of dynamic flux, again there is no way of overstating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen; that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a traditional timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of creatively using and responding to change! 
 <center><a href="https://youtu.be/n08bNUPyHgE">'Change' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/n08bNUPyHgE">  
@@ -210,11 +210,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NTg5NDMsMjczODU3MDU0LC05NjYwNz
-A0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcyMzkx
-LC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MDMsLT
-MxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3NzMw
-NTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzODU3MC
-wxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwtMTk5
-MTA0OTk1Ml19
+eyJoaXN0b3J5IjpbLTE5MDM0ODE1NjQsMjczODU3MDU0LC05Nj
+YwNzA0MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcy
+MzkxLC0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MD
+MsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3
+NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzOD
+U3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3NzMxMiwt
+MTk5MTA0OTk1Ml19
 -->
