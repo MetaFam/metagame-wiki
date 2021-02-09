@@ -122,9 +122,9 @@ src="https://justlists.wordpress.com/2010/01/14/principles-of-permaculture/">
 
 The 21 Cards of the ethics and principles of Bill Mollison as provided on https://www.permaculturefundamentals.com/ by Brett Cooper
 
-<center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1">
+<center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1"><p class="big">
 
-<table style="width:100%">  
+<center><table style="width:100%">  
 <tr>  
 <th colspan="3"></th>
 </tr>  
@@ -133,11 +133,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
 </tr>  
-</table></center>
+</table></center><p class="big">
 
-<p class="big"><p class="big"></center>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDUzMjc2OSwyMDIyNDEyNTgyLDEzNz
+eyJoaXN0b3J5IjpbMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNz
 czMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1
 NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLT
 E5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1
