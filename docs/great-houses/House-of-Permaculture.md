@@ -117,10 +117,6 @@ src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principl
 
 
 
-
-**Both on one Page:**
-[https://knowledgebase.permaculture.org.uk/principles](https://knowledgebase.permaculture.org.uk/principles)
-
 **Geoff Lawton Student of Bill Mollison, very prolific in his work:**
 [https://www.geofflawtononline.com/](https://www.geofflawtononline.com/)
 
@@ -207,11 +203,11 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjMxNDQ4OCwtNDI5MDIxNjAzLC0zMT
-QwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEyNTgyLDEzNzczMDUz
-ODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1NzAsMT
-Q0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLTE5OTEw
-NDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1ODUyMD
-U1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcyLDE2NjMxMzU5Mjcs
-Mjk4NzcxMzg0XX0=
+eyJoaXN0b3J5IjpbLTE2NTM0NjUwNTIsLTQyOTAyMTYwMywtMz
+E0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4MiwxMzc3MzA1
+Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMzY2NjM4NTcwLD
+E0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3MzEyLC0xOTkx
+MDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNTUsMTQ3NTg1Mj
+A1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3MiwxNjYzMTM1OTI3
+LDI5ODc3MTM4NF19
 -->
