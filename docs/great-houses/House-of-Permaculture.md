@@ -126,18 +126,18 @@ The 21 Cards of the ethics and principles of Bill Mollison as provided on https:
 
 <table style="width:100%">  
 <tr>  
-<th colspan="3"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></th>
+<th colspan="3"></th>
 </tr>  
 <tr>  
-<td>Bill Gates</td>  
-<td>55577854</td>  
-<td>55577855</td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
+<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
 </tr>  
-</table>
+</table></center>
 
-<center><p class="big"><p class="big"><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></center>
+<p class="big"><p class="big"></center>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDI2ODk1NSwyMDIyNDEyNTgyLDEzNz
+eyJoaXN0b3J5IjpbLTc2NDUzMjc2OSwyMDIyNDEyNTgyLDEzNz
 czMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC0zNjY2Mzg1
 NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3NzczMTIsLT
 E5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOTE1NSwxNDc1
