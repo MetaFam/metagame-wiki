@@ -115,7 +115,7 @@ src="https://permacultureprinciples.com/">
 <iframe width="760" height="200"  
 src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/"> </iframe></center>
 
-<center><b>The 21 Cards of the ethics and principles of Bill Mollison as provided on <a href="https://permaculturefundamentals.com">Bill Mollison’s 12 x Principals of Permaculture:</a>https://www.permaculturefundamentals.com/ by Brett Cooper
+<center><b>The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a href="https://permaculturefundamentals.com">www.Permaculturefundamentals.com by Brett Cooper
 
 <center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1"><p class="big">
 
@@ -198,11 +198,11 @@ src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2ODcwMjkwLC0xNjUzNDY1MDUyLC00Mj
-kwMjE2MDMsLTMxNDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1
-ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLT
-M2NjYzODU3MCwxNDQ0NzUzODg3LDE2Mzg1NTYyNjUsMjEyNTc3
-NzMxMiwtMTk5MTA0OTk1MiwtMTc5NDQ3NjY1MCwtMTI2NDA5MT
-U1LDE0NzU4NTIwNTUsLTE4NTU4NTAwOTEsLTE5MTgwNjE4NzIs
-MTY2MzEzNTkyN119
+eyJoaXN0b3J5IjpbMzQzMTQzMDQsLTE2NTM0NjUwNTIsLTQyOT
+AyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQxMjU4
+MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4MywtMz
+Y2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1Nzc3
+MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MDkxNT
+UsMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3Miwx
+NjYzMTM1OTI3XX0=
 -->
