@@ -57,13 +57,13 @@ src="https://www.youtube.com/embed/tSTFfKHJg4Y">
 src="https://www.youtube.com/embed/MinWXNy4_LY">  
 </iframe></center>
 
-<b>Use and value Renewable Resources and Services:</b> Back to Rhythms and Cycles people; exploit and conserve these as they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle; exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop it into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, or milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….
+<b>Use and value Renewable Resources and Services:</b> Back to Rhythms and Cycles people; exploit and conserve these as they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle; exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop it into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection and microbes do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….
 <center><a href="https://youtu.be/h__qCy4GhSM">'Oil' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/h__qCy4GhSM">  
 </iframe></center>
 
-**Produce no Waste:** This is one of the most tangible indicators of how well you are doing. In non-anthropogenic nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so.
+<b>Produce no Waste:</b> This is one of the most tangible indicators of how well you are doing. In non-anthropogenically perverted nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so.
  <center><a href="https://youtu.be/mgZkn56dpk8">'No Such Thing As Waste' by The Formiddable Vegetable sound system</a><p class="big">
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/mgZkn56dpk8">  
@@ -208,11 +208,11 @@ Please E-Mail Me: johnadavie@gmail.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjYyNjE0NSwxODY4MTU3Mzc0LC0xND
-E3NzEwOTg0LC0xNDg1NzIzOTEsLTIwNzE3Mjc2OTksLTE2NTM0
-NjUwNTIsLTQyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMD
-gsMjAyMjQxMjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTcz
-NzQwMDk4MywtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1Nj
-I2NSwyMTI1Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUw
-LC0xMjY0MDkxNTVdfQ==
+eyJoaXN0b3J5IjpbNzQwNTMzMzM3LDE4NjgxNTczNzQsLTE0MT
+c3MTA5ODQsLTE0ODU3MjM5MSwtMjA3MTcyNzY5OSwtMTY1MzQ2
+NTA1MiwtNDI5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOC
+wyMDIyNDEyNTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3
+NDAwOTgzLC0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2Mj
+Y1LDIxMjU3NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAs
+LTEyNjQwOTE1NV19
 -->
