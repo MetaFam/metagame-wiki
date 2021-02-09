@@ -196,15 +196,19 @@ src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principl
 </tr>  
 </table></center><p class="big">
 
-More sections will be coming soon as we dig the dirt on the many layers of Permaculture, including Education, Digital Permaculture, Groups and CoPlease get in touch if you would like to contribute to this 
+More sections will be coming soon as we dig the dirt on the many layers of Permaculture, including Education, Digital Permaculture, Groups and Communities Online and on the ground, Exemplary Projects on the go around the world, Articles, Podcasts and Basic Guides for the beginner and more advanced among us.
+
+Please get in touch if you would like to contribute to our House of Permaculture in any way, or have any questions or suggestions.
+
+Thank you for your time reading and digesting
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEwODE5MjYsLTE2NTM0NjUwNTIsLT
-QyOTAyMTYwMywtMzE0MDM4NjYwLDE5OTMzNDcwMDgsMjAyMjQx
-MjU4MiwxMzc3MzA1Mzg4LDExODkzOTYzNzQsMTczNzQwMDk4My
-wtMzY2NjM4NTcwLDE0NDQ3NTM4ODcsMTYzODU1NjI2NSwyMTI1
-Nzc3MzEyLC0xOTkxMDQ5OTUyLC0xNzk0NDc2NjUwLC0xMjY0MD
-kxNTUsMTQ3NTg1MjA1NSwtMTg1NTg1MDA5MSwtMTkxODA2MTg3
-MiwxNjYzMTM1OTI3XX0=
+eyJoaXN0b3J5IjpbLTQ3MzMyMTI3NiwtMTY1MzQ2NTA1MiwtND
+I5MDIxNjAzLC0zMTQwMzg2NjAsMTk5MzM0NzAwOCwyMDIyNDEy
+NTgyLDEzNzczMDUzODgsMTE4OTM5NjM3NCwxNzM3NDAwOTgzLC
+0zNjY2Mzg1NzAsMTQ0NDc1Mzg4NywxNjM4NTU2MjY1LDIxMjU3
+NzczMTIsLTE5OTEwNDk5NTIsLTE3OTQ0NzY2NTAsLTEyNjQwOT
+E1NSwxNDc1ODUyMDU1LC0xODU1ODUwMDkxLC0xOTE4MDYxODcy
+LDE2NjMxMzU5MjddfQ==
 -->
