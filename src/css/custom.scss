@@ -33,6 +33,7 @@
 
 body {
   font-size: 14px;
+  overflow-x: hidden;
   @media (min-width: 995px) {
     font-size: 17px;
   }
@@ -368,7 +369,6 @@ body,
   max-height: 40px;
   padding: 0;
   text-align: center;
-
   @media screen and (min-width: 768px) {
     height: 60px;
     max-height: 60px;
@@ -401,7 +401,6 @@ body,
     }
   }
   &__search {
-    overflow: hidden;
     &-input {
       position: relative;
       background-color: rgba(255, 255, 255, 0.08);
