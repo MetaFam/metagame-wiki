@@ -434,8 +434,9 @@ body,
       @media (min-width: 760px) {
         font-size: 0.9rem;
         line-height: 1.6rem;
-        padding: 5px;
-        padding-left: 2rem;
+        padding: 5px 0 5px 40px;
+        // padding-left: 2.2rem;
+        max-width: 105px;
         &:focus {
           max-width: 300px;
         }
@@ -451,7 +452,7 @@ body,
       z-index: 0;
 
       @media (min-width: 760px) {
-        left: 23px;
+        left: 28px;
         top: 1px;
         font-size: 1.2rem;
       }
