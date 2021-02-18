@@ -29,6 +29,7 @@
   --mf-font-mono: 'IBM Plex Mono';
   --ifm-code-font-size: 95%;
   --ifm-font-size-base: 17px;
+  --ifm-navbar-search-input-icon: url('data:image/svg+xml;utf8,<svg fill="currentColor" alt="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16px" width="16px"><path d="M6.02945,10.20327a4.17382,4.17382,0,1,1,4.17382-4.17382A4.15609,4.15609,0,0,1,6.02945,10.20327Zm9.69195,4.2199L10.8989,9.59979A5.88021,5.88021,0,0,0,12.058,6.02856,6.00467,6.00467,0,1,0,9.59979,10.8989l4.82338,4.82338a.89729.89729,0,0,0,1.29912,0,.89749.89749,0,0,0-.00087-1.29909Z" /></svg>')
 }
 
 body {
@@ -422,9 +423,13 @@ body,
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
         color:  #fa85bc;
         max-width: 130px;
+        padding-right: 10px;
         &::placeholder {
           color: #fa85bc;
         }
+      }
+      &:hover {
+        max-width: 130px;
       }
       &::placeholder {
         color: #fa85bc;
@@ -457,6 +462,9 @@ body,
         font-size: 1.2rem;
       }
     }
+    .search-icon {
+      display: none;
+    }
   }
   &__items {
     &--right {
@@ -475,8 +483,23 @@ body,
 .algolia-autocomplete {
   background-color: rgba(255, 255, 255, 0.02);
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-  // backdrop-filter: blur(7px);
   border-radius: 6px;
+  // &:focus {
+  //   max-width: 160px;
+  // }
+  .search-bar {
+    width: 300px;
+    max-width: 20px;
+    &:hover, &:focus {
+      max-width: 130px;
+    }
+    @media (min-width: 760px) {
+      max-width: 105px;
+      &:hover, &:focus {
+        max-width: 300px;
+      }
+    }
+  }
   .ds-dropdown-menu {
     background-color: rgba(255, 255, 255, 0.02);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
