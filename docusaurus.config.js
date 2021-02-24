@@ -7,14 +7,14 @@ module.exports = {
   organizationName: "MetaFam",
   projectName: "metagame-wiki",
   customFields: {
-      GA_TAG: process.env.GA_TAG,
+    GA_TAG: process.env.GA_TAG,
+  },
+  themeConfig: {
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: true,
     },
-    themeConfig: {
-        colorMode: {
-            defaultMode: "dark",
-            disableSwitch: true,
-        },
-        image: "img/full-logo.png",
+    image: "img/wiki-cover.png",
     // headerLinks: [{ page: 'help', label: 'Help' }],
     navbar: {
       title: "MetaGame Wiki",
