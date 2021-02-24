@@ -6,6 +6,7 @@ module.exports = {
   favicon: "img/mg-icon.png",
   organizationName: "MetaFam",
   projectName: "metagame-wiki",
+  ogImage: "img/logo.png",
   customFields: {
     GA_TAG: process.env.GA_TAG,
   },
