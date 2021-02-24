@@ -6,15 +6,15 @@ module.exports = {
   favicon: "img/mg-icon.png",
   organizationName: "MetaFam",
   projectName: "metagame-wiki",
-  ogImage: "img/logo.png",
   customFields: {
-    GA_TAG: process.env.GA_TAG,
-  },
-  themeConfig: {
-    colorMode: {
-      defaultMode: "dark",
-      disableSwitch: true,
+      GA_TAG: process.env.GA_TAG,
     },
+    themeConfig: {
+        colorMode: {
+            defaultMode: "dark",
+            disableSwitch: true,
+        },
+    ogImage: "img/logo.png",
     // headerLinks: [{ page: 'help', label: 'Help' }],
     navbar: {
       title: "MetaGame Wiki",
