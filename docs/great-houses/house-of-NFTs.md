@@ -97,7 +97,7 @@ A user owned virtual world made from voxels.
 ## [Decentraland](https://decentraland.org/)
 Create, explore and trade in the first-ever virtual world owned by its users.
 
-## [The Sandbox]{https://www.sandbox.game/en/}
+## [The Sandbox](https://www.sandbox.game/en/)
 Play, Create, Own, and Govern a virtual world made by players.
 
 ## [Somnium Space](https://somniumspace.com/)
