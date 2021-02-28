@@ -26,7 +26,8 @@ export const books = [
   {
     id: 1,
     title: "😎 Make it Without Technical Skills",
-    imgURL: "https://imgur.com/1Kezv9Q.png",
+    author: "@cooopahtroopa",
+    imgURL: "https://i.imgur.com/BWIoQ9Q.jpg",
     bookPath: "playbooks/how-to-make-it-without-technical-skills",
     decription:
       "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",

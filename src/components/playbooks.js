@@ -55,7 +55,7 @@ export function PlayBook({ book }) {
         <img src={book.imgURL} />
         <div className={styles.bookInfo}>
           <h4>{book.title}</h4>
-          {book.description && <p>{book.description}</p>}
+          {book.author && <p>{book.author}</p>}
         </div>
       </a>
     </div>
