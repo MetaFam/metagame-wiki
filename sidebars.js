@@ -1,14 +1,14 @@
 module.exports = {
   someSidebar: {
-    '🌀 MetaOS': ['home'],
-    '🤨 Pillar Memes': [
-      'wtf-is-metagame/origin-story',
-      'wtf-is-metagame/in-search-of-commons-that-scale',
-      'wtf-is-metagame/the-coming-of-metagame',
-      'wtf-is-metagame/way-of-web3-founders',
-      'wtf-is-metagame/narrative-1-a-decentralized-factory',
-      'wtf-is-metagame/narrative-2-a-web-of-opportunity',
-      'wtf-is-metagame/metafam-way',
+    "🌀 MetaOS": ["home"],
+    "🤨 Pillar Memes": [
+      "wtf-is-metagame/origin-story",
+      "wtf-is-metagame/in-search-of-commons-that-scale",
+      "wtf-is-metagame/the-coming-of-metagame",
+      "wtf-is-metagame/way-of-web3-founders",
+      "wtf-is-metagame/narrative-1-a-decentralized-factory",
+      "wtf-is-metagame/narrative-2-a-web-of-opportunity",
+      "wtf-is-metagame/metafam-way",
     ],
     "🧐 Understanding MetaGame": [
       "wtf-is-metagame/wtf-is-metagame",
@@ -35,16 +35,16 @@ module.exports = {
       //   'great-houses/house-of-dapps',
       //   'great-houses/house-of-tokens',
     ],
-    '⚔️ Guilding': [
-      'Guilding/metasys',
-      'Guilding/what-why-how-of-your-dao',
-      'Guilding/guilding-101',
-      'Guilding/building-successful-teams',
+    "⚔️ Guilding": [
+      "Guilding/metasys",
+      "Guilding/what-why-how-of-your-dao",
+      "Guilding/guilding-101",
+      "Guilding/building-successful-teams",
     ],
     "📚 Playbooks": [
       "playbooks/browse",
       "playbooks/how-to-make-it-without-technical-skills",
-      // "playbooks/how-to-not-get-hacked",
+          //   "playbooks/how-to-not-get-hacked",
 
       // {
       //   type: "subcategory",

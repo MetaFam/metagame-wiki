@@ -115,7 +115,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "http://metawiki.luxumbra.dev/admin#/?",
+          editUrl: "https://wiki.metagame.wtf/admin/#/?",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.scss"),
