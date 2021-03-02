@@ -63,12 +63,12 @@ Instigate discussions around governance and your circle of friends will grow bef
 
 A list of projects incentivizing governance today include but are not limited to:
 
-* MakerDAO
-* Balancer
-* Index Co-Op
-* yearn
-* Kyber Network
-* SushiSwap
+* [MakerDAO](https://makerdao.com/en/)
+* [Balancer](https://balancer.finance/)
+* [Index Co-Op](https://www.indexcoop.com/)
+* [yearn](https://yearn.finance/)
+* [Kyber Network](https://kyber.network/)
+* [SushiSwap](https://sushi.com/)
 
 ### 5) Become a Power User
 Get into a rhythm of familiarizing yourself with the new projects in your niche. This means testing them out, playing around with the intended behavior and getting an overall feeling for how the product works and how the different tokens play into it.

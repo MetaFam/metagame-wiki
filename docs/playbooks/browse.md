@@ -29,8 +29,7 @@ export const books = [
     author: "@cooopahtroopa",
     imgURL: "https://i.imgur.com/BWIoQ9Q.jpg",
     bookPath: "playbooks/how-to-make-it-without-technical-skills",
-    decription:
-      "Vestibulum ullamcorper mauris at ligula. Phasellus magna. Aenean ut eros et nisl sagittis vestibulum. Fusce fermentum. Nunc sed turpis.",
+    description: "",
   }
 ];
 
