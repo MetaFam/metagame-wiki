@@ -76,7 +76,7 @@ export const directions = [
   {
     emoji: "🤑",
     label: "Patrons",
-    url: "/docs/enter-metagame/guilds-of-metagame",
+    url: "https://my.metagame.wtf/patrons",
     description: "The list of guilds considered to be a part of MetaGame.",
   },
   {
