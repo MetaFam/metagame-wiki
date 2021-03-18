@@ -2,9 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import StartMetafestInstance from "./startMetafestInstance";
-("");
-const width = window.innerWidth / 2;
-const height = window.innerHeight / 2;
+
 const windowKey = "metafest";
 const WindowHeader = styled.div`
   display: flex;
@@ -67,49 +65,7 @@ function getFloatingRoomWindow() {
 }
 
 function FloatingWindow() {
-  //   const [floater, setFloater] = useState(false);
-
-  //   if (float) {
-  //     setFloater(true);
-  //   }
-  function setWindowFocus() {
-    // setZIndexes({ key: windowKey, value: maxZ + 1 });
-  }
-
-  const closeFloatingSpace = () => {
-    // return setFloater(false);
-  };
-  const setStartingCoordinatesX = () => {
-    let windowOriginX = 0;
-    // windowOriginX = width / 6;
-
-    return windowOriginX;
-  };
-  const setStartingCoordinatesY = () => {
-    let windowOriginY = 40;
-    windowOriginY = 0;
-    return windowOriginY;
-  };
-
-  const setFloatingwindowColor = () => {
-    let bgColor = "#FCE96Add";
-
-    return bgColor;
-  };
-
-  const setStartingWidth = () => {
-    let windowWidth = width - 20;
-
-    return windowWidth;
-  };
-
-  const setStartingHeight = () => {
-    let windowHeight = height - 20;
-
-    return windowHeight;
-  };
-
-  return getFloatingRoomWindow(windowKey);
+  return getFloatingRoomWindow();
 }
 
 export default FloatingWindow;
