@@ -58,7 +58,7 @@ export const directions = [
     emoji: "📅",
     label: "Calendar",
     url:
-      "https://calendar.google.com/calendar/embed?src=nih59ktgafmm64ed4qk6ue8vv4%40group.calendar.google.com&ctz=",
+      "docs/resources/calendar",
     description: "Meetings, gatherings and events",
   },
   {
