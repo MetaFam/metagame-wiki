@@ -1,12 +1,11 @@
 ---
-title: 📖 Glossary
+title: 📖 MetaDictionary
 ---
 <!--
   Adding an entry:
     1. Thou shall provide facts, not opinions.
     2. Thou shalt link what is linkable.
     3. Thou shalt leave a TODO mark for others where work is needed.
-    4. Thou shall sing the alphabet song out loud.
 -->
 
 <!-- Inspirational quote shared vocabularies goes here. Got one? -->
