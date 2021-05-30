@@ -1,5 +1,6 @@
 ---
 title: 🧬 XP & Seeds 🌱
+image: img/origin.12.jpg
 ---
 * XP is earned by doing things that the community finds valuable.
 * Seeds are tokens, minted proportionally to the shares of XP gained.
