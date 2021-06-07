@@ -44,7 +44,7 @@ module.exports = {
     "📚 Playbooks": [
       "playbooks/browse",
       "playbooks/how-to-make-it-without-technical-skills",
-      "playbooks/beginner-eth-swapper",
+      "playbooks/coaching-eth",
           //   "playbooks/how-to-not-get-hacked",
 
       // {
