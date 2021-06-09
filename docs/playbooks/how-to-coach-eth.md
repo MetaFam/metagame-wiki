@@ -85,6 +85,16 @@ Here the user will manually input the amount of gas they would like to use and c
 
 This is a good point to answer lingering questions and review the entire process again.
 
+### 8. Canceling a stuck transaction
+
+Explain to the user why this might happen (low gas usually) and that its not uncommon.
+
+Instruct the user to identify the nonce of the offending transaction by visiting the etherscan page.
+
+The user should now send a transaction to their own address with a 0 amount of eth, at a higher gas price than the offending slow/stuck transaction.
+
+As a result of the higher gas paid, the 0 value transaction will be picked up by a validator before the lower gas transaction, and thus will nullify the slower transaction.
+
 ### Conclusion
 
 The aim of this guide is to ensure that a new user being coached through the seemingly murky process of ethereum transactions will be confident they will be able to navigate the process on their own. Or, at the least they will have a reliable guide to reference (in the corresponding playbook) to understand the process they are undertaking.
