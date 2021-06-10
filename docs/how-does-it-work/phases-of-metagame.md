@@ -81,7 +81,7 @@ The meme is _A Web of Opportunity_; there is no lack of funding nor a lack of pr
 It's when MetaGame gets the actual game-like interface. You're able to walk around in spatial audio environments, attend meetups in the tavern, hang in your guildhouse, tend to your crops & access all the learning, media & work content you need to progress.
 
 This is not to say we won't be working on this while still in Phase I, in fact, more than one player has tried championing this raid never to be seen again.
-You can read a longer post about it here. If this sounds like something you'd be able to tackle - we'd be happy to supply you with some Seeds!
+You can read a longer post about it [here](https://forum.metagame.wtf/t/metaville/225). If this sounds like something you'd be able to tackle - we'd be happy to supply you with some Seeds!
 
 </details>
 
@@ -132,7 +132,7 @@ The meme of this phase is _A Web of Life_ - to support life as a whole.
 
 You can think of it as a basic operating system & a manual for building and operating communities/societies/metagames. A combination of building blocks & methods we're using to build MetaGame, generalized, explained & improved for others to use.
 
-More in the Minimum Viable Stack article soon.
+Read more in the _Minimum Viable Stack_ [article](https://wiki.metagame.wtf/docs/Guilding/metasys).
 
 </details>
 <details>
