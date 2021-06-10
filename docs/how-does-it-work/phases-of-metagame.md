@@ -32,7 +32,7 @@ Right now, there's mostly content about understanding MetaGame, but it will over
 <summary>MyMeta</summary>
 MyMeta is your access to MetaGame. It starts as simple profiles to make it easier for you to display who you are and find other players but evolves into a place where you can do things like display & sell your NFTs, as well as your dapp dashboard.
 
-On the other end, it evolves into an app which you've seen the first glimpses of if you've visited https://wiki.metagame.wtf/docs/docs/home
+On the other end, it evolves into an app which you've seen the first glimpses of if you've visited [https://wiki.metagame.wtf/docs/home](https://wiki.metagame.wtf/docs/home)
 To see the full post on MyMeta Profiles, go here.
 
 </details>
