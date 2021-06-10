@@ -44,7 +44,9 @@ module.exports = {
     "📚 Playbooks": [
       "playbooks/browse",
       "playbooks/how-to-make-it-without-technical-skills",
-      "playbooks/how-to-coach-eth",
+      "playbooks/coaching-eth",
+          //   "playbooks/how-to-not-get-hacked",
+
       // {
       //   type: "subcategory",
       //   label: "The good books",
