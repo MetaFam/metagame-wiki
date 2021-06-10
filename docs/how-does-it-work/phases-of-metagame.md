@@ -132,7 +132,7 @@ The meme of this phase is _A Web of Life_ - to support life as a whole.
 
 You can think of it as a basic operating system & a manual for building and operating communities/societies/metagames. A combination of building blocks & methods we're using to build MetaGame, generalized, explained & improved for others to use.
 
-Read more in the _Minimum Viable Stack_ [article](https://wiki.metagame.wtf/docs/Guilding/metasys).
+Read more in the [MetaSys article](https://wiki.metagame.wtf/docs/Guilding/metasys).
 
 </details>
 <details>
