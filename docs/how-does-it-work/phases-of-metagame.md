@@ -16,7 +16,7 @@ The meme of this phase is _A Decentralized Factory_; a collective of decentraliz
 
 ### Goals:
 
-- Build a community of people strongly aligned with the _MetaManifesto_.
+- Build a community of people strongly aligned with the [_MetaManifesto_](http://localhost:3000/docs/wtf-is-metagame/metafam-way).
 - Set up the basic socio-economic infrastructure.
 - Assemble the initial resource base.
 
@@ -32,7 +32,7 @@ Right now, there's mostly content about understanding MetaGame, but it will over
 <summary>MyMeta</summary>
 MyMeta is your access to MetaGame. It starts as simple profiles to make it easier for you to display who you are and find other players but evolves into a place where you can do things like display & sell your NFTs, as well as your dapp dashboard.
 
-On the other end, it evolves into an app which you've seen the first glimpses of if you've visited [https://wiki.metagame.wtf/docs/home](https://wiki.metagame.wtf/docs/home)
+On the other end, it evolves into an app which you've seen the first glimpses of if you've visited [https://wiki.metagame.wtf/docs/home](https://wiki.metagame.wtf/docs/home).
 To see the full post on MyMeta Profiles, go here.
 
 </details>
@@ -132,7 +132,7 @@ The meme of this phase is _A Web of Life_ - to support life as a whole.
 
 You can think of it as a basic operating system & a manual for building and operating communities/societies/metagames. A combination of building blocks & methods we're using to build MetaGame, generalized, explained & improved for others to use.
 
-Read more in the [MetaSys article](https://wiki.metagame.wtf/docs/Guilding/metasys).
+Read more in the [_MetaSys_ article](https://wiki.metagame.wtf/docs/Guilding/metasys).
 
 </details>
 <details>
