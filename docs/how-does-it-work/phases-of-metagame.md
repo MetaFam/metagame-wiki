@@ -16,7 +16,7 @@ The meme of this phase is _A Decentralized Factory_; a collective of decentraliz
 
 ### Goals:
 
-- Build a community of people strongly aligned with the [_MetaManifesto_](http://localhost:3000/docs/wtf-is-metagame/metafam-way).
+- Build a community of people strongly aligned with the [_MetaManifesto_](https://wiki.metagame.wtf/docs/wtf-is-metagame/metafam-way).
 - Set up the basic socio-economic infrastructure.
 - Assemble the initial resource base.
 
