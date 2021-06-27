@@ -23,7 +23,7 @@ Former auto-body collision repair center assistant manager, currently RaidGuild 
 
 ## Overview
 
-Hackmd is cool its a blog and a notepad.
+[HackMD](http://hackmd.io/) is cool its a blog and a notepad.
 
 If you follow a simple sytem you can easily have everything in one place and referencable.
 
@@ -43,4 +43,4 @@ If you follow a simple sytem you can easily have everything in one place and ref
 
     ![](https://i.imgur.com/4GF7cBn.png)
 
-6. Go forth and hack!...md...
+6. You are now prepared to fully embrace the powers of hackmd.
