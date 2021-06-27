@@ -39,7 +39,7 @@ If you follow a simple sytem you can easily have everything in one place and ref
 
     ![](https://i.imgur.com/MsYKWJk.png)
 
-5. These shoule be your settings when published/publishing as blog:
+5. These should be your settings when published/publishing as blog:
 
     ![](https://i.imgur.com/4GF7cBn.png)
 
