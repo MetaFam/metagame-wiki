@@ -1,25 +1,21 @@
 # House of dApps
 
-**House of dApps**
-
-- Explore
-    - [StateofDapps](https://www.stateofthedapps.com/)
-    - [Eat the blocks](https://eattheblocks.com/)- Julien does a nice job keeping up with the blockchain space. He provides a lot of free how-to-dev content on his [YouTube channel](https://www.youtube.com/c/EatTheBlocks/featured). He's also worth [following on Twitter](https://twitter.com/jklepatch?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-    - [Origin Protocol](https://www.originprotocol.com/en/dshop)- Create a free on-line store in minutes and build on top of the world's first decentralized e-commerce platform.
-    - [dapp.com](https://www.dapp.com)- A nifty collection of useful and popular dApps.
-    - [Dapplist](https://thedapplist.com/)- Curating web3 adoption.
-    - [https://unchainedpodcast.com/](https://unchainedpodcast.com/)
-- Build
-    - [Solidity](https://docs.soliditylang.org/en/v0.8.5/)- The docs for Solidity, the primary language used on Ethereum.
-    - [Ethereum docs](https://ethereum.org/en/developers/docs/)- Docs for the Ethereum blockchain.
-    - [Remix ethereum browser IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null)- It's an Ethereum IDE. In your browser.
-    - [Scaffoldeth](https://github.com/austintgriffith/scaffold-eth)- Everything you need to get started building decentralized applications on Ethereum!
-    - [ETH.BUILD](https://eth.build/)- An Educational Sandbox For Web3... And Much More.
-    - [Jolly Roger Production-Ready Template](https://jolly-roger.eth.link/) To Build Decentralised Applications [](https://jolly-roger.eth.link/)
-    - [Ethereum Developer Resources](https://ethereum.org/en/developers/)- A builders manual for Ethereum. By builders, for builders.
-    - [TheGraph](https://thegraph.com/)- APIs for a vibrant decentralized future.
-    - [Truffle Suite](https://www.trufflesuite.com/)- Sweet tools for smart contracts.
-    - [BuidlGuidl](https://buidlguidl.com/)- A curated group of Ethereum builders reating products, prototypes, and tutorials with scaffold-eth.
+- [StateofDapps](https://www.stateofthedapps.com/)
+- [Eat the blocks](https://eattheblocks.com/)- Julien does a nice job keeping up with the blockchain space. He provides a lot of free how-to-dev content on his [YouTube channel](https://www.youtube.com/c/EatTheBlocks/featured). He's also worth [following on Twitter](https://twitter.com/jklepatch?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+- [Origin Protocol](https://www.originprotocol.com/en/dshop)- Create a free on-line store in minutes and build on top of the world's first decentralized e-commerce platform.
+- [dapp.com](https://www.dapp.com)- A nifty collection of useful and popular dApps.
+- [Dapplist](https://thedapplist.com/)- Curating web3 adoption.
+- [https://unchainedpodcast.com/](https://unchainedpodcast.com/)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.5/)- The docs for Solidity, the primary language used on Ethereum.
+- [Ethereum docs](https://ethereum.org/en/developers/docs/)- Docs for the Ethereum blockchain.
+- [Remix ethereum browser IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null)- It's an Ethereum IDE. In your browser.
+- [Scaffoldeth](https://github.com/austintgriffith/scaffold-eth)- Everything you need to get started building decentralized applications on Ethereum!
+- [ETH.BUILD](https://eth.build/)- An Educational Sandbox For Web3... And Much More.
+- [Jolly Roger Production-Ready Template](https://jolly-roger.eth.link/) To Build Decentralised Applications [](https://jolly-roger.eth.link/)
+- [Ethereum Developer Resources](https://ethereum.org/en/developers/)- A builders manual for Ethereum. By builders, for builders.
+- [TheGraph](https://thegraph.com/)- APIs for a vibrant decentralized future.
+- [Truffle Suite](https://www.trufflesuite.com/)- Sweet tools for smart contracts.
+- [BuidlGuidl](https://buidlguidl.com/)- A curated group of Ethereum builders reating products, prototypes, and tutorials with scaffold-eth.
 - [Codecademy](https://www.codecademy.com/catalog) - Free and inexpensive code courses online.
 - [The Best Blockchain Development Resources On Medium](https://medium.com/blockcentric/blockchain-development-resources-b44b752f3248)
 - [Git](https://git-scm.com/)- Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
