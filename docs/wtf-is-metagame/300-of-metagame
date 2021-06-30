@@ -1,5 +1,5 @@
 ---
-title: 💪 The 300 of MetaGame.md
+title: 💪 The 300 of MetaGame
 ---
 
 ![](https://i.imgur.com/koHACMO.png)
