@@ -6,11 +6,15 @@
 
 Decentralized Finance is the application of cryptographic tools for financial applications. By trusting in the code we can compose new way to interact with tokens, that means money LEGOS. In the House of DeFi we give you a small taste of different platforms and recap some of the key platforms and their purpose. 
 
-Danger can be anywhere. Do Your Own Research (DYOR) and equip yourself with the info of how to use some of these blocks. What they can do and understand some of the powers and dangers.
+Danger can be anywhere. Do Your Own Research (DYOR) and equip yourself with the knowledge of how to use some of these blocks; what they can do, and their powers and dangers.
 
-DeFi covers a wide range of tools from traditional borrowing and lending to flash loans and automatic market makers. Wtf is yield farming and, how can you avoid getting rekt?
+DeFi covers a wide range of tools from traditional borrowing and lending, to flash loans and automatic market makers. WTF is yield farming and, how can you avoid getting rekt?
+
+A fairly comprehensive guide from The Defiant can be found here: [✊The Defiant's Definitive Guide to DeFi](https://newsletter.thedefiant.io/p/the-defiants-definitive-guide-to), but we keep our own index below as well. 
 
 # Yield Farming
+
+-   [Reflexer](https://reflexer.finance/) Borrow against Ether for $RAI.
 
 -   [mStable](https://app.mstable.org/)  Earn intest by staking mUSD or mint mUSD for farming in other pools.
     
