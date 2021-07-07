@@ -21,6 +21,7 @@ module.exports = {
       logo: {
         alt: "MetaGame Logo",
         src: "img/mg-crystal.png",
+        href: "/docs/home"
       },
     },
 
