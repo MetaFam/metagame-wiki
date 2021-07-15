@@ -39,6 +39,12 @@ module.exports = {
 //      "what-we-do/events",
 //      "what-we-do/metalibrary",
     ],
+    '🤔 What we do': [
+      "Guilding/metasys",
+      "what-we-do/mymeta",
+//      "what-we-do/events",
+//      "what-we-do/metalibrary",
+    ],
     '🏡 The Great Houses': [
       'great-houses/how-to-house',
       'great-houses/house-of-ethereum',
