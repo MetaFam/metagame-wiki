@@ -55,11 +55,13 @@ Here's our curated list of dApps
 - [DAOHaus](https://daohaus.club/) - Unlock the next tier in community coordination.
 - [Coordinape](https://coordinape.com/) - Scale your community with tools to reward contributors, incentivize participation and manage resources
 
+If you want to learn more about DAOs, check our [House of DAOs](./house-of-daos) page here on the wiki.
+
 ### 💰 DeFi & Unbanking
 
 This is a small selection of the many DeFi protocols and dApps that are changing the face of finance. Do Your Own Research, learn and get yourself unbanked. Free yourself from the shackles of TradFi and the inevitable rug pull of the current banking system. Earn yield (A truck load more than your savings account) on your assets, get loans that pay themselves off, insure your assets.  No intermediaries. You are in control of your finances. 
 
-If you want to learn more about DeFi, check our [House of DeFiance](https://www.notion.so/House-of-DeFinance-3122d2ba02e14159996c8a43ee01d131) (Coming soon ™️) page here on the wiki
+If you want to learn more about DeFi, check our [House of DeFiance](./house-of-defi) page here on the wiki.
 
 - [Alchemix Finance](https://alchemix.fi/) - Alchemix lets you reimagine the potential of DeFi by providing highly flexible instant loans that repay themselves over time.
 - [InstaDapp](https://defi.instadapp.io/) - ⏩ Full DeFi platform supporting Ethereum & Polygon. Lend & borrow on Aave via a pretty sweet UI.
@@ -82,6 +84,8 @@ If you want to learn more about DeFi, check our [House of DeFiance](https://www.
 - [Audius](https://audius.co/) - a music streaming and sharing platform that puts the power back into content creators’ hands. Look out Spotify!!
 - [KnownOrigin](https://knownorigin.io/) - Community marketplace of NFT artists and artworks
 - [Achievmintry](https://app.chiev.net/) - Every year there are groups and individuals that stand out as note worthy contributors. Many times doing their good work out of pure passion. Achievmintry is a way for the wider community to recognise those contributions in the form of special NFTs.
+
+If you want to learn more about NFTs, check our [House of NFTs](./house-of-NFTs) page here on the wiki.
 
 ### 🚰 Utilities
 

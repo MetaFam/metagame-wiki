@@ -1,5 +1,5 @@
 ---
-title: 📈 House of DeFinance
+title: 📈 House of DeFiance
 ---
 
 <details>
@@ -29,16 +29,18 @@ DeFi covers a wide range of tools from traditional borrowing and lending, to fla
 
 A fairly comprehensive guide from The Defiant can be found here: [The Defiant's Definitive Guide to DeFi](https://newsletter.thedefiant.io/p/the-defiants-definitive-guide-to), but we keep our own index below as well.
 
-⚠️Danger can be anywhere. Do Your Own Research (DYOR) and equip yourself with the knowledge of how to use some of these blocks; what they can do, and their powers and dangers.
 
-# 👩‍🏫**Education**
+>⚠️Danger can be anywhere. Do Your Own Research (DYOR) and equip yourself with the knowledge of how to use some of these tools; what they can do, and their powers and dangers.⚠️
+
+
+## 👩‍🏫 Education
 
 - [Bankless](https://newsletter.banklesshq.com/) One of the best resources for learning about DeFi, becoming 'un-banked' and going west, like raiding regen vikings into the new frontier of finance to defile banks and slay Moloch.  Perhaps [begin here](https://newsletter.banklesshq.com/p/-guide-1-starting-with-bankless) if you're just starting out. They often have educational quests around DeFi strategies in their newsletter. The podcast is fantastic!
 - [Gitcoin Quests](https://gitcoin.co/quests) We ❤️ Gitcoin (who doesn't) and the alpha release of their new Quests system is live and is an amazing resource for levelling up your crypto game. You get ranked and can claim an NFT for each completed quest.
 - [ETH Build](https://eth.build/) For the more curious or tech hungry - learn about cryptography, smart contracts and how all this stuff works behind the scenes. All in an interactive drag & drop interface! *All hail [@austingriffith](https://twitter.com/austingriffith)*
 - [scaffold-eth](https://github.com/austintgriffith/scaffold-eth) If you want to get your hands dirty with the nuts and bolts of DeFi and maybe try your hand at building the next Uniswap or Aave, this is one of the best places to start.
 
-# 👨‍🌾**Yield Farming**
+## 👨‍🌾 Yield Farming
 
 One of the 'magic' money sides to DeFi is Yield Farming. Earn interest and passive income through depositing your assets into a wide variety of protocols to provide liquidity for exchanges and lending platforms. You can also borrow against your assets and earn yield in platform tokens & stablecoins. 
 
@@ -59,7 +61,7 @@ On to the yield farming...
 - [SushiSwap Farms](https://app.sushi.com/farm) A rapidly evolving, multichain (10!) DeFi platform.
 - [Agave Finance](https://agave.finance/) the DeFi lending protocol on xDai. Sweet, sweet DeFi from [1Hive](https://1hive.org/)
 
-## 🚰**Utilities**
+## 🚰 Utilities
 
 - [CoinGecko](https://www.coingecko.com/en/defi) Top 100 DeFi by Market Capitalization
 - [Nexus Mutual](https://nexusmutual.io/) Get coverage on your assets against a smart contract hack.
@@ -79,7 +81,7 @@ On to the yield farming...
 - [Earni.fi](https://earni.fi/) Not DeFi per se BUT lets you watch your wallets for airdrops. 1 is free, up to 10 is $20p/m but pays for itself if you're active in DeFi, Governance & DAOs.
 - [Umbra](https://app.umbra.cash/) (BETA) - Send stealth payments so only the sender and recipient know who received funds.
 
-## 📈**Decentralized Trading**
+## 📈 Decentralized Trading
 
 - [Uniswap Exchange](https://app.uniswap.org/#/swap) Trade between Ethereum based assets.
 - [1inch Exchange](https://1inch.exchange/) Finds the most optimal route to trade between tokens.
@@ -90,12 +92,12 @@ On to the yield farming...
 - [QuickSwap](https://quickswap.exchange/) A decent DEX on Polygon but I have found 1Inch and quite possibly Sushi to be a fair bit cheaper on fees.
 - [Slingshot](https://app.slingshot.finance/trade/) A DEX Aggregator similar to 1inch, but returns slippage to users, resulting in positive slippage and better prices for trades
 
-## Crypto debit cards
+## 💳 Crypto debit cards
 
 - [Monolith](https://monolith.xyz/) - A european defi account - non-custodial ethereum wallet and a debit card in one.
 - [Plutus](https://plutus.it/) - Bank on crypto; receive a UK sort code and account number or European IBAN within minutes. Swap ETH to FIAT and move it to your Plutus card. Earn 3% rewards in PLU.
 
-## 👛**Wallets**
+## 👛Wallets
 
 ### Hardware
 
@@ -109,7 +111,7 @@ On to the yield farming...
 
 > It is recommended to use a Ledger or Trezor with MetaMask in the browser. If you don't have one, buy one (direct from the manufacturer), use it via MetaMask and just use MetaMask itself as a burner wallet. You won't regret it.
 
-## 🎯**Now What?**
+## 🎯 Now What?
 
 Get goin and get learning, doing and freeing yourself from the shackles of the steaming pile of broken institutions we call banks. An amazing place to start is either Bankless & Gitcoin Quests (see 👩‍🏫 Education) to make sure you've got your wits about you when venturing out into the frontier. 
 
