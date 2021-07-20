@@ -118,6 +118,4 @@ Get goin and get learning, doing and freeing yourself from the shackles of the s
 - If there are links & resources you would like to add to the page above, you are free to [submit them here](https://github.com/MetaFam/metagame-wiki/blob/master/docs/great-houses/house-of-defi.mdx). (and get rewarded if accepted ofc)
 - If you have any questions or need any help, you are welcome on our [Discord](https://discord.gg/6JFXC9T) :)
 
-## ✉️**Subscribe?**
-
-<iframe width='480' height='320' src='[https://metagame.substack.com/embed](https://metagame.substack.com/embed)' frameborder='0' scrolling='no' style={{ background: 'white' }} ></iframe>
+## [✉️**Subscribe?**](https://metagame.substack.com/)
