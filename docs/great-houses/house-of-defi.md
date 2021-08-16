@@ -3,7 +3,7 @@ title: 📈 House of DeFiance
 description: DeFi covers a wide range of tools from traditional borrowing and
   lending, to flash loans, automatic market makers (AMM), staking and yield
   farms. WTF is yield farming and, how can you avoid getting rekt?
-image: https://c.tenor.com/78XP2hDY3fkAAAAM/bitcoin-crypto.gif
+image: https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ef5079c4999397228dcf585%2Fquestions%2F5f57c725e039d54c86516816%2F5f57c725e039d54c86516816_85260.jpg?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=4bc4db2786077bcf21dfb1fc47638e8b
 ---
 
 <details>
