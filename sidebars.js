@@ -40,7 +40,8 @@ module.exports = {
 //      "what-we-do/metalibrary",
     ],
     '🤔 What we do': [
-      "Guilding/metasys",
+//      "what-we-do/tl;dr",
+      "what-we-do/metasys",
       "what-we-do/mymeta",
 //      "what-we-do/events",
 //      "what-we-do/metalibrary",
