@@ -12,6 +12,7 @@ module.exports = {
       "wtf-is-metagame/300-of-metagame",
     ],
     "🧐 Understanding MetaGame": [
+      "how-does-it-work/why-gamification-works",
       "wtf-is-metagame/wtf-is-metagame",
       "how-does-it-work/phases-of-metagame",
       "how-does-it-work/how-metagame-works",
@@ -30,7 +31,8 @@ module.exports = {
       //"enter-metagame/Chainlog",
     ],
     '🤔 What we do': [
-      "Guilding/metasys",
+//      "what-we-do/tl;dr",
+      "what-we-do/metasys",
       "what-we-do/mymeta",
 //      "what-we-do/events",
 //      "what-we-do/metalibrary",
@@ -48,7 +50,6 @@ module.exports = {
     ],
     "⚔️ Guilding": [
       "Guilding/meme-driven-organizations",
-      "Guilding/metasys",
       "Guilding/what-why-how-of-your-dao",
       "Guilding/guilding-101",
       "Guilding/building-successful-teams",
