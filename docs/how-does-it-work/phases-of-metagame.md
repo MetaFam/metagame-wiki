@@ -53,7 +53,7 @@ This includes a bunch of other projects we've been working on that we also consi
 
 ## **Phase II: Growth**
 
-> *Gently, she descended into the Atlantic Ocean. We were worried about the oceanic life, but she assured us she only feeds on H<sub>2</sub>O & CO<sub>2</sub> - she doesn’t stop blowing our minds. First, her decentralized technologies, and now this? She might turn out more useful than we thought.*
+> *Gently, she descended into the Atlantic Ocean. We were worried about the oceanic life, but she assured us she only feeds on H2O & CO2 - she doesn’t stop blowing our minds. First, her decentralized technologies, and now this? She might turn out more useful than we thought.*
 
 Proven ourselves worthy; *Seeds* grow into *Trees* & we summon *The Great Flood.*
 A wave of capital flows into MetaGame and it allows us to pay even more people to do awesome things - like grappling with real-world issues.
