@@ -61,6 +61,7 @@ module.exports = {
       "playbooks/entering-daos-as-a-writer",
       "playbooks/become-a-buidler-on-ethereum-by-austin-griffith",
       "playbooks/how-to-play-twitter-by-visa",
+      "playbooks/how-to-git",
           //   "playbooks/how-to-not-get-hacked",
       // {
       //   type: "subcategory",
