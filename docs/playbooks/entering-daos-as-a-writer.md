@@ -1,5 +1,6 @@
 ---
 title: 📚 Entering DAOs as a Writer
+image: https://lh3.googleusercontent.com/kjM6ubVa95ga390-RxhuX-YijQr8vNnjjDhIlWu0OCBitW5eZv8RiuochUTaAv6izsr1CKFFA-noPdlFYokYKFtyzj53SGOhT1w9V7VcVABLlU6PRrCAFOxoBB_UyYHLRAkixU9h0pvK3KowCg
 ---
 
 Written by Gnomeski
@@ -8,7 +9,7 @@ Written by Gnomeski
 <br />
 
 A curious non-native to Web3 currently exploring Metagame.
-I work with text and some graphical elements with an emphasis on Social and Pcychological aspects of this DAO space. 
+I work with text and some graphical elements with an emphasis on Social and Psychological aspects of this DAO space. 
 Former long term off gridder/Boat Gypsy (Capitalism survivor), trained Medical Herbalist and diverse manual trades worker (Gardening, Landscaping, Stonework, Boat Renovator, Structural Repairs on historic buildings, Construction Carpentry) 
 I aim to bring awareness from Psychodynamic Group work, Ritual self-dev work, Personal Psychotherapy journey and Alt approaches to personal freedom. 
 I love to promote responsible Anarchic co-operation, humour, honesty, diversity, majik and integrity.
