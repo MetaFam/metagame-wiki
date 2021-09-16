@@ -1,20 +1,4 @@
-﻿take a taxi & go make yourself a tattoo before the hotel
-cloudy days are the best when the cabbage enhances them
-going to the zoo to see this zebra
-growing corn can make you a wealthy man, and you want to be wealthy
-not a dinosaur like bitcoin
-you want to be like marble
-and want to get a reward
-not be like kitten
-you want to solve, share your idea, jump into action
-not resist and get into a cannon
-
-
-throw crack gadget dismiss whisper blur rent visit project blue banner few 
-
-
-
----
+﻿---
 title: 🌱 Why Gamification Works?
 ---
 
