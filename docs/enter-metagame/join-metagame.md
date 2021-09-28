@@ -8,7 +8,13 @@ There are two ways to prove your worth & join MetaGame 🙃
 The first step to joining as a Player is to subscribe to the newsletter.
 From there, you'll be invited to discord where you'll need to prove your worth by going through the cohort onboarding process & doing something useful.
 
-<iframe src="https://metagame.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe 
+    src="https://metagame.substack.com/embed" 
+    width="480" 
+    height="320" 
+    frameborder="0" 
+    scrolling="no"
+></iframe>
 
 ## Join as a Patron
 Eager to support the cause & impatient to join?
