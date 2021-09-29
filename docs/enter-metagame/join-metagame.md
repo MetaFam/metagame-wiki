@@ -12,7 +12,7 @@ From there, you'll be invited to discord where you'll need to prove your worth b
     src="https://metagame.substack.com/embed" 
     width="480" 
     height="320" 
-    frameborder="0" 
+    frameBorder="0" 
     scrolling="no"
 ></iframe>
 

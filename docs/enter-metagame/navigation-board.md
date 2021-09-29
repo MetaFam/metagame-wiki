@@ -9,7 +9,7 @@ As such, they represent a chance for you to earn reputation, money & stake in Me
     width="1024" 
     height="1024" 
     src="https://miro.com/app/live-embed/o9J_l7FjYfU=/?moveToViewport=-32911,-11434,38982,24535" 
-    frameborder="0" 
+    frameBorder="0" 
     scrolling="no" 
     allowfullscreen
 ></iframe>
