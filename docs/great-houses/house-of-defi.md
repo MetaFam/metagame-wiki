@@ -105,6 +105,7 @@ On to the yield farming...
 
 * [Argent](https://www.argent.xyz/)  - Phone wallet with built-in dapps, trading, advanced security, and recovery features.
 * [Metamask](https://metamask.io/) - A browser-based wallet that lets you interact with decentralized apps from your favorite browser. Supports Ledger and Trezor. Mobile wallets are also available, although not recommended. Argent wallet is a much safer option for mobile devices.
+* **[TrustWallet](https://trustwallet.com/)** - Trust Wallet is a multi-coin wallet acquired by Binance in 2018. It will allow you to store, send, receive and exchange different cryptocurrencies with a single account. 
 
 > It is recommended to use a Ledger or Trezor with MetaMask in the browser. If you don't have one, buy one (direct from the manufacturer), use it via MetaMask and just use MetaMask itself as a burner wallet. You won't regret it.
 
