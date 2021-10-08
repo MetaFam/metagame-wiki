@@ -3,7 +3,7 @@ title: 📚 How to Join DAO Community
 ---
 by @Techniciann9ne
 
-* How non developers can make an impact in the DAO space
+* How non-developers can make an impact in the DAO space
 
 Find out where your DAO of choice meets the most.
 For example, some DAOs are most active on Telegram, some on Discord, and others on Github.
