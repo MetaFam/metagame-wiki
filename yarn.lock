@@ -1160,7 +1160,7 @@
     "@docsearch/css" "3.0.0-alpha.40"
     algoliasearch "^4.0.0"
 
-"@docusaurus/core@2.0.0-beta.6", "@docusaurus/core@^2.0.0-alpha.64":
+"@docusaurus/core@2.0.0-beta.6", "@docusaurus/core@^2.0.0-beta.6":
   version "2.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-2.0.0-beta.6.tgz#9847ae211a04f1d2b057f8e5ba650e76b9c2df83"
   integrity sha512-XMeI+lJKeJBGYBNOfO/Tc+5FMf21E5p1xZjfe75cgYcfZdERZ+W7aemXquwReno8xxHb4Rnfmi9dxkbOLDjqDA==
@@ -1383,7 +1383,7 @@
     sitemap "^7.0.0"
     tslib "^2.2.0"
 
-"@docusaurus/preset-classic@^2.0.0-alpha.64":
+"@docusaurus/preset-classic@^2.0.0-beta.6":
   version "2.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/@docusaurus/preset-classic/-/preset-classic-2.0.0-beta.6.tgz#528c98939589ae5edfc2a7e01e9f87561e5d5c01"
   integrity sha512-riqQRcNssNH7oto8nAjYIO79/ZucidexHTDlgD+trP56ploHLJp4kIlxb44IGOmx3es8/z4egWtM+acY/39N2Q==
@@ -7585,15 +7585,10 @@ pretty-time@^1.1.0:
   resolved "https://registry.yarnpkg.com/pretty-time/-/pretty-time-1.1.0.tgz#ffb7429afabb8535c346a34e41873adf3d74dd0e"
   integrity sha512-28iF6xPQrP8Oa6uxE6a1biz+lWeTOAPKggvjB8HAs6nVMKZwf5bG++632Dx614hIWgUPkgivRfG+a8uAXGTIbA==
 
-prism-react-renderer@^1.1.0:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-1.1.1.tgz#1c1be61b1eb9446a146ca7a50b7bcf36f2a70a44"
-  integrity sha512-MgMhSdHuHymNRqD6KM3eGS0PNqgK9q4QF5P0yoQQvpB6jNjeSAi3jcSAz0Sua/t9fa4xDOMar9HJbLa08gl9ug==
-
-prismjs@^1.20.0:
-  version "1.25.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.25.0.tgz#6f822df1bdad965734b310b315a23315cf999756"
-  integrity sha512-WCjJHl1KEWbnkQom1+SzftbtXMKQoezOCYs5rECqMN+jP+apI7ftoflyqigqzopSO3hMhTEb0mFClA8lkolgEg==
+prism-react-renderer@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-1.2.1.tgz#392460acf63540960e5e3caa699d851264e99b89"
+  integrity sha512-w23ch4f75V1Tnz8DajsYKvY5lF7H1+WvzvLUcF0paFxkTHSp42RS0H5CttdN2Q8RR3DRGZ9v5xD/h3n8C8kGmg==
 
 prismjs@^1.23.0:
   version "1.25.0"
