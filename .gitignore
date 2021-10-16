@@ -23,3 +23,6 @@ package-lock.json
 
 .idea
 .vscode
+
+.devcontainer
+docusaurus.config.js
