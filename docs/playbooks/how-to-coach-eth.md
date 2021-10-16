@@ -68,7 +68,7 @@ Buy a cheap nft or transfer tokens from yourself to your student to demonstrate 
 
 On the Ethereum mainnet, first check etherscan for the average gas cost and purposely send a transaction with "low" gas in order to demonstrate how to efficently and effectively speed up a transaction.
 
-Instruct the user to send 0 eth and very low gas, then have them navigate to the ethersacn transaction page.
+Instruct the user to send 0 eth and very low gas, then have them navigate to the etherscan transaction page.
 
 ### 5. Show the user the details on the etherscan page
 Highlight the gas price used, the nonce and the estimated completion time.
