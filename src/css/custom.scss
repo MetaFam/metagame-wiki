@@ -27,6 +27,8 @@
     --mf-color-link-rgb: 255, 0, 119;
     --mf-font-body: 'IBM Plex Sans';
     --mf-font-mono: 'IBM Plex Mono';
+    --mf-page-heading-fontsize: 2rem;
+    --mf-page-subheading-fontsize: 1.7rem;
     --ifm-code-font-size: 95%;
     --ifm-font-size-base: 17px;
     --ifm-navbar-search-input-icon: url('data:image/svg+xml;utf8,<svg fill="currentColor" alt="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16px" width="16px"><path d="M6.02945,10.20327a4.17382,4.17382,0,1,1,4.17382-4.17382A4.15609,4.15609,0,0,1,6.02945,10.20327Zm9.69195,4.2199L10.8989,9.59979A5.88021,5.88021,0,0,0,12.058,6.02856,6.00467,6.00467,0,1,0,9.59979,10.8989l4.82338,4.82338a.89729.89729,0,0,0,1.29912,0,.89749.89749,0,0,0-.00087-1.29909Z" /></svg>')
@@ -75,6 +77,10 @@ body,
             padding-top: 60px;
         }
     }
+}
+
+h1 {
+    font-size: var(--mf-page-heading-fontsize);
 }
 
 .wrapper {
@@ -606,13 +612,25 @@ body,
     z-index: 2;
 }
 
-// .markdown details {
-//   background: rgba(255, 255, 255, 0);
-//   padding: 0;
-//   transition: opacity 0.3s 0.4s ease-in;
-// }
-// .markdown details[open] {
-// }
+.markdown details {
+    background: transparent;
+    border: unset;
+    box-shadow: unset;
+    padding: 0;
+    transition: opacity 0.3s 0.4s ease-in;
+}
+.markdown details[open] {
+    [class^="collapsibleContent"] {
+        border: unset;
+        margin-top: 0;
+        padding: 15px;
+
+        br:first-of-type {
+            display: none;
+        }
+    }
+}
+
 .markdown details summary {
     border-radius: 6px;
     font-size: 1rem;
@@ -660,7 +678,8 @@ body,
 }
 
 .pagination-nav__link:hover,
-.markdown details summary:hover {
+.markdown details summary:hover,
+.markdown details[open] summary {
     background: rgba(255, 255, 255, 0.12);
     box-shadow: 0 0 2rem rgba(0, 0, 0, 0.1);
     color: #ff3392;
@@ -670,7 +689,8 @@ body,
 .pagination-nav__link:hover:after,
 .pagination-nav__link:hover:before,
 .markdown details summary:hover:after,
-.markdown details summary:hover:before {
+.markdown details summary:hover:before,
+.markdown details[open] summary:before {
     left: 100%;
 }
 
@@ -690,7 +710,7 @@ body,
     font-size: 1.2rem;
 
     @media (min-width: 760px) {
-        font-size: 2rem;
+        font-size: 1.7rem;
     }
 }
 
@@ -852,6 +872,13 @@ a:hover,
 
 .navbar .navbar__items.navbar__items--right {
     flex-grow: 0;
+}
+
+.navbar .navbar__search:before {
+    left: 7px;
+    @media (min-width: 1280px) {
+        left: 10px;
+    }
 }
 
 .iframe-container {
