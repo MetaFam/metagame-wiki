@@ -73,6 +73,10 @@ Instruct the user to send 0 eth and very low gas, then have them navigate to the
 ### 5. Show the user the details on the etherscan page
 Highlight the gas price used, the nonce and the estimated completion time.
 
+Please share with the user that a Low/slow gas transaction/event can inhibit the ability to complete subsequent transactions. It can ultimately cost more gas in the end to have to cancel a slow transaction to facilitate a subsequent transaction that has more time sensitivity. 
+
+When gauging how patient one can be with a specific transaction, they must think of what they want to do with the address in the near future as well as how patient they can be on the activity or transaction immediately at hand.
+
 ### 6. Go to metamask and guide the user through speeding up the tx, advanced, setting gas manually
 
 Now back within the metamask extension guide the user to click "Activity", select the most recent transaction.
