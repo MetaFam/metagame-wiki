@@ -15,7 +15,7 @@ module.exports = {
       disableSwitch: true,
     },
     gtag: {
-      trackingID: 'UA-183634343-1',
+      trackingID: 'G-9SQ6R9576M',
       anonymizeIP: true, // We don't need to know folks IPs
     },
     image: "img/wiki-cover.png",
