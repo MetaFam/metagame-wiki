@@ -6,13 +6,17 @@ module.exports = {
   favicon: "img/mg-icon.png",
   organizationName: "MetaFam",
   projectName: "metagame-wiki",
-  customFields: {
-    GA_TAG: process.env.GA_TAG,
-  },
+  // customFields: {
+  //   GA_TAG: process.env.GA_TAG,
+  // },
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
       disableSwitch: true,
+    },
+    gtag: {
+      trackingID: 'UA-183634343-1',
+      anonymizeIP: true, // We don't need to know folks IPs
     },
     image: "img/wiki-cover.png",
     // headerLinks: [{ page: 'help', label: 'Help' }],
