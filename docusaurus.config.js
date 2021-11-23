@@ -6,13 +6,17 @@ module.exports = {
   favicon: "img/mg-icon.png",
   organizationName: "MetaFam",
   projectName: "metagame-wiki",
-  customFields: {
-    GA_TAG: process.env.GA_TAG,
-  },
+  // customFields: {
+  //   GA_TAG: process.env.GA_TAG,
+  // },
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
       disableSwitch: true,
+    },
+    gtag: {
+      trackingID: 'G-9SQ6R9576M',
+      anonymizeIP: true, // We don't need to know folks IPs
     },
     image: "img/wiki-cover.png",
     // headerLinks: [{ page: 'help', label: 'Help' }],
@@ -44,5 +48,16 @@ module.exports = {
     require.resolve("docusaurus-lunr-search"),
     require.resolve("docusaurus-plugin-sass"),
     "docusaurus2-dotenv",
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/docs/', // string
+            from: ['/docs/home/'], // string | string[]
+          },
+        ],
+      },
+    ],
   ],
 };
