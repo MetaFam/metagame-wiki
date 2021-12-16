@@ -1,5 +1,5 @@
 ---
-title: 🤔 How to become an Ethereum Developer by Joseph
+title: "GLOBAL:  How to become an Ethereum Developer by Joseph"
 ---
 
 So you want to get started in Ethereum? I get several requests for info and resources and roadmaps every week so I decided to make this collection. I hope this helps and provides some more direction and is less overwhelming than other giant lists.
