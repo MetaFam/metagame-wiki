@@ -22,7 +22,7 @@ How to Make-it without Technical Skills</a>
 How to Coach Eth</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/how-to-hackmd'>
-Playbooks/how to Hackmd</a>
+How to Hackmd</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/entering-daos-as-a-writer'>
 Entering DAOs as a Writer</a>
@@ -31,19 +31,19 @@ Entering DAOs as a Writer</a>
 CupOJoseph's Becoming An Ethereum Developer Roadmap and Guide</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/become-a-buidler-on-ethereum-by-austin-griffith'>
-Become a buidler on ethereum by austin-griffith</a>
+Become a Buidler on Ethereum by austin-griffith</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/how-to-play-twitter-by-visa'>
-How to play twitter by visa</a>
+How to Play Twitter by Visa</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/understanding-impostor-syndrome'>
-Understanding impostor syndrome</a>
+Understanding Impostor Syndrome</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/how-to-join-a-dao-community'>
-How to join a dao community</a>
+How to Join a DAO Community</a>
 <br /><br />
 <a href='https://metagame.wtf/docs/playbooks/how-to-git-on-github-non-builder'>
-How to git on github for a non-builder</a>
+How to git on Github for a Non-Builder</a>
 
 
 
