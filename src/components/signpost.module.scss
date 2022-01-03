@@ -138,6 +138,8 @@
     flex-flow: row wrap;
     list-style: none;
     padding-left: 0;
+    font-size: 10pt;
+
 
     @media (min-width: 1280px) {
         justify-content: center;
@@ -151,16 +153,16 @@
         min-width: 45%;
         max-width: 45%;
         text-align: center;
-        margin: 0 0 20px;
-        min-height: 140px;
-        max-height: 140px;
+        margin: 0 0 10px;
+        min-height: 120px;
+        max-height: 120px;
         box-sizing: border-box;
 
         @media (min-width: 1280px) {
-            flex: 0 0 140px;
-            min-width: 140px;
-            max-width: 140px;
-            margin: 0 10px 20px;
+            flex: 0 0 120px;
+            min-width: 120px;
+            max-width: 120px;
+            margin: 0 8px 16px;
         }
 
         &:nth-of-type(3n) {

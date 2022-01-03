@@ -1,6 +1,46 @@
 module.exports = {
   someSidebar: {
     "🌀 MetaOS": ["home"],
+    "🧐 MetaGame Explained": [
+      "how-does-it-work/why-gamification-works",
+      "wtf-is-metagame/wtf-is-metagame",
+      "how-does-it-work/phases-of-metagame",
+      "how-does-it-work/how-metagame-works",
+      "how-does-it-work/xp",
+      "how-does-it-work/obtaining-seeds",
+      "how-does-it-work/become-a-founder-of-metagame",
+      "how-does-it-work/a-cautionary-tale",
+    ],
+    '🤔 What MetaGame Offers': [
+      "what-we-do/tldr",
+      "what-we-do/metasys",
+      "what-we-do/mymeta",
+      "what-we-do/metaos",
+//      "what-we-do/events",
+//      "what-we-do/metalibrary",
+    ],
+    "😉 Enter MetaGame": [
+      "enter-metagame/join-metagame",
+      "enter-metagame/why-patron",
+      "enter-metagame/how-to-become-a-player",
+      "enter-metagame/navigation-board",
+      "enter-metagame/leaderboard",
+    ],
+    "📚 Playbooks": [
+
+      "playbooks/playbooks-lobby",
+      // "playbooks/how-to-make-it-without-technical-skills",
+      // "playbooks/how-to-coach-eth",
+      // "playbooks/how-to-hackmd",
+      // "playbooks/entering-daos-as-a-writer",
+      // "playbooks/CupOJosephs-Becoming-An-Ethereum-Developer-Roadmap-and-Guide",
+      // "playbooks/become-a-buidler-on-ethereum-by-austin-griffith",
+      // "playbooks/how-to-play-twitter-by-visa",
+      // "playbooks/understanding-impostor-syndrome",
+      // "playbooks/how-to-join-a-dao-community",
+      // "playbooks/how-to-git-on-github-non-builder",
+    ],
+
     "🤨 Pillar Memes": [
       "wtf-is-metagame/origin-story",
       "wtf-is-metagame/in-search-of-commons-that-scale",
@@ -11,31 +51,8 @@ module.exports = {
       "wtf-is-metagame/metafam-way",
       "wtf-is-metagame/the-300-of-metagame",
     ],
-    "🧐 Understanding MetaGame": [
-      "how-does-it-work/why-gamification-works",
-      "wtf-is-metagame/wtf-is-metagame",
-      "how-does-it-work/phases-of-metagame",
-      "how-does-it-work/how-metagame-works",
-      "how-does-it-work/xp",
-      "how-does-it-work/obtaining-seeds",
-      "how-does-it-work/become-a-founder-of-metagame",
-      "how-does-it-work/a-cautionary-tale",
-    ],
-    "🗺 Enter MetaGame": [
-      "enter-metagame/join-metagame",
-      "enter-metagame/why-patron",
-      "enter-metagame/how-to-become-a-player",
-      "enter-metagame/navigation-board",
-      "enter-metagame/leaderboard",
-    ],
-    '🤔 What we do': [
-      "what-we-do/tldr",
-      "what-we-do/metasys",
-      "what-we-do/mymeta",
-      "what-we-do/metaos",
-//      "what-we-do/events",
-//      "what-we-do/metalibrary",
-    ],
+
+
     '🏡 The Great Houses': [
       'great-houses/how-to-house',
       'great-houses/house-of-ethereum',
@@ -45,25 +62,13 @@ module.exports = {
       'great-houses/house-of-defi',
       'great-houses/house-of-L2s',
     ],
-    "⚔️ Guilding": [
+    "⚔️ DAO Guilding": [
       "Guilding/meme-driven-organizations",
       "Guilding/what-why-how-of-your-dao",
       "Guilding/guilding-101",
       "Guilding/building-successful-teams",
     ],
-    "📚 Playbooks": [
-      "playbooks/how-to-make-it-without-technical-skills",
-      "playbooks/how-to-coach-eth",
-      "playbooks/how-to-hackmd",
-      "playbooks/entering-daos-as-a-writer",
-      "playbooks/CupOJosephs-Becoming-An-Ethereum-Developer-Roadmap-and-Guide",
-      "playbooks/become-a-buidler-on-ethereum-by-austin-griffith",
-      "playbooks/how-to-play-twitter-by-visa",
-      "playbooks/understanding-impostor-syndrome",
-      "playbooks/how-to-join-a-dao-community",
-      "playbooks/how-to-git-on-github-non-builder",
-    ],
-    "🌳 Other": [
+    "🌳 Calendar & Resources": [
       "resources/calendar",
       "resources/glossary",
       "resources/graphics",
