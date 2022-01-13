@@ -9,7 +9,7 @@ description: 'In our era of complexity, we need ways of working together that sp
 
 **David Ehrlichman**
 
-Author of Impact Networks (converge.net/book). Catalyst of Converge (converge.net). Thinking about the way we work together and how it can be different.
+Author of [Impact Networks](https://www.converge.net/book). [Catalyst of Converge](https://www.converge.net/). Thinking about the way we work together and how it can be different.
 
 [@davehrlichman](https://twitter.com/davehrlichman)
 
