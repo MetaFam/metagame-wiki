@@ -19,7 +19,7 @@ Of course not! Although it *does* do a pretty damn good job, we regularly review
 
 Seeds are the *Phase I* token. It's sweat equity, its currency, it's whatever you want it to be. Once a month, players of MetaGame receive their Seed tokens.
 
-Seeds may only be created through earning XP; meaning, all the Seeds that are [available for sale](https://balancer.exchange/#/swap/ether/0x30cf203b48edaa42c3b4918e955fed26cd012a3f) have been created by past work - not the promise of future work.
+Seeds may only be created through earning XP; meaning, all the Seeds that are [available for sale](https://polygon.balancer.fi/#/pool/0x8a8fcd351ed553fc75aecbc566a32f94471f302e000100000000000000000081) have been created by past work - not the promise of future work.
 
 One thing to note is that the system optimizes for long-term value creation & alignment. You might create something but end up feeling disappointed with your numbers - despair not! As more people find your work valuable over time, build on top of it or reference it - your value accrues.
 
