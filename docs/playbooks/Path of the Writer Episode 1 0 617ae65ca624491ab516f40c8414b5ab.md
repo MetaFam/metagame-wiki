@@ -1,4 +1,9 @@
-# Path of the Writer Episode 1.0
+---
+title: 📚 Path of the Writer Episode 1.0
+---
+
+by Mushashi
+
 
 This article will describe a few of many paths a writer might take to earn income, while providing value to others in a decentralized manner in the web3 space. Let's jump right in.
 
