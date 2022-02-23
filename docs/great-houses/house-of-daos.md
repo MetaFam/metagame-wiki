@@ -59,7 +59,7 @@ These are the frameworks for launching DAOs on the Ethereum network:
 ### Treasury/salary management
 - **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet/treasury for DAOs.
 - **[Llama](https://llama.xyz/)** - Llama enables decentralized communities to allocate their treasuries and assess results.
-- **[Parcel](https://parcel.money/) - A suite of tools to scale DAO financial operations and empower DAO contributors. 
+- **[Parcel](https://parcel.money/)** - A suite of tools to scale DAO financial operations and empower DAO contributors. 
 - **[Superfluid](https://www.superfluid.finance/)** - Handle subscriptions, salaries, rewards and any composable stream of value.
 
 ### Membership management/token gating
