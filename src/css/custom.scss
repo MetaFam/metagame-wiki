@@ -39,7 +39,7 @@ body {
     font-size: 14px;
     overflow-x: hidden;
 
-    @media (min-width: 995px) {
+    @media (min-width: 998px) {
         font-size: 17px;
     }
 
@@ -109,9 +109,8 @@ h1 {
 
 .main-wrapper [class^='docSidebarContainer'] {
     position: relative;
-    // width: 300px;
 
-    @media (min-width: 1024px) {
+    @media (min-width: 998px) {
         border-right: 0;
         overflow: hidden;
         position: relative;
@@ -123,6 +122,7 @@ h1 {
         --max-width: calc(var(--remainder));
         max-width: var(--max-width);
         min-height: 100vh;
+        z-index: 200;
     }
 
     @media (min-width: 1280px) {
@@ -140,14 +140,14 @@ h1 {
     }
 
     [class^='sidebar'] {
-        @media (min-width: 1024px) {
+        @media (min-width: 998px) {
             position: sticky;
             border-radius: 6px;
             backdrop-filter: blur(7px);
             background-color: rgba(255, 255, 255, 0.08);
             box-shadow: 0 0 2rem rgba(0, 0, 0, 0);
             transition: background-color 0.3s 0.1s ease-in, box-shadow 0.3s ease-in-out;
-            margin-top: 10rem;
+            margin-top: 5rem;
             width: 100%;
             max-width: 300px;
             height: auto;
@@ -157,6 +157,9 @@ h1 {
 
             &.highlight {
                 background-color: rgba(255, 255, 255, 0.15);
+            }
+            a {
+                font-size: 0.8rem;
             }
         }
 
@@ -267,7 +270,7 @@ h1 {
 }
 
 .main-wrapper [class^='docPage'] {
-    @media (min-width: 995px) {
+    @media (min-width: 998px) {
         backdrop-filter: blur(5px);
         min-height: 100vh;
     }
@@ -279,7 +282,7 @@ h1 {
             // max-width: 680px;
         }
 
-        @media (min-width: 1024px) {
+        @media (min-width: 998px) {
             width: 100vw;
             --remainder: calc(100vw - 680px);
             --sb-width: calc(var(--remainder));
@@ -298,7 +301,7 @@ h1 {
         .container {
             margin-left: 0;
 
-            @media (min-width: 1024px) {
+            @media (min-width: 998px) {
                 margin-left: auto;
                 margin-right: 0;
                 max-width: 100vw;
@@ -333,29 +336,69 @@ h1 {
 
                 .col {
                     &.col--3 {
-                        @media (min-width: 1024px) {
-                            position: sticky;
-                            left: 0;
+                        @media (min-width: 998px) {
+                            position: fixed;
                             top: 0;
+                            right: 0;
                             height: 100vh;
-                            width: 100%;
-                            max-width: unset;
-                            --ifm-col-width: 340px;
+                            max-height: 75px;
+                            width: 250px;
+                            // max-width: unset;
+                            overflow: hidden;
+                            z-index: 0;
+                            transition: all 0.3 ease;
 
-                            [class^='tableOfContents'] {
-                                display: block;
-                                position: absolute;
-                                left: 20px;
-                                top: unset;
-                                bottom: 5rem;
-                            }
+                            @media (max-width: 1260px) {
+                                position: fixed;
+                                    &::before {
+                                        position: fixed;
+                                        top: 50px;
+                                        right: 0;
+                                        content: "On this page";
+                                        background: var(--mf-button-nav);
+                                        color: var(--mf-color-text-body);
+                                        border-radius: 8px;
+                                        display: block;
+                                        width: 250px;
+                                        padding: 12px 0;
+                                        text-align: center;
+                                        transition: all 0.3s ease;
+                                    }
+
+
+                                    [class^='tableOfContents'] {
+                                        position: absolute;
+                                        bottom: 0;
+                                        right: 0;
+                                        border-radius: 6px;
+                                        border-width: 0;
+                                        backdrop-filter: blur(7px);
+                                        background-color: rgba(255, 255, 255, 0.08);
+                                        box-shadow: 0 0 2rem rgba(0, 0, 0, 0);
+                                            transform: translate3d(300px, 0, 0);
+                                            transition: transform 0.3s ease;
+                                    }
+
+                                    &:hover {
+                                        max-height: 600px;
+                                        &::before {
+                                            box-shadow: 0 0 5px rgba(0,0,0,0.5);
+                                        }
+                                        [class^='tableOfContents'] {
+                                            transform: translate3d(0, 0, 0);
+                                            transition: transform 0.3s ease;
+                                        }
+                                    }
+                                }
+                        // }
+                        // @media screen and (min-width: 998px) and (max-width: 1260px) {
+
                         }
-
                         @media (min-width: 1280px) {
                             position: sticky;
                             top: inherit;
                             height: unset;
-
+                            max-width: unset;
                             max-height: calc(100vh - (var(--ifm-navbar-height) + 2rem));
                             top: calc(var(--ifm-navbar-height) + 2rem);
                             --ifm-col-width: calc(3 / 12 * 100%);
@@ -366,6 +409,10 @@ h1 {
                                 left: 20px;
                                 top: unset;
                                 bottom: 5rem;
+
+                                &::before {
+                                    display: none;
+                                }
                             }
                         }
 
