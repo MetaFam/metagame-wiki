@@ -39,21 +39,50 @@ These are the frameworks for launching DAOs on the Ethereum network:
 - **[Aragon](https://aragon.org/)** - Aragon gives internet communities unprecedented power to organize around shared values and resources.
 - **[Colony](https://colony.io/)** - Organizations, for the Internet. Colony makes it easy for people all over the world to build organizations together, online.
 - **[DAOstack](https://daostack.io/)** - An open-source project advancing the technology and adoption of decentralized governance.
+- **[Gardens](https://gardens.1hive.org/#/home)** - Gardens are digital economies that anyone can help shape.
+- **[Syndicate](https://syndicate.io/)** - Transform any wallet into a powerful web3 investment club.
 - **[MetaSys](https://wiki.metagame.wtf/docs/Guilding/metasys)** - A meta framework for DAOs; a combination of tools & a philosophy put together by MetaGame.
 
 ## 🛠️Other Infrastructure
+### Project/work management
+- **[Sobol](https://sobol.io/)** - Sobol maps accountability across your entire ecosystem so teams can move fast with alignment and trust. 
+- **[Clarity](https://www.clarity.so/)** - The simplest workspace for decentralized teams. Easily plan projects, track tasks, and stay organized.
+- **[Skiff](https://www.skiff.org/)** - Private & decentralized workspace. Everything on Skiff is end-to-end encrypted.
+- **[Dework](https://dework.xyz/)** - A web3-native Trello with token payments, credentialing, bounties and more.
+- **[Puzzle](https://www.getpuzzle.xyz/)** - Build a real collaboration space for contributors, connected to your Discord.
+
+### Contribution accounting
 - **[Sourcecred](https://sourcecred.io/)** - A tool for communities to measure and reward value creation.
-- **[Collab.land](https://collab.land/)** - A bot helping manage memberships in token curated communities.
 - **[Coordinape](https://coordinape.com/)** - Scale your community with tools to reward contributors, incentivize participation and manage resources
-- **[Uniswap](https://uniswap.org/)** - An automated market-maker, for making your token tradeable.
-- **[Balancer](https://balancer.exchange/)** - An automated market-maker with more options.
+- **[Dish Praise](https://wiki.commonsstack.org/contributors-guide)** - The simplest tool for rewarding contributors.
+
+### Treasury/salary management
 - **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet/treasury for DAOs.
+- **[Llama](https://llama.xyz/)** - Llama enables decentralized communities to allocate their treasuries and assess results.
+- **[Parcel](https://parcel.money/) - A suite of tools to scale DAO financial operations and empower DAO contributors. 
+- **[Superfluid](https://www.superfluid.finance/)** - Handle subscriptions, salaries, rewards and any composable stream of value.
+
+### Membership management/token gating
+- **[Collab.land](https://collab.land/)** - A bot helping manage memberships in token curated communities.
+- **[Unlock Protocol](https://unlock-protocol.com/)** - Add memberships & unlock ownership of your community, across all your platforms.
+- **[Agora Space](https://agora.space/)** - Token-Gated Access for DAOs and Social Tokens
+
+### Governance
+- **[Boardroom](https://www.boardroom.info/)** - Boardroom is a management platform helping people participate in DAO governance.
+- **[Snapshot](https://snapshot.org/#/)** - Snapshot is a free, open-source, transparent voting framework.
+- **[Tally](https://www.withtally.com/)** - Tally empowers user-owned communities & aggregates governance.
+
+### Market making/liquidity
+- **[Balancer](https://balancer.exchange/)** - An automated market-maker with more options.
+- **[Uniswap](https://uniswap.org/)** - An automated market-maker, for making your token tradeable.
+- **[PrimeDAO](https://www.prime.xyz/)** - Launch, Rate, Pool and Venture: together.
+
+### Legal
 - **[Etherize](https://etherize.io/)** - Summon a legal wrapper for your DAO.
 - **[Otonomos](https://otonomos.com/)** - Otonomos helps the crypto community form offchain and onchain legal entities.
 - **[Open Esquire](https://openesq.tech/)** - Enabling The Next Generation of Legal Services.
 
 ## 🥰Friendly DAOs
-
 This is by no means an extensive list of DAOs. These are the DAOs that we share at least one member with; DAOs that we trust.
 For a full list of Ethereum based DAOs, [check DeepDAO](http://deepdao.io).
 
@@ -114,12 +143,15 @@ External resources:
 - **[Decentralized Autonomous Organizations](https://ethereum.org/en/dao/)** - Definitions & additional resources on DAOs by the Ethereum Foundation.
 - **[Decentralized Autonomous Organizations](https://square1-hello.gitbook.io/square-1/token-economics/decentralized-organizations)** - More definitions & mechanisms of DAOs on Square I.
 - **[DAO Landscape](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw)** - An overview of the DAO landscape by Cooper Turley
+- **[Anticapture](https://mirror.xyz/hq.spengrah.eth/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ)** by Spencer Graham - Towards a Framework of Capture-Resistant Governance
+- **[Eight Qualities of Decentralized Autonomous Organizations](https://www.ourmachine.net/writing/eight-qualities-daos/)** by Kei Kreutler
 - **[Handbook of Handbooks for Decentralized Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view)** - Examples of decentralised organisations that have a public, transparent, well-documented handbook that explains how they work
 - **[Connection/Community Building Resources](https://forum.metagame.wtf/t/connection-community-building-resources-practices/256)** - Just a bunch of links on our forums.
 - **[Convergent Facilitation](http://nvctraining.com/media/_2018/MK/convergent-facilitation/index.html)** - "Convergent Facilitation is a highly efficient decision-making process."
 - **[DisCO](https://disco.coop/governance-model/)** - Distributed Cooperative Organizations' Governance Model
 - **[Holacracy](https://www.holacracy.org/)** - "A concrete framework for encoding autonomy, agility, and purpose-alignment into your organization's DNA."
 - **[Sociocracy 3.0](http://patterns.sociocracy30.org/introduction.html)** - "Sociocracy 3.0 is social technology for evolving agile and resilient organizations at any size."
+- **[Conviction Voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475)** - A Novel Continuous Decision Making Alternative to Governance
 
 ## 📚Books
 
