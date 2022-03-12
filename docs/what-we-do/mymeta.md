@@ -29,8 +29,9 @@ Here’s what the player cards *currently* look like:
 	- Timezone & availability per week
 	- Alignment/personality indicator based on [Magic: The Gathering](https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d)
 	- Skills
-	- DAOHaus DAO memberships
+	- DAOhaus DAO & guild memberships
 	- NFTs
+
 [Check the live version of MyMeta profiles here.](https://my.metagame.wtf/players)
 
 ## Eventually
@@ -42,8 +43,11 @@ Here’s what the player cards *currently* look like:
 -   MyMeta shall work equally well for an NFT artist, a smart contract developer or... a DAO 😱
 -   People shall be able to integrate smart contract interactions to use it as a dapp dashboard or a shop? Maybe.
 
+## Get started
+You can go ahead & [create your profile here](https://test.metagame.wtf/start).
+
 ## Help us & get paid
 Think the current version of MyMeta sucks? So do we!
 - Got some TypeScript chops? Help us improve it 🤷‍♂️
 - Know someone who does? Headhunters are well paid too! 🙃
-- Jump straight into [github](https://github.com/MetaFam/TheGame/issues/501) or [ask around](https://discord.gg/6JFXC9T) on discord.
+- Jump straight into [github](https://github.com/MetaFam/TheGame/issues/913) or [ask around](https://discord.gg/6JFXC9T) on discord.
