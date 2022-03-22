@@ -22,6 +22,9 @@ Here’s what the player cards *currently* look like:
 
 ![](https://imgur.com/xPPrVg1.png)
 
+![](https://i.imgur.com/aEMAIzV.png)
+*MyMeta customized for another project*
+
 ## Now
 
 - What you see is pretty much what you get.
