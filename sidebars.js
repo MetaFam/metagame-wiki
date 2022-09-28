@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-
+    "🌀 MetaOS": ["home"],
     "🤨 Pillar Memes": [
       "wtf-is-metagame/wtf-is-metagame",
       "wtf-is-metagame/origin-story",
