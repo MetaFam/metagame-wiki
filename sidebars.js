@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    "🌀 MetaOS": ["home"],
+    "🌀 Start here": ["home"],
     "🤨 Pillar Memes": [
       "wtf-is-metagame/wtf-is-metagame",
       "wtf-is-metagame/origin-story",
@@ -20,13 +20,6 @@ module.exports = {
       "how-does-it-work/become-a-founder-of-metagame",
       "how-does-it-work/a-cautionary-tale",
       "resources/glossary",
-    ],
-    "🗺 Enter MetaGame": [
-      "enter-metagame/join-metagame",
-      "enter-metagame/why-patron",
-      "enter-metagame/how-to-become-a-player",
-      "enter-metagame/navigation-board",
-      "enter-metagame/leaderboard",
     ],
     '🤔 What we do': [
       "what-we-do/tldr",
@@ -63,14 +56,6 @@ module.exports = {
       "playbooks/how-to-git-on-github-non-builder",
       "playbooks/how-to-build-a-network-for-impact",
       "playbooks/handling-fomo-in-web3",
-
-    ],
-    "🌳 Other": [
-      "resources/calendar",
-      "resources/graphics",
-      "resources/art",
-      "resources/memes",
-      "resources/talks",
     ],
   },
 };
