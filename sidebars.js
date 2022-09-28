@@ -21,7 +21,7 @@ module.exports = {
       "how-does-it-work/a-cautionary-tale",
       "resources/glossary",
     ],
-//    "🗺 Enter MetaGame": [
+    "🗺 Enter MetaGame": [
       "enter-metagame/join-metagame",
       "enter-metagame/why-patron",
       "enter-metagame/how-to-become-a-player",
@@ -65,7 +65,7 @@ module.exports = {
       "playbooks/handling-fomo-in-web3",
 
     ],
-//    "🌳 Other": [
+    "🌳 Other": [
       "resources/calendar",
       "resources/graphics",
       "resources/art",
