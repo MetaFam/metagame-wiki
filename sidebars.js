@@ -1,7 +1,8 @@
 module.exports = {
   someSidebar: {
-    "🌀 MetaOS": ["home"],
+
     "🤨 Pillar Memes": [
+      "wtf-is-metagame/wtf-is-metagame",
       "wtf-is-metagame/origin-story",
       "wtf-is-metagame/in-search-of-commons-that-scale",
       "wtf-is-metagame/the-coming-of-metagame",
@@ -13,14 +14,14 @@ module.exports = {
     ],
     "🧐 Understanding MetaGame": [
       "how-does-it-work/why-gamification-works",
-      "wtf-is-metagame/wtf-is-metagame",
       "how-does-it-work/phases-of-metagame",
       "how-does-it-work/how-metagame-works",
-      "how-does-it-work/obtaining-seeds",
+//      "how-does-it-work/obtaining-seeds",
       "how-does-it-work/become-a-founder-of-metagame",
       "how-does-it-work/a-cautionary-tale",
+      "resources/glossary",
     ],
-    "🗺 Enter MetaGame": [
+//    "🗺 Enter MetaGame": [
       "enter-metagame/join-metagame",
       "enter-metagame/why-patron",
       "enter-metagame/how-to-become-a-player",
@@ -44,13 +45,11 @@ module.exports = {
       'great-houses/house-of-defi',
       'great-houses/house-of-L2s',
     ],
-    "⚔️ Guilding": [
-      "Guilding/meme-driven-organizations",
-      "Guilding/what-why-how-of-your-dao",
-      "Guilding/guilding-101",
-      "Guilding/building-successful-teams",
-    ],
     "📚 Playbooks": [
+      "playbooks/meme-driven-organizations",
+      "playbooks/what-why-how-of-your-dao",
+      "playbooks/guilding-101",
+      "playbooks/building-successful-teams",
       "playbooks/how-to-make-it-without-technical-skills",
       "playbooks/how-to-coach-eth",
       "playbooks/how-to-hackmd",
@@ -66,9 +65,8 @@ module.exports = {
       "playbooks/handling-fomo-in-web3",
 
     ],
-    "🌳 Other": [
+//    "🌳 Other": [
       "resources/calendar",
-      "resources/glossary",
       "resources/graphics",
       "resources/art",
       "resources/memes",
