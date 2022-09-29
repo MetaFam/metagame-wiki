@@ -1,8 +1,7 @@
 module.exports = {
   someSidebar: {
     "🌀 Start here": ["home"],
-    "🤨 Pillar Memes": [
-      "wtf-is-metagame/wtf-is-metagame",
+    "🤨 Pillar Memes & Lore": [
       "wtf-is-metagame/origin-story",
       "wtf-is-metagame/in-search-of-commons-that-scale",
       "wtf-is-metagame/the-coming-of-metagame",
@@ -10,9 +9,11 @@ module.exports = {
       "wtf-is-metagame/narrative-1-a-decentralized-factory",
       "wtf-is-metagame/narrative-2-a-web-of-opportunity",
       "wtf-is-metagame/metafam-way",
+      "enter-metagame/how-to-become-a-player",
       "wtf-is-metagame/the-300-of-metagame",
     ],
     "🧐 Understanding MetaGame": [
+      "how-does-it-work/wtf-is-metagame",
       "how-does-it-work/why-gamification-works",
       "how-does-it-work/phases-of-metagame",
       "how-does-it-work/how-metagame-works",
@@ -30,13 +31,13 @@ module.exports = {
 //      "what-we-do/metalibrary",
     ],
     '🏡 The Great Houses': [
-      'great-houses/how-to-house',
       'great-houses/house-of-ethereum',
       'great-houses/house-of-daos',
       'great-houses/house-of-NFTs',
       'great-houses/house-of-dapps',
       'great-houses/house-of-defi',
       'great-houses/house-of-L2s',
+      'great-houses/how-to-house',
     ],
     "📚 Playbooks": [
       "playbooks/meme-driven-organizations",
