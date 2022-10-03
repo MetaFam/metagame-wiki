@@ -1,3 +1,4 @@
+
 ---
 title: 📖 MetaManifesto
 ---
@@ -48,7 +49,7 @@ People in the old world like to complain. We like building solutions.
 
 ## Why now?
 
-In terms of empowering people to coordinate around creating value together and at scale without having to trust each other; the technologies are barely here now.
+In terms of empowering people to coordinate around creating value together and at scale, without having to trust each other; the technologies are barely here now.
 
 The printing press, the radio & the internet were the information revolutions; democratizing access, production & distribution of information. Web3 is about democratizing organizations & state-making.
 
@@ -62,6 +63,5 @@ Simply, it is time.
 
 ## Join The Fight
 
-We are building the future we want to live in. For that, we are looking for people with a burning desire to change the course of history.
-
-If you recognize yourself as such, join [through here](https://wiki.metagame.wtf/docs/enter-metagame/join-metagame).
+We are building the future we want to live in. 
+For that, we are looking for people with a burning desire to change the course of history.

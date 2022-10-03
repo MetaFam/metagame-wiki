@@ -40,7 +40,7 @@ Anyhow, these roads tend to overlap, as a lot of freelancers will tell you their
 
 The decentralized autonomous organization, as a concept, has now been around for a while. In practice, we’re only now getting a glimpse at them - the ones that work.
 
-There’s a whole post getting deeper into what is a DAO as well as what DAO frameworks & tools are out there, but the point is…
+There’s [a whole post](https://wiki.metagame.wtf/docs/great-houses/house-of-daos) getting deeper into what is a DAO as well as what DAO frameworks & tools are out there, but the point is…
 
 These magical tools for building DAOs will make it orders of magnitude cheaper, faster & easier to launch & manage organizations of any kind.
 
