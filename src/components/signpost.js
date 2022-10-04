@@ -45,7 +45,7 @@ export const directions = [
   {
     emoji: "🗺️",
     label: "Raids",
-    url: "/docs/enter-metagame/navigation-board",
+    url: "/enter-metagame/navigation-board",
     description: "Find raids that peak your interest.",
   },
   {
@@ -58,7 +58,7 @@ export const directions = [
     emoji: "📅",
     label: "Calendar",
     url:
-      "docs/resources/calendar",
+      "/resources/calendar",
     description: "Meetings, gatherings and events",
   },
   {
@@ -70,7 +70,7 @@ export const directions = [
   {
     emoji: "⚔️",
     label: "Guilds",
-    url: "/docs/enter-metagame/guilds-of-metagame",
+    url: "/enter-metagame/guilds-of-metagame",
     description: "The list of guilds considered to be a part of MetaGame.",
   },
   {
@@ -149,7 +149,7 @@ export function Signpost() {
         src="https://cdn.substack.com/image/fetch/w_300,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe93a37b7-2a48-421c-80b7-3079eca8beb7_2048x881.png"
       />
       <div className={styles.metaFest}>
-        <a href="/docs/metafest">
+        <a href="/metafest">
           <div className={styles.aspectBox}>
             <img
               alt="MetaFest Logo"
