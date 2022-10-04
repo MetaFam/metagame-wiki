@@ -3,6 +3,9 @@ title: 📱 MetaOS
 ---
 MetaOS is an operating system for running interoperable communities, decentralized societies & coordination games. A mosaic of web3 building blocks put together into a coherent, interoperable platform.
 
+It started by trying to solve our own problem, which was using too many different tools & platforms across too many different websites, making MetaGame fragmented.
+- Then we realized a lot of other communities share this problem...
+
 ## Abstract
 Web3 is allowing us to build truly interoperable & composable applications for the first time ever through a shared backend.
 
