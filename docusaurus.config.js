@@ -56,6 +56,10 @@ module.exports = {
             to: '/docs/', // string
             from: ['/docs/home/'], // string | string[]
           },
+          {
+            to: '/docs/', // string
+            from: ['/docs/wtf-is-metagame/wtf-is-metagame'], // string | string[]
+          }
         ],
       },
     ],
