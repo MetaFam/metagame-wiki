@@ -12,7 +12,7 @@ title: 🌒 Phases of MetaGame
 
 The main goal of _Phase I_ is to build a hub for anyone interested in decentralized organizations & applications. A library of guides & portals to anything one might need to build them & a community of people to support them.
 
-The meme of this phase is _A Decentralized Factory_; a collective of decentralized teams, churning out the building blocks we’re going to use to build a decentralized world.
+The memes of this phase are _An Onboarding Machine_ & _A Decentralized Factory_; a simple way of onboarding people to Web3 & helping them understand crypto beyond "numba go up", as well as a collective of decentralized teams, churning out the building blocks we’re going to use to build a decentralized world.
 
 ### Goals:
 
@@ -23,49 +23,33 @@ The meme of this phase is _A Decentralized Factory_; a collective of decentraliz
 ### Builds:
 
 <details>
-<summary>MetaLibrary</summary>
-Currently "MetaGame Wiki"; MetaLibrary is a crucial piece of building MetaGame.
-Right now, there's mostly content about understanding MetaGame, but it will over time skew more and more to being a wiki about building decentralized organizations & applications in general.
+<summary>MetaOS v1</summary>
+Including The Onboarding Game, MetaSys, MyMeta Profiles, Chievmints, the dashboard & much more; MetaOS v1 is the first full iteration of MetaGame-as-a-platform, which will allow us & others to run their own coordination games.
 </details>
 
 <details>
-<summary>MyMeta</summary>
-MyMeta is your access to MetaGame. It starts as simple profiles to make it easier for you to display who you are and find other players but evolves into a place where you can do things like display & sell your NFTs, as well as your dapp dashboard.
-
-On the other end, it evolves into an app which you've seen the first glimpses of if you've visited [https://wiki.metagame.wtf/docs/home](https://wiki.metagame.wtf/docs/home).
-To see the full post on MyMeta Profiles, go here.
-
+<summary>Educational content</summary>
+Flowing on from The Onboarding Game mentioned above into The Great Houses, Playbooks, MetaRadio & events we're organizing; all is contributing towards the establishment of the knowledge base that helps people understand & join the space.
 </details>
 
 <details>
-
-<summary>Random</summary>
-<br />
-
-This includes a bunch of other projects we've been working on that we also consider mission-critical but not as big of a deal as the above two.
-
-- Such as MetaMaps, our web3 whiteboarding/project management tool we'll be using to build the _Skill Trees_ & and the _Navigation System_ to help people move through MetaGame.
-
-- Such as organizing the [first virtual conference in the Ethereum space](https://medium.com/@pethereum/sure-the-future-is-remote-and-virtual-conferences-will-be-a-thing-but-we-arent-doing-this-just-bd0eaef8132d) back in March & the [first DAO-focused hackathon](https://metagame.substack.com/p/fork-the-world-hackathon) back in August.
-
-- Such as the MetaView podcast which we use to paint the picture for the community by interviewing the brightest minds in the space.
-
-- Such as the Achievmintry, which we'll be using to show appreciation towards the builders in the Meta and the wider Ethereum ecosystem.
-
-- Such as... You get the idea.
+<summary>A community & a network of projects</summary>
+All of the above helps us build a community of like-minded people & projects that all together make up the Decentralized Factory & the Onboarding Machine.
 
 </details>
+
+
 
 ## **Phase II: Growth**
 
-> _Gently, she descended into the Atlantic Ocean. We were worried about the oceanic life, but she assured us she only feeds on h2o & co2 - she doesn’t stop blowing our minds. First, her decentralized technologies, and now this? She might turn out more useful than we thought._
+> _Gently, she descended into the Atlantic Ocean. We were worried about the oceanic life, but she assured us she only feeds on h2o & co2 - she doesn’t stop blowing our minds. First, her decentralized technologies, and now this? She might turn out more useful than we thought..._
 
 Proven ourselves worthy; _Seeds_ grow into _Trees_ & we summon _The Great Flood._
 A wave of capital flows into MetaGame and it allows us to pay even more people to do awesome things - like grappling with real-world issues.
 
-So we zoom out of crypto and start onboarding people from other high-tech, but also ecological & philanthropical communities; MetaGame starts looking more like a federation of guilds & alliances than one single community.
+So we zoom out of crypto and start onboarding people from other high-tech, but also ecological & philanthropical communities; MetaGame starts looking more like a federation of guilds & alliances than one single community. We also start onboarding physical location guilds.
 
-The meme is _A Web of Opportunity_; there is no lack of funding nor a lack of problems to solve. Anyone can just jump in, start solving problems & earning an income.
+The meme is _A Web of Opportunity_; there is no lack of funding nor a lack of problems to solve. Anyone can just jump in, level up, start solving problems & earning an income.
 
 ### Goals:
 
@@ -76,12 +60,9 @@ The meme is _A Web of Opportunity_; there is no lack of funding nor a lack of pr
 ### Builds:
 
 <details>
-<summary>MetaVille</summary>
+<summary>MetaOS v2</summary>
 
-It's when MetaGame gets the actual game-like interface. You're able to walk around in spatial audio environments, attend meetups in the tavern, hang in your guildhouse, tend to your crops & access all the learning, media & work content you need to progress.
-
-This is not to say we won't be working on this while still in Phase I, in fact, more than one player has tried championing this raid never to be seen again.
-You can read a longer post about it [here](https://forum.metagame.wtf/t/metaville/225). If this sounds like something you'd be able to tackle - we'd be happy to supply you with some Seeds!
+By now, MetaOS will be fully rearchitected & accommodate many more building blocks & protocols integrated by other projects. It also fully transitions to being developed only by MetaFam to being worked on by a wide range of guilds - many of which deployed it on their own.
 
 </details>
 
@@ -99,11 +80,9 @@ Maybe ask me again when you reach the Diamond League. ;)
 <details>
 <summary>Random</summary>
 
-Not going to write much about this either. As the phase info suggests, it's when we start taking real-world issues seriously by contributing to ecological & philanthropic initiatives etc.
+Not going to write much about this either. As the phase info suggests, it's when we start taking real-world issues even more  seriously by contributing to ecological & philanthropic initiatives etc.
 
-If the world hasn't gone to shit: these hackathons, conferences & other types of gatherings should be more regular and happening in-person as well.
-
-There should be the starting of the Outpost Network; a network of hacker-houses, ecovillages & other kinds of spaces that players may live & work at.
+There is shittons more educational content but a lot more of MetaGame is happening in real life. More MetaFest IRL, more meetups & a network of hacker-houses, ecovillages & other kinds of spaces that players may live & work at.
 
 There should also be hundreds of other, smaller initiatives, experiments & projects.
 
@@ -115,9 +94,11 @@ There should also be hundreds of other, smaller initiatives, experiments & proje
 
 MetaGame now really _is_ a _massive_ online coordination game. By now, we have onboarded players & guilds offering anything one might need to live a rich & meaningful life in MetaGame. There’s also anything from co-working & co-living spaces to ecovillages, being offered & even built through MetaGame.
 
+Crypto pretty much moves into the background; its an integral part of how we do things but no longer the main focus. Technologies for running DAOs are well developed.
+
 As the name suggests, MetaGame is no longer focused on rapid growth but sustainable growth in the state of equilibrium. It can thrive & grow without any additional injections of speculative capital.
 
-The meme of this phase is _A Web of Life_ - to support life as a whole.
+The meme of this phase is _A Web of Life_ - to support all life.
 
 ### Goals:
 
@@ -128,11 +109,11 @@ The meme of this phase is _A Web of Life_ - to support life as a whole.
 ### Builds:
 
 <details>
-<summary>MetaFrame Alpha</summary>
+<summary>MetaOS v3</summary>
 
-You can think of it as a basic operating system & a manual for building and operating communities/societies/metagames. A combination of building blocks & methods we're using to build MetaGame, generalized, explained & improved for others to use.
+MetaOS is now a fully functional operating system together with a manual for building and operating communities/societies/networks/massive online coordination games. A mosaic of building blocks & methods we're using to build MetaGame, generalized, explained & improved for others to use.
 
-Read more in the [_MetaSys_ article](https://wiki.metagame.wtf/docs/Guilding/metasys).
+Read more in the [_MetaOS_ article](https://wiki.metagame.wtf/docs/what-we-do/metaos).
 
 </details>
 <details>
@@ -144,6 +125,5 @@ Read more in the [_MetaSys_ article](https://wiki.metagame.wtf/docs/Guilding/met
 <summary>???</summary>
 While there isn't a lack of ideas for the late stages of MetaGame, Phase III is likely 5+ years away so making any predictions more specific than "we'll be doing things that the people need" would be kind of...
 
-If there's one thing to be expected of this phase, it's that by now crypto technology has moved into the background and we're focused on building & nurturing the web of life by sustaining more and more people in doing good things & supporting good causes.
-
+If there's one thing to be expected of this phase, it's that by now crypto technology has moved into the background and we're focused on building & nurturing the web of life by sustaining more and more people in leveling up, doing good things & supporting good causes.
 </details>

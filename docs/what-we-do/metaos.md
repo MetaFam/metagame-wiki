@@ -1,93 +1,229 @@
 ---
 title: 📱 MetaOS
 ---
+MetaOS is an operating system for running interoperable communities, decentralized societies & coordination games. A mosaic of web3 building blocks put together into a coherent, interoperable platform.
 
-In essence, MetaOS is about bringing together all of the piece of MetaGame into a single coherent interface - something that seems to be a problem across the DAO ecosystem 👀
+## Abstract
+Web3 is allowing us to build truly interoperable & composable applications for the first time ever through a shared backend.
 
-## Why?
+This has led to a proliferation of protocols & building blocks. After all, there’s no need to build a whole platform around a small set of features - when it can be made in such a way that others can integrate them into their own platforms & applications.
 
-If you’re not new to MetaGame, you might already know MetaGame is kind of all over the place. Even if you’ve been here for a while, chances are there are parts of MetaGame you didn’t even know existed 😱
+There is also less of a need to try & “do it all” when you can instead focus on solving a specific niche problem & integrate other people’s building blocks for everything else.
 
-You might have seen my attempt at mapping all of the piece of MetaGame:
+What is happening now is a great unbundling of platforms & what I hope will follow up is a great rebundling - except in a different way.
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F897da597-c914-4924-9aea-991829c51d28_1446x1080.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F897da597-c914-4924-9aea-991829c51d28_1446x1080.png)
+Here, I’ll go through:
+-   Why this is necessary
+-   Modularizing front-ends
+-   Composable communities
+-   The user centric web
+-   MVP & basic modules
+-   Long term
 
-> Note: semi-transparent are the pieces that haven’t been built yet
+Unfortunately, what’s also been happening is web2 mindsets getting into web3, making “web3 alternative to x” by slapping on wallet log in, running on decentralized protocols but “we’ll open source front end later or never” or monolithic “all in one” platforms where a single company is trying to build every piece themselves.
 
-Inside MetaGame:
+You can think of MetaOS as a virtual operating system for composable communities, for networked societies.
 
--   MyMeta, Quests, XP, XP in-depth, DAO, Seed; claiming, trading, planting
--   Wiki, newsletter, MetaRadio, youtube
--   Discord, forums, Notion, calendar, Navigation Board, Figma, Drive...
+## Problems
+
+The problem is we’re not quite there yet, so the problem is fragmentation.
+
+If your DAO is anything like ours, it’s spread across 10 different websites/tools/platforms, some Web2, some Web3 & some hybrids but all duct taped together with links pinned in a discord channel.
+
+For all its greatness of disrupting monopolies & distributing power, the great unbundling is leading us into an ever more fragmented web.
+
+1.  Ecosystem fragmented across communities that are mostly walled gardens
+2.  Communities fragmented across the tooling & services they use
+3.  Member experience fragmented & the fragmentation multiplied across communities
+    
+
+In short, ecosystems fragmented across communities, communities fragmented across tooling & user experience fragmented on all levels.
+
+And what happens when some of these front-ends get taken down? Ugh!
+
+## Solution?
+
+I think the solution is to modularize front-ends & build a modular, open platform that makes it easy to integrate all of these different web3 building blocks, protocols & tools into a single interface.
+
+As a member of a single DAO, I want:
+-   A high level overview of what's going on & links to everything in a single place
+    
+
+As a member of multiple DAOs, I want:
+-   Proposals from all of them appearing in a single place
+-   All the quests assigned to me or that might interest me, appearing in a single place
+-   All news & stats appearing in a single place.
+    
+
+### Composable communities
+
+There will never be a one-size-fits-all. Necessarily, I think different communities will be deploying & customising this whitelabel open source platform to their own needs.
+
+The key point is that the underlying infrastructure such as member profiles, questing systems etc. remain interoperable across platforms.
+
+### The user-centric web
+
+Community-centric web is nice but lets face it - there isn’t a single community or a DAO that can meet all of your needs & people will always want to be members of multiple.
+
+But if we want DAOs to turn into DAO networks & stop siloing off, the pattern of org-centered navigation has to go.
+
+### Community-centric vs human-centric
+
+Its a web2 pattern that’s been perpetuated by platforms such as discord & I think it made complete sense in the web2 context, where siloing is the default & considered good for the business, where things couldn’t so easily be made interoperable etc; business didn’t like it, technology didn’t like it, so we rolled with it.
+
+Web3 alternatives seem to be recreating this pattern & tbh I wish they would just stop. I don’t want to navigate across 10 different discord servers, I want to have my own list of channels that's composed by plugging in channels from communities that I’m a part of.
+
+You could argue this is necessary - communities need their own gardens where things are arranged to their specific needs, where members get onboarded, navigate etc..
+
+And I agree! I think communities should have their own spaces, just that some of the basic functionality is interoperable & members can customize their experience; cutting & pasting pieces across.
+
+It's not either/or, it's both.
+
+### Side effect
+
+Besides breaking down silos, unifying user experience, bringing communities & the ecosystem closer together etc; this proliferation of composable micro front-ends would also make the space more censorship resistant.
+
+They can shut down Tornado’s website & they can block you from using Aave’s front-end but they can do fuck-all to users that deploy their own front-ends privately - which is essentially what they’d be doing by “installing” these front-end modules.
+
+## MVP
+
+It all starts with a dashboard.
+
+Every community or a DAO would benefit from having some kind of a dashboard; a place where things like news, stats, tasks & other info or links related to the community appear.
+
+And the same goes for individuals; wouldn’t it be great to have a dashboard with everything important you need to know about the ecosystem you’re a part of?
+
+So, what if this dashboard was modular & customizable as fuck?
+
+-   If you could take a useful module from community X & paste it into your own dashboard?
+-   If you could build little widgets/micro-dapps that pull in data or let you interact with smart contracts, trade tokens or whatever?
+    
+
   
-Currently, all of these pieces are all over the internet.
 
-This is a problem we’re facing at the DAO level & it seems like a problem a lot of other DAOs are facing as well; there isn’t a single tool or a service for all purposes (nor should there be if we want the ecosystem to remain decentralized) & most of the things we’re currently using are still Web2 😬
+It could start with something as simple as a page with blocks that contain the basic explanation & links to different parts of a project; before it is even decided what the rest of their stack will look like, what DAO framework will be used etc.
 
-Worse, it also seems a problem at the ecosystem level. We got all of these different building blocks for decentralized societies being built by many different teams in their own little silos, running on their own single-purpose interfaces.
+## Modules
 
--   Protocol X
--   Building block Z
--   dApp Y
-    
+This is where it gets interesting!
 
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8131207f-1b80-4265-9d4a-7777659d765c_2102x704.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8131207f-1b80-4265-9d4a-7777659d765c_2102x704.png)
-
-We’ve got things like Zapper on the DeFi side of things, but the social side of crypto is still very much missing proper meta interfaces for interacting with multiple dapps & protocols without having to navigate across different websites.
-
-If you’ve been following MetaGame from the beginning, you’ll remember this was pretty much the original idea:
-
--   _**Put together** all of the pieces of the puzzle for a decentralized society._
-    
-
-...It's just that we soon realized most of the pieces don’t actually exist yet, so we started building them 😅
-
-We’ve been so focused inwards, drifting away from the idea of “putting together the pieces” into “building everything ourselves” & slowly became a silo ourselves.
-
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabcec267-abb6-46b1-aaaf-a38641cb7e2d_522x452.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabcec267-abb6-46b1-aaaf-a38641cb7e2d_522x452.png)
-
-Meanwhile, other building blocks have started popping up all over the place 🤷‍♂️
-
-## WTF is MetaOS?
-
-MetaOS is to be a lightweight framework for running decentralized societies; to make it as easy as possible to put together different protocols, dapps, services, resources & whatever else people of specific communities need.
-
-_What I mean by lightweight is that it should really be just a modular dashboard & a mega menu with the focus of making it as easy as possible to integrate other pieces, building blocks & protocols._
-
-[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa438a095-d5ec-4533-b14c-9deb22e09fb7_1438x951.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa438a095-d5ec-4533-b14c-9deb22e09fb7_1438x951.png)
-
-[![Dashboard](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5814ba37-425f-486b-af50-d145e704e338_1439x1006.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5814ba37-425f-486b-af50-d145e704e338_1439x1006.png)
-
-> _Note: at this point, there is only a very early version of the MetaMenu & **not even the designs are finished yet.**_
-
-You get the idea!
-
-Members should be able to customize their dashboards to display the data or news they want them to display. Assembled & curated to their own liking & preference. Beyond that, they can vote for new apps to be added or removed from the menu above &/or just customize it for themselves.
-
-## How?
-
-Starts simple:
-
--   A mega menu & a dashboard
--   Running things we’ve built ourselves
--   Integrating web2 services with iframes
   
-Evolving into Web3:
 
--   Slowly start replacing all the pieces with interoperable web3 alternatives
--   Make it easy to integrate other decentralized protocols & dApps
+Different communities would choose to compose their stacks using different Web3 building blocks & tools but they could theoretically all be integrated into this dashboard in one way or another.
+
+  
+
+They can start as simple links opening externally, possibly in iframes & eventually natively, as micro front-ends.
+
+### Currently
+
+Here’s what our instance of MetaOS currently includes:
+
+-   MetaSys - a contribution accounting & rewarding system
+-   Onboarding Game - a branching dialogue choose-your-own adventure
+-   Quest Chains - used for onboarding & learning paths
+-   Dashboard - an overview of whats going on
+    -   Community news & content
+    -   Calendar
+    -   Token stats
+    -   XP stats
+    -   Leaderboard
+-   MetaMenu - navigating outside the dashboard
+-   MyMeta - decentralized profiles for DAOists
+    -   Skills
+    -   Time availability
+    -   Timezone
+    -   Personality type
+    -   DAO memberships
+    -   NFTs
+    -   Escrow contracting between people (not finished)
+-   Quests - our internal bounties system
+-   Chievmints - for minting achievement NFTs
+-   Player leaderboard - for work contributions
+-   Patron leaderboard - for financial contributions
+-   Guild pages - project profiles based on DAOhaus DAOs & discord server
     
 
-**It starts as a duct tape but evolves into a sort of a… Web3 community curated browser/coordination system? 🤔**
- -   An operating system for decentralized societies, in your browser.
+What I’d like to see next:
+
+-   Raids (groups of quests/project boards)
+-   MyMeta contracting (escrow for doing business between profiles)
+-   Role board
+-   Custom backgrounds & themes
+-   Dashboard module for proposals from DAOs you’re a member of
+-   MyMeta modules for plugging in other reputations & identities
+-   ???
     
 
-[![Parenting Hacks to Simplify Your Life | Duct tape, Duct, Tape](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe90c26b-3d02-4904-8a89-b89c234e9179_491x500.jpeg "Parenting Hacks to Simplify Your Life | Duct tape, Duct, Tape")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe90c26b-3d02-4904-8a89-b89c234e9179_491x500.jpeg)
+  
 
-But, before we can make it useful for other communities, we need to make it useful for ourselves & prove it first 🤷‍♂️
+![](https://lh4.googleusercontent.com/XbgQVUoU-owF4qMcH9YtX66WxUnahGK_fXSlCcg_vLmo-sYEMLKBitwBeARSf_r-rSIfqjfk52bggREfIkfyO18PWPiVM_Ku31ZtvrkvnuRn4cnus2aS-QG-UcwxVMr8ZR0qHe_XcZNffTl6IvkIExAVlFcLBwE4GTkP6scP-1i1DPWfR6nn_qYHmQ)
 
-**Interested in helping? Got TypeScript skills or design chops? Let us know. Know anyone who does or want to help find them? Don’t worry, we pay good for that too!**
+But these are just ours & I want to point out it doesn’t stop here. Just because we have our internal questing system tailored to our needs, doesn’t mean we won’t also integrate Dework or any other bounties system. Same goes for profiles or any other module.
 
-## Seriously though!
+### More modules!
 
-If you want to help with any of this, you can check the [full roadmap here](https://github.com/MetaFam/TheGame/issues/913) or [join MetaGame through here](https://wiki.metagame.wtf/docs/enter-metagame/join-metagame) & ask about it anywhere on discord! 🙃
+Going onwards, here are some ideas:
+
+-   Any kind of new block that would be useful if you were to use your profile as your work portfolio or even a shop
+-   Any kind of block that would be useful on your dashboard, anything from Dune analytics & DAO data to newsfeeds
+-   Comment & suggest edits, like in google docs except anywhere (if turned on to visible)
+-   Jitsi or whatever other voice integration to hang on any page
+-   More payroll tools
+-   Curation games for news, building resources etc.
+-   Proper debating interface
+-   Modules useful for DAO investors, modules useful for DAO operators & modules useful for DAO freelancers
+-   Whatever marketplace integration
+-   Something between a reddit & a wiki, where the most upvoted & commented entries turn into permanent entries on the wiki instead of getting lost
+-   I want to be able to publish a bounty inside my community which automatically gets published in the wider ecosystem if nobody picks it up within 7 days.
+-   These can all be free or paid modules, built & integrated by anyone.
+    
+
+### Long term
+
+Eventually,
+
+-   Communities that decide to deploy their instance of MetaOS should be able to just choose from a big list of modules to make up their stack & their instance of the platform.
+-   People that choose to inhabit these platforms get to compose their own dashboard & customize their interface to suit their cross-DAO needs.
+
+Get the overall idea?
+
+Different communities composing protocols & building blocks into platforms that suit their own unique needs.
+
+![](https://lh3.googleusercontent.com/OVe78qIfL3enKdAfJDxf0qMHyoJwAxxDT2wzHr5yAD94Gg_TZzeS2cWWpVl7gDKhJ1xVjluvaAFFfvHj1EfxV0kxIzfAe28M5XNpaPHNqw2771SJoVG9ua3TJv7ZqS2NQpihvr8GiH-X0DZPF49haquoZJOrIcMCCZdbnlj7SpKtiv5SxhV7pcYPBw)
+
+  
+
+# Why?
+
+Right now, every community puts in a lot of effort into putting together & navigating their own operating system, sometimes mainly through discord.
+
+  
+
+Most of the things we’re using to run projects effectively are still Web2 & even the ones that are Web3 are not interoperable to a degree we’d like them to be & a lot (most) have their front-ends closed-source.
+
+  
+
+In the spirit of Web3, I think the platforms that will follow this great unbundling will be more like mosaics of protocols & tools; more like bazaars than cathedrals, where we build on each other’s experience, don’t monopolize & keep innovations proprietary or try to keep users locked into our little walled gardens.
+
+  
+
+We need platforms that are fully open source, modular & that are more like playgrounds; getting co-created with the communities, always work in progress & more like environments than websites.
+
+  
+
+With the penetration of Silicon Valley closed-source thinking & government crackdown on front-ends, I think the proliferation of fully open source front-ends is more needed than ever.
+
+  
+
+MetaOS is more of a concept, a meme rather than any specific framework. We are building our instance of it at MetaGame but I’m sure we’re not the only ones.
+
+  
+
+If you know any project that is doing something similar - even if its “just a dashboard” - pls DM & lets coordinate!
+
+## All-in-one platforms are dead, long live all-in-one platforms!
+
+- Want to use it? Feel free to [fork it](https://github.com/MetaFam) & get in touch.
+- Want to build a new module or integration? [Let us know](https://github.com/MetaFam/TheGame/issues).
+- Know other projects doing something similar? Also [let us know](https://discord.gg/SSBhk2yT4C)! :)
