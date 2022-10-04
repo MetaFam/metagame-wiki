@@ -140,13 +140,13 @@ See [Patron Path](https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5
 
 A global family tied by ideas & ideals rather than blood-ties. A movement spanning across nations & borders, united by the goal of building MetaGame.
 
-See [MetaFam in the MetaManifesto](/docs/wtf-is-metagame/metamanifesto).
+See [MetaFam in the MetaManifesto](/wtf-is-metagame/metamanifesto).
 
 ## Ranks
 
 Ranks are a way of distinguishing top contributors to MetaGame. They don't determine much in terms of roles but will allow for some bragging rights & perks. Top 56 Players of MetaGame are ranked in 5 leagues: Diamond, Platinum, Golden, Silver & Bronze.
 
-See [Become a Founder of MetaGame](https://wiki.metagame.wtf/docs/how-does-it-work/become-a-founder-of-metagame) & [Ranked Founder Perks](https://www.notion.so/Ranked-Founder-Perks-aaf4b12eb31c4eba94e145c1e9f9a39f)
+See [Become a Founder of MetaGame](https://wiki.metagame.wtf/how-does-it-work/become-a-founder-of-metagame) & [Ranked Founder Perks](https://www.notion.so/Ranked-Founder-Perks-aaf4b12eb31c4eba94e145c1e9f9a39f)
 
 ## The 300 of MetaGame
 
