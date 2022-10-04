@@ -9,7 +9,7 @@ image: https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/ht
 
 Well, not really. I have been waiting for someone to do it, ever since my brain was first occupied by this “_Ethereum world computer_” meme;
 
-> “Holy shit! This is the software infrastructure layer we need for a fair socioeconomic system of the future!”
+> “Holy shit, this is the software infrastructure layer for building new kinds of socioeconomic systems!”
 
 It is only now that I said: _I’ll be damned if I don’t at least try._
 ## Why now?

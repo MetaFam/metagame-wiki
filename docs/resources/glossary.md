@@ -140,7 +140,7 @@ See [Patron Path](https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5
 
 A global family tied by ideas & ideals rather than blood-ties. A movement spanning across nations & borders, united by the goal of building MetaGame. 
 
-See [MetaFam in the MetaManifesto](/docs/wtf-is-metagame/metafam-way#metafam).
+See [MetaFam in the MetaManifesto](/docs/wtf-is-metagame/metamanifesto).
 
 ## Ranks
 
