@@ -1,4 +1,3 @@
-
 ---
 title: 🎩 How Does MetaGame Work?
 image: https://imgur.com/TFEyHyQ.png
@@ -12,7 +11,7 @@ At the heart of MetaGame is a meme. The MetaMeme, the MetaGoal, the MetaDream, o
 
 - The idea we possess the right tools to build better functioning societies.
 - The idea we can revolutionize the world from the comfort of our living rooms.
-- The idea we may, in fact, have fun pursuing this path. 
+- The idea we may, in fact, have fun pursuing this path.
   - And I mean, who doesn’t want progression through life and work itself to be more fun? 🤷‍♂️
 
 Around this meme, there formed a community of like-minded people. These people are what makes the heart of MetaGame tick.

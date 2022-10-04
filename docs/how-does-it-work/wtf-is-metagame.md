@@ -1,8 +1,8 @@
-
 ---
 title: 🤨 WTF is MetaGame?
 image: https://i.imgur.com/N7eJluF.png
 ---
+
 ## Intro
 ETH is money, Ethereum is a State, dApps are public utilities; we are global citizens.
 
