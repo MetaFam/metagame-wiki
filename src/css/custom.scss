@@ -762,15 +762,15 @@ h1 {
     // }
     .search-bar {
         width: 300px;
-        max-width: 20px;
+        max-width: 100px;
 
         &:hover,
         &:focus {
-            max-width: 130px;
+            max-width: 300px;
         }
 
         @media (min-width: 760px) {
-            max-width: 105px;
+            max-width: 150px;
 
             &:hover,
             &:focus {
