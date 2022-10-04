@@ -1,4 +1,3 @@
-
 ---
 title: 📖 MetaManifesto
 ---
@@ -63,5 +62,5 @@ Simply, it is time.
 
 ## Join The Fight
 
-We are building the future we want to live in. 
+We are building the future we want to live in.
 For that, we are looking for people with a burning desire to change the course of history.

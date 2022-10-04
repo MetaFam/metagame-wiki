@@ -1,11 +1,10 @@
-
 ---
 title: 💪 Join The 300 of MetaGame
 image: https://i.imgur.com/koHACMO.png
 ---
 
 ![](https://i.imgur.com/koHACMO.png)
-_The 300 of MetaGame_ are a small army bringing MetaGame to life. 
+_The 300 of MetaGame_ are a small army bringing MetaGame to life.
 
 *The 300* are made up of Players & Patrons; 150 of those building MetaGame and 150 of those [watering Seeds](https://metagame.wtf/seeds).
 
