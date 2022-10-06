@@ -7,7 +7,8 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "serve build/",
-    "build:serve": "docusaurus build && serve build/"
+    "build:serve": "docusaurus build && serve build/",
+    "build:deploy": "docusaurus build && fleek site:deploy"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.7",

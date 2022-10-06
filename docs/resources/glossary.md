@@ -34,7 +34,7 @@ See [Wikipedia](https://wikipedia.org/wiki/Doughnut_(economic_model))
 
 ## ZenHub
 
-An upgraded interface for Github, it provides a much more comprehensive suite of project management tools. 
+An upgraded interface for Github, it provides a much more comprehensive suite of project management tools.
 
 See [ZenHub](https://www.zenhub.com/)
 
@@ -138,15 +138,15 @@ See [Patron Path](https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5
 
 ## MetaFam
 
-A global family tied by ideas & ideals rather than blood-ties. A movement spanning across nations & borders, united by the goal of building MetaGame. 
+A global family tied by ideas & ideals rather than blood-ties. A movement spanning across nations & borders, united by the goal of building MetaGame.
 
-See [MetaFam in the MetaManifesto](/docs/wtf-is-metagame/metamanifesto).
+See [MetaFam in the MetaManifesto](/wtf-is-metagame/metamanifesto).
 
 ## Ranks
 
 Ranks are a way of distinguishing top contributors to MetaGame. They don't determine much in terms of roles but will allow for some bragging rights & perks. Top 56 Players of MetaGame are ranked in 5 leagues: Diamond, Platinum, Golden, Silver & Bronze.
 
-See [Become a Founder of MetaGame](https://wiki.metagame.wtf/docs/how-does-it-work/become-a-founder-of-metagame) & [Ranked Founder Perks](https://www.notion.so/Ranked-Founder-Perks-aaf4b12eb31c4eba94e145c1e9f9a39f)
+See [Become a Founder of MetaGame](https://wiki.metagame.wtf/how-does-it-work/become-a-founder-of-metagame) & [Ranked Founder Perks](https://www.notion.so/Ranked-Founder-Perks-aaf4b12eb31c4eba94e145c1e9f9a39f)
 
 ## The 300 of MetaGame
 
@@ -192,7 +192,7 @@ See [Phases of MetaGame](https://wiki.metagame.wtf/docs/how-does-it-work/phases-
 
 ## MetaSys
 
-MetaSys is a system for building decentralized organizations we've pioneered over the past two years. For building action-driven DAOs rather than DAOs driven by whales voting on grant proposals. 
+MetaSys is a system for building decentralized organizations we've pioneered over the past two years. For building action-driven DAOs rather than DAOs driven by whales voting on grant proposals.
 
 Its comprised of 3 components; SourceCred for accounting for contributions, a token minting mechanism & an automated-market maker.
 
@@ -242,7 +242,7 @@ See [Fork The World](https://metagame.substack.com/p/fork-the-world-hackathon)
 
 ## MetaFest
 
-MetaFest was MetaGame's first festival. "A bit of a conference, a bit of a hackathon & a shitload of fun"; it was a month-and-a-half long event, featuring a week of socialising through concerts & playing games, a week of talks about crypto & world-improving in general, a week of workshops & 3 weeks of hacking. 
+MetaFest was MetaGame's first festival. "A bit of a conference, a bit of a hackathon & a shitload of fun"; it was a month-and-a-half long event, featuring a week of socialising through concerts & playing games, a week of talks about crypto & world-improving in general, a week of workshops & 3 weeks of hacking.
 
 ## MetaFam Alignment
 

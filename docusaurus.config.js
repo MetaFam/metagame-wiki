@@ -27,6 +27,9 @@ module.exports = {
         src: "img/mg-crystal.png",
       },
     },
+    search: {
+      placeholder: "Search the Wiki",
+    }
   },
   presets: [
     [
@@ -34,6 +37,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/",
           editUrl: "https://wiki.metagame.wtf/admin/#/?",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
@@ -45,7 +49,11 @@ module.exports = {
     ],
   ],
   plugins: [
-    require.resolve("docusaurus-lunr-search"),
+    [require.resolve("docusaurus-lunr-search"),
+      {
+        indexBaseUrl: true
+      }
+    ],
     require.resolve("docusaurus-plugin-sass"),
     "docusaurus2-dotenv",
     [
@@ -53,15 +61,25 @@ module.exports = {
       {
         redirects: [
           {
-            to: '/docs/', // string
-            from: ['/docs/home/'], // string | string[]
+            to: '/', // string
+            from: ['/docs'], // string | string[]
           },
           {
-            to: '/docs/', // string
+            to: '/', // string
             from: ['/docs/wtf-is-metagame/wtf-is-metagame'], // string | string[]
           }
         ],
       },
     ],
   ],
+  // scripts: [
+  //   {
+  //     src: "./static/lib/header-vanilla.js",
+  //     // async: true,
+  //     defer: true,
+  //   },
+  // ],
+  clientModules: [
+    require.resolve('./src/lib/header.js'),
+  ]
 };
