@@ -1,7 +1,7 @@
-
 ---
 title: 📈 House of DeFiance
 ---
+
 <details>
 <summary>Wait, WTF is DeFi? 🤔</summary>
 <br />
