@@ -1,4 +1,3 @@
-
 ---
 title: 🎨 House of NFTs
 ---
