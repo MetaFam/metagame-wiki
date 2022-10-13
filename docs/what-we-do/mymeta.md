@@ -34,6 +34,8 @@ Here’s what the player cards *currently* look like:
 	- Skills
 	- DAOhaus DAO & guild memberships
 	- NFTs
+	- Custom backgrounds
+	- Meetwithwallet
 
 [Check the live version of MyMeta profiles here.](https://my.metagame.wtf/players)
 
