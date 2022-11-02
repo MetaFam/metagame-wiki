@@ -22,7 +22,7 @@ You can skip the queue by joining as a Patron instead!
 - Water our seeds by depositing WETH [here](https://pools.balancer.exchange/#/pool/0xea05a15dbce2eb543ffda16950e95b2bd2e40d0e/)(Make sure you deposit enough WETH to generate 8 pSEEDs.)
 - Enter [here](https://discord.gg/Es8SF5M8RF) & click "Let's Go!", this will redirect you to collabland to link your wallet to the discord. (Ensure the wallet you are connecting is the one holding your 8 pSEEDS.)
 
-Want a more in-depth guide to doing this? Check the [Patrons Path](https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5e855).
+Want a more in-depth guide to doing this? Check the [Patrons Path](https://www.notion.so/Patron-Path-v2-ac47732998be469da44657f6cdbe6c22).
 
 ## Join as a Guild
 We are currently not accepting new guilds into MetaGame & the list of candidates to join next is long. Want your project to be considered a candidate for the next batch of *Guilds of MetaGame*? Join as a player or a patron now, shill your project & make some friends.
