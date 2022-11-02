@@ -134,7 +134,7 @@ See [Guilds of MetaGame](https://my.metagame.wtf/guilds)
 
 Patrons are people who are too busy to support MetaGame by building it. Instead, they are buying, planting & holding Seeds that Players produce.
 
-See [Patron Path](https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5e855)
+See [more here]([https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5e855](https://metagame.wtf/join/patron))
 
 ## MetaFam
 
@@ -146,7 +146,7 @@ See [MetaFam in the MetaManifesto](/wtf-is-metagame/metamanifesto).
 
 Ranks are a way of distinguishing top contributors to MetaGame. They don't determine much in terms of roles but will allow for some bragging rights & perks. Top 56 Players of MetaGame are ranked in 5 leagues: Diamond, Platinum, Golden, Silver & Bronze.
 
-See [Become a Founder of MetaGame](https://wiki.metagame.wtf/how-does-it-work/become-a-founder-of-metagame) & [Ranked Founder Perks](https://www.notion.so/Ranked-Founder-Perks-aaf4b12eb31c4eba94e145c1e9f9a39f)
+See [Become a Founder of MetaGame](https://wiki.metagame.wtf/how-does-it-work/become-a-founder-of-metagame)
 
 ## The 300 of MetaGame
 
