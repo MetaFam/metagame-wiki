@@ -56,6 +56,7 @@ module.exports = {
       "playbooks/how-to-git-on-github-non-builder",
       "playbooks/how-to-build-a-network-for-impact",
       "playbooks/handling-fomo-in-web3",
+      "playbooks/mgxp-metagame-experience-points",
     ],
   },
 };
