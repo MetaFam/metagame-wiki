@@ -4,7 +4,7 @@ description: 'This Playbook focuses on how XP works in MetaGame and how to earn 
 image: https://i.imgur.com/W3MNipm.jpg
 ---
 
-by @Maxwe11
+by [@Maxwe11](https://metagame.wtf/player/maxwe11)
 
 <details>
 <summary>🤔 Wait, WhoTF is @Maxwe11!?</summary>
