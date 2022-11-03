@@ -134,7 +134,7 @@ See [Guilds of MetaGame](https://my.metagame.wtf/guilds)
 
 Patrons are people who are too busy to support MetaGame by building it. Instead, they are buying, planting & holding Seeds that Players produce.
 
-See [more here]([https://www.notion.so/Patron-Path-1db90c8bb4c84398a6fe1f672ea5e855](https://metagame.wtf/join/patron))
+See [more here](https://metagame.wtf/join/patron)
 
 ## MetaFam
 
