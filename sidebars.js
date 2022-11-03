@@ -57,6 +57,7 @@ module.exports = {
       "playbooks/how-to-build-a-network-for-impact",
       "playbooks/handling-fomo-in-web3",
       "playbooks/mgxp-metagame-experience-points",
+      "playbooks/New-Economy-Run-By-DAOs",
     ],
   },
 };
