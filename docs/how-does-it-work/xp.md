@@ -15,6 +15,8 @@ Wait, you leave all the value allocation to an algorithm? 😱
 
 Of course not! Although it *does* do a pretty damn good job, we regularly review the numbers to make amends for what’s missing or isn’t properly accounted for.
 
+Want to dig deeper? Read all about how XP is calculated in the [XP Playbook](https://wiki.metagame.wtf/playbooks/mgxp-metagame-experience-points).
+
 ## **🌱 What about those Seeds?**
 
 Seeds are the *Phase I* token. It's sweat equity, its currency, it's whatever you want it to be. Once a month, players of MetaGame receive their Seed tokens.
