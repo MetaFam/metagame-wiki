@@ -39,6 +39,7 @@ module.exports = {
       'great-houses/how-to-house',
     ],
     "📚 Playbooks": [
+      "playbooks/how-to-install-wallet-get-gas",
       "playbooks/meme-driven-organizations",
       "playbooks/what-why-how-of-your-dao",
       "playbooks/guilding-101",

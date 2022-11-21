@@ -26,6 +26,5 @@ package-lock.json
 
 .idea
 .vscode
-
-.fleek.json
 .vercel
+.fleek.json
