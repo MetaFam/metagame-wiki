@@ -73,7 +73,7 @@ Once you've got the browser extension installed, you'll want to create a new wal
 
   MetaMask recommend saving your seed phrase to a password manager; I do not - the only medium a seed phrase should be stored on is paper...or metal plate if you have the means. Then hide it somewhere safe and never share the phrase or location with anyone. Anyone asking for your phrase is 100% trying to scam you. *Don't lose this phrase either* or you will lose your funds.
 
-6. Now we want to reveal your seed phrase so we can back it up!
+6. Now you want to reveal your seed phrase so you can back it up! Make sure no-one can see your screen when you do this.
 
   ![](/img/2022-11-20-19-14-44.png)
 
