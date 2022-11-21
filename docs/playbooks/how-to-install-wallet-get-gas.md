@@ -12,7 +12,7 @@ If you want to do anything in Web3, you'll need a wallet and you'll also want so
 
 Web3 wallets are essential to access the Web3 space, DeFi, and crypto. You might have stumbled upon the words ”Web3” or ”crypto wallet”. If you’re new to the space, let us first answer the question ”what is a Web3 wallet?”.
 
-First of all, Web3 wallets are essentially digital wallets. As such, they have the ability to store digital assets. This includes everything from fungible to non-fungible (NFTs) tokens. Second, a Web3 wallet also opens the door to the crypto realm, allowing you to interact with dApps on various blockchains. In turn, wallets help you access an extensive ecosystem of dApps.
+Web3 wallets are basically digital wallets; they have the ability to store digital assets and allow you to interact with those assets. A Web3 wallet is also the gateway to the crypto realm, allowing you to interact with dApps on many different blockchains. They can also be your login and identity in Web3. Pretty amazing really!
 
 Read more about them [on this post](https://moralis.io/what-is-a-web3-wallet-web3-wallets-explained/)
 </details>
@@ -23,12 +23,13 @@ Read more about them [on this post](https://moralis.io/what-is-a-web3-wallet-web
 Gas is what fuels blockchains...it is a cryptocurrency token (usually the native token to any given blockchain) which is used to pay for transaction fees - a bit like how banks charge you to transfer funds or a credit card company charges users or merchants to use their services, except with blockchains, the recipients of the fees aren't corporations or bankers but people like you and I who commit to securing the network by either 'proof of stake' or 'proof of work' - [more info on these here](https://www.coinbase.com/learn/crypto-basics/what-is-proof-of-work-or-proof-of-stake).
 </details>
 
-What you'll need:
-- Web broswer (ideally Brave or Chrome)
-- Internet connection
-- Pen and some paper
-- A good hiding place
+### Things you'll need
+
+To follow along, you will want the following:
 - Desktop or Mobile device
+- Web broswer (ideally Brave or Chrome) - Firefox can use MetaMask but the extension is not an official release (use at your own risk)
+- Internet connection
+- A pen, some paper and a good hiding place
 - Twitter account (for claiming free gas money)
 
 There are a bunch of web3 wallets to chose from but probably the best place to start is Metamask - while it is not the best, it has been the defacto wallet for quite a while and as of writing, is probably the best supported wallet in Web3.
@@ -62,7 +63,6 @@ Once you've got the browser extension installed, you'll want to create a new wal
 4. Before we create a wallet, we need to secure it with a password. For more info on Metamask & passwords, read this [help article](https://metamask.zendesk.com/hc/en-us/articles/4405451730331-Passwords-and-MetaMask)
 
   ![](/img/2022-11-20-18-48-36.png)
-
 
 
 5. *Make sure to watch, read & understand the info on the next page*
@@ -114,20 +114,34 @@ Now we have a wallet installed, we want to add Polygon support to our MetaMask. 
 
     ![](/img/2022-11-20-21-44-19.png)
 
-### Gettin on the gas
-Before you can do anything in Web3, you'll need some gas. Gas is a token that pays for trensactions on the blockchain. On Ethereum, Ether or ETH is the native token and is what we use to pay for transactions on the Ethereum network. Similarly, MATIC is the native token for Polygon and thus is used to pay for gas when transacting on Polygon. The next steps will take you through the process of obtaining a small amount of these tokens for free so you can get started.
+### Gettin' on the gas
+Before you can do anything in Web3, you'll need some gas. Gas is a token that pays for transactions on the blockchain. On Ethereum, Ether or ETH is the native token and is what we use to pay for transactions on the Ethereum network. Similarly, MATIC is the native token for Polygon and thus is used to pay for gas when transacting on Polygon. The next steps will take you through the process of obtaining a small amount of these tokens for free so you can get started.
 
 ### Fun with a faucet
 Now we have Polygon added to our MetaMask, let's use a *faucet* to obtain a small amount of free tokens to pay gas fees. Of course, you could buy some tokens via MetaMask, using your debit card, or purchase tokens via an exchange and send to MetaMask but that is beyond the scope of this playbook.
 
-For MATIC tokens on Polygon, head to the [Stakely.io Polygon Faucet](https://stakely.io/en/faucet/polygon-matic) and paste your wallet address, complete the reCaptcha and click 'Verify'. You'll then be asked to make a tweet which helps to prevent mis-use & premature draining of the faucet.
-![](/img/2022-11-21-12-19-10.png)
+1. For MATIC tokens on Polygon, head to the [Stakely.io Polygon Faucet](https://stakely.io/en/faucet/polygon-matic)
 
-Once you've hit 'Tweet', confirm the Fair Usage popup and follow the instructions.
-![](/img/2022-11-21-12-25-03.png)
+  Copy your wallet address from MetaMask by clicking the address under 'Account 1'.
 
-Once you've made your tweet, the faucet verifies your tweet and in a few moments, check your MetaMask account and you'll see your MATIC balance update.
-![](/img/2022-11-21-12-35-01.png)
-![](/img/2022-11-21-12-38-05.png)
+  ![](/img/2022-11-21-14-42-10.png)
 
-Congratulations, you now have some Matic and could head over to [The Onboarding Game](https://metagame.wtf/onboarding) and earn your first NFT.
+2. Then paste your wallet address, complete the reCaptcha and click 'Verify'.
+
+  ![](/img/2022-11-21-12-19-10.png)
+
+3. You'll then be asked to make a tweet which helps to prevent mis-use & premature draining of the faucet.
+
+  ![](/img/2022-11-21-14-45-54.png)
+
+4. Once you've hit 'Tweet', confirm the Fair Usage popup and follow the instructions.
+
+  ![](/img/2022-11-21-12-25-03.png)
+
+5. Once you've made your tweet, the faucet verifies your tweet and in a few moments, check your MetaMask account and you'll see your MATIC balance update.
+
+  ![](/img/2022-11-21-12-35-01.png)
+
+  ![](/img/2022-11-21-12-38-05.png)
+
+  Congratulations, you now have some Matic and could head over to [The Onboarding Game](https://metagame.wtf/onboarding) and earn your first NFT.
