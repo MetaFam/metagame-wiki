@@ -27,15 +27,15 @@ Gas is what fuels blockchains...it is a cryptocurrency token (usually the native
 
 To follow along, you will want the following:
 - Desktop or Mobile device
-- Web broswer (ideally Brave or Chrome) - Firefox can use MetaMask but the extension is not an official release (use at your own risk)
+- Web browser (ideally Brave or Chrome) - Firefox can use MetaMask but the extension is not an official release (use at your own risk)
 - Internet connection
 - A pen, some paper and a good hiding place
 - Twitter account (for claiming free gas money)
 
-There are a bunch of web3 wallets to chose from but probably the best place to start is Metamask - while it is not the best, it has been the defacto wallet for quite a while and as of writing, is probably the best supported wallet in Web3.
+There are a bunch of web3 wallets to chose from but the easiest and most common place to start is Metamask - while it is not the best, it has been the defacto wallet for quite a while and as of writing, is probably the best supported wallet in Web3.
 
 ## 1. Download & Install MetaMask
-Head to [metamask.io](https://metamask.io) and install the browser extension - *make absolutely certain that the URL in your browser is what you expect (https://metamask.io)* - *this goes for every single Web3 website & dApp you visit from this day forwards.* ***Don't trust, verify!***
+Head to [metamask.io](https://metamask.io) and install the browser extension - *make absolutely certain that the URL in your browser is what you expect (ie. https://metamask.io)* - *this goes for every single Web3 website & dApp you visit from this day forwards.* ***Don't trust, verify!***
 
   ![](/img/2022-11-21-14-02-02.png)
 
@@ -56,11 +56,11 @@ Once you've got the browser extension installed, you'll want to create a new wal
 
   ![](/img/2022-11-20-18-43-29.png)
 
-3. Next and as you're here reading this playbook, we assume you want to "Create a wallet" to set up a fresh wallet.
+3. Next and as you're here reading this playbook, we assume you want to set up a fresh wallet. Click "Create a wallet".
 
   ![](/img/2022-11-20-18-46-06.png)
 
-4. Before we create a wallet, we need to secure it with a password. For more info on Metamask & passwords, read this [help article](https://metamask.zendesk.com/hc/en-us/articles/4405451730331-Passwords-and-MetaMask)
+4. Before creating a wallet, we need to secure MetaMask with a password. Coose one that is more than 8 characters long. For more info on Metamask & passwords, read this [help article](https://metamask.zendesk.com/hc/en-us/articles/4405451730331-Passwords-and-MetaMask)
 
   ![](/img/2022-11-20-18-48-36.png)
 
@@ -71,14 +71,14 @@ Once you've got the browser extension installed, you'll want to create a new wal
 
   ![](/img/2022-11-20-19-15-25.png)
 
-  MetaMask recommend saving your seed phrase to a password manager; I do not - the only medium a seed phrase should be stored on is paper...or metal plate if you have the means. Then hide it somewhere safe and never share the phrase or location with anyone. Anyone asking for your phrase is 100% trying to scam you. *Don't lose this phrase either* or you will lose your funds.
+  MetaMask recommend saving your seed phrase to a password manager; I do not - the only medium a seed phrase should be stored on is paper...or metal plate if you have the means. Then hide it somewhere safe and never share the phrase or location with anyone. Anyone asking for your phrase is 100% trying to scam you. *Don't lose this phrase either or you will lose your funds*.
 
-6. Now you want to reveal your seed phrase so you can back it up! Make sure no-one can see your screen when you do this.
+6. Now you want to reveal your seed phrase so you can back it up! *Make sure no-one can see your screen when you do this*.
 
   ![](/img/2022-11-20-19-14-44.png)
 
   > ⚠️ **Remember step 5!** ⚠️
-  > **Do not copy/paste the phrase**. **Do not take a photo of it**. *Only write it onto a slip of paper and ensure to keep in a safe place*.
+  > **Do not copy/paste the phrase**. **Do not take a photo of it**. *Only write it onto a slip of paper and ensure to keep it in a safe place*.
 
   Once you've copied the words down, click 'Next' and confirm the phrase on the next page by selecting the words in the correct order.
 
