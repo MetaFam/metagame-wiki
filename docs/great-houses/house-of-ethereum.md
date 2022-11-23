@@ -138,8 +138,8 @@ There are a bunch of wallets to choose from. **Your decision will mainly depend 
 Layer 2 is a collective term for solutions designed to help scale your application by handling transactions off the main Ethereum chain (layer 1). 
 
 - What is [layer 2?](https://ethereum.org/en/layer-2/)  
-- Check out the [House of L2s](https://wiki.metagame.wtf/great-houses/house-of-L2s)
-- Follow this Playbook to [configure Polygon for MetaMask and get some gas](metagame-wiki/docs/playbooks/how-to-install-wallet-get-gas.md) then explore and interact with dApps on Polygon. Such as [our liquidity pool.](https://app.balancer.fi/#/polygon/pool/0x8a8fcd351ed553fc75aecbc566a32f94471f302e000100000000000000000081)
+- Check out the [House of L2s and Sidechains](https://wiki.metagame.wtf/great-houses/house-of-L2s)
+- Follow this Playbook to [configure Polygon for MetaMask and get some gas](metagame-wiki/docs/playbooks/how-to-install-wallet-get-gas.md) then explore and interact with dApps on Polygon. Such as [our liquidity pool. 🌱](https://app.balancer.fi/#/polygon/pool/0x8a8fcd351ed553fc75aecbc566a32f94471f302e000100000000000000000081)
 
 
 
