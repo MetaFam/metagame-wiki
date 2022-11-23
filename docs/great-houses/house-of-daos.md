@@ -52,9 +52,10 @@ These are the frameworks for launching DAOs on the Ethereum network:
 - **[Puzzle](https://www.getpuzzle.xyz/)** - Build a real collaboration space for contributors, connected to your Discord.
 
 ### Contribution accounting
-- **[Sourcecred](https://sourcecred.io/)** - A tool for communities to measure and reward value creation.
-- **[Coordinape](https://coordinape.com/)** - Scale your community with tools to reward contributors, incentivize participation and manage resources
+- **[Sourcecred](https://sourcecred.io/)** - A tool for communities to measure and reward value creation.  MetaGame has been experimenting for some time.
+- **[Coordinape](https://coordinape.com/)** - Scale your community with tools to reward contributors, incentivize participation and manage resources.
 - **[Dish Praise](https://wiki.commonsstack.org/contributors-guide)** - The simplest tool for rewarding contributors.
+
 
 ### Treasury/salary management
 - **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet/treasury for DAOs.
@@ -109,17 +110,21 @@ Some of the DAOs with the purpose of funding projects in the Ethereum space coul
 A few more ways of getting some funds.
 
 - **[Gitcoin](https://gitcoin.co/grants/)** - Another route you could take is playing Gitcoin’s quadratic matching game. Read more about it [here](https://ethgasstation.info/blog/quadratic-funding-in-a-nutshell/).
-- **[Panvala](https://twitter.com/PanvalaHQ)** - _Panvala is the sustainable treasury for communities to share._
+- **[Panvala](https://twitter.com/PanvalaHQ)** - Panvala is the sustainable treasury for communities to share.
 - **[Free Company](https://freecompany.capital/)** - Free Company is a syndicate of experienced Web3 builders investing empathy-driven capital into early-stage blockchain projects.
-- **[fair launch capital](https://www.fairlaunch.capital/)** - The Fair Launch enables founders to leverage existing networks to bootstrap distribution and build long-term, highly engaged, collaborative communities.
+- **[Fair launch capital](https://www.fairlaunch.capital/)** - The Fair Launch enables founders to leverage existing networks to bootstrap distribution and build long-term, highly engaged, collaborative communities.
+- **[Giveth.io](https://giveth.io/projects)** - For-good projects creating value for society and the environment
+- **[Mirror.xyz](https://mirror.xyz/)** - Start a crowdfunding campaign on Mirror.
 
 ## 📅Events
 
-Afaik the only DAO events there are in this space.
+There are a growing number of DAO events in this space.
 
 - **[DAO Rush Week](https://twitter.com/daorushweek)** - Happening once a quarter, DAO Rush Week is a must-attend event for anyone interested in DAO. All the DAOs from the Ethereum space and wider are summoned to present their missions, host parties & initiate new members.
 - **[DAO Haus Party](https://forum.daohaus.club/t/daohaus-live-streams-publications/158)** - DAOHaus Live Streams; go through the DAOHaus Discord if you want to participate.
 - **[Fork The World](https://forktheworld.wtf/)** - Our hackathon for people building DAOs, technologies & knowledge around decentralized organizing. Happening once a year.
+- **[MetaFest2](https://metafest.metagame.wtf/)** - The second year of MetaFest following Fork the World.  Coming soon next year IRL
+- **[The Daoist](https://www.thedaoist.co/)** - Organizing conferences and more around the world
 
 ## 🗨️Forums
 
