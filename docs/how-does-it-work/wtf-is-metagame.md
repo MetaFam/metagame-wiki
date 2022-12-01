@@ -1,11 +1,7 @@
 ---
 title: 🤨 WTF is MetaGame?
-image: https://i.imgur.com/N7eJluF.png
+image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43b8522a-6906-424e-ac28-a258e971f8dc_1191x621.png
 ---
-
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3de0ea98-cde2-4463-bc46-528062dd147d_608x608.png)
-
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3de0ea98-cde2-4463-bc46-528062dd147d_608x608.png)
 
 ## 👉 Intro[​](https://wiki.metagame.wtf/how-does-it-work/wtf-is-metagame#intro)
 
@@ -16,13 +12,9 @@ What drew us together is the idea that Ethereum is a critical piece of technolog
 We’ve been using it to create better money and build decentralized financial systems, applications & organizations.
 
 -   Overall, for fairer, more decentralized & transparent societies
-    
 -   Societies that make it hard to centralize power & take advantage of the masses
-    
 -   Societies where individuals are empowered to act & make a difference rather than being told what to do as cogs in a machine that is beyond their understanding
-    
 -   …
-    
 -   It’s hard to overstate the potential of this technology.
     
 
@@ -31,7 +23,6 @@ Unfortunately, this technology is also hard to understand & the space is full of
 We’re not doing a great job at showing the potential beyond _numba-go-up_ and people have a hard time joining the space as active contributors & builders rather than just speculators. 😬
 
 -   We can use it to change the game of life,
-    
 -   But we won’t, unless we make it easier & more fun. 🤷‍♂️
     
 
