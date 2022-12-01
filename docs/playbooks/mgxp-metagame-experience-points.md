@@ -60,4 +60,4 @@ Nope! Reactions are weighted different based both on your role and the emoji.
 
 ## Where can I see how much XP I've earned?
 
-You have a few different ways to track your XP. The simplest way is to check out your MyMeta profile, your XP is listed there. If you want to dig a little deeper, you can look directly at the [Sourcecred](https://xp.metagame.wtf/#/explorer) instance, or dig in with this handy [explorer](https://observablehq.com/@dysbulic/metagame-contributions-explorer) that @dysbulic built. 
+You have a few different ways to track your XP. The simplest way is to check out your MyMeta profile, your XP is listed there. If you want to dig a little deeper, you can look directly at the [Sourcecred instance](https://xp.metagame.wtf/#/explorer), or dig in with this handy [explorer](https://observablehq.com/@dysbulic/metagame-contributions-explorer) that @dysbulic built. 
