@@ -3,6 +3,8 @@ title: 🤨 WTF is MetaGame?
 image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43b8522a-6906-424e-ac28-a258e971f8dc_1191x621.png
 ---
 
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43b8522a-6906-424e-ac28-a258e971f8dc_1191x621.png)
+
 ## 👉 Intro[​](https://wiki.metagame.wtf/how-does-it-work/wtf-is-metagame#intro)
 
 > _**“Metagame**, or **game about the game**, is any approach to a game that transcends or operates outside of the prescribed rules of the game, uses external factors to affect the game, or goes beyond the supposed limits or environment set by the game.”_
